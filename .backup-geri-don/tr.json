@@ -1,0 +1,301 @@
+{
+  "meta": {
+    "title": "Önizler Vakfı",
+    "description": "Eğitim, kültür ve sosyal dayanışma alanında bireyleri güçlendirmek, kültürel mirası yaşatmak ve toplumsal eşitliği desteklemek."
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "areas": "Çalışma Alanları",
+    "volunteer": "Gönüllü Ol",
+    "scholarship": "Burs Başvurusu",
+    "news": "Haberler",
+    "transparency": "Şeffaflık",
+    "contact": "İletişim",
+    "donate": ""
+  },
+  "hero": {
+    "title": "Bir Ailenin Sözü, Topluma Mirası",
+    "subtitle": "Eğitim, kültür ve sosyal dayanışma alanında bireyleri güçlendirmek için yola çıktık. 24 aile ferdi, tek bir amaç.",
+    "cta_volunteer": "Gönüllü Ol",
+    "cta_about": "Hakkımızda",
+    "explore": "Keşfet",
+    "about_label": "Hakkımızda",
+    "about_heading": "Bir Ailenin Gücü,\nToplumun Umudu",
+    "about_p1": "Öniz ailesi, nesiller boyunca birlik ve dayanışmanın gücüne inandı. 2025 yılında 24 aile ferdi bir araya gelerek Önizler Vakfı'nı kurdu.",
+    "about_p2": "Eğitimden kültüre, dijital dönüşümden sosyal dayanışmaya 9 farklı alanda faaliyet göstermeyi amaçlıyoruz.",
+    "about_cta": "Hikayemizi Keşfet",
+    "stats_label": "Rakamlarla",
+    "areas_label": "Faaliyet Alanları",
+    "banner_location": "Ankara, Türkiye",
+    "banner_text": "2025'ten Geleceğe",
+    "join_label": "Katılın",
+    "founder_member": "Kurucu Üye",
+    "est_label": "Kuruluş 2025 — Ankara",
+    "quote_text": "Elimizdeki imkânı, en çok ihtiyacı olan insanlara nasıl ulaştırabiliriz?",
+    "quote_role": "Kurucu Başkan"
+  },
+  "mission_banner": {
+    "text": "Eğitim, kültür ve sosyal dayanışma alanında bireyleri güçlendirmek, kültürel mirası yaşatmak ve toplumsal eşitliği desteklemek."
+  },
+  "stats": {
+    "title": "Rakamlarla Önizler Vakfı",
+    "areas": "Faaliyet Alanı",
+    "founders": "Kurucu Aile Ferdi",
+    "capital": "Kuruluş Sermayesi",
+    "capital_value": "2M ₺"
+  },
+  "focus_areas": {
+    "title": "Çalışma Alanlarımız",
+    "subtitle": "Tüzüğümüzde tanımlanan 9 faaliyet alanında projeler geliştiriyor, hayata geçiriyor ve sürdürülebilir etki yaratıyoruz.",
+    "learn_more": "Detaylı Bilgi",
+    "cta_title": "Siz de Bu Yolculuğa Katılın",
+    "cta_text": "Bu alanlarda gönüllü olarak katkıda bulunabilir veya burs programımıza başvurabilirsiniz.",
+    "cta_volunteer": "Gönüllü Ol",
+    "cta_scholarship": "Burs Başvurusu",
+    "stats_areas": "Faaliyet Alanı",
+    "stats_founders": "Kurucu Üye",
+    "stats_capital": "Sermaye",
+    "areas": {
+      "education": {
+        "title": "Eğitim Kurumları",
+        "short": "Okul, yurt ve meslek kursları kurarak eğitimin her kademesinde bireylerin yanında duruyoruz.",
+        "description": "Eğitim, toplumsal dönüşümün en güçlü aracıdır. Orta ve yükseköğretim kurumları, meslek kursları ve yurtlar kurarak eğitim altyapısını güçlendirmeyi hedefliyoruz."
+      },
+      "scholarship": {
+        "title": "Burs & Akademik Teşvik",
+        "short": "İhtiyaç sahibi öğrencilere burs, staj ve mesleki gelişim fırsatları sunuyoruz.",
+        "description": "Her yetenekli öğrenci eğitim fırsatına hak eder. Ekonomik koşulların eğitimin önüne geçmemesi için burs programları, staj olanakları ve mesleki gelişim seminerleri düzenliyoruz."
+      },
+      "culture": {
+        "title": "Kültür & Sanat",
+        "short": "Festival, sergi ve konserlerden müze ve kültür merkezlerine — kültürel mirasımızı yaşatıyoruz.",
+        "description": "Kültür, bir toplumun kimliğidir. Somut ve somut olmayan kültürel mirasımızı korumak, geliştirmek ve gelecek nesillere aktarmak için ulusal ve uluslararası düzeyde etkinlikler düzenliyoruz."
+      },
+      "solidarity": {
+        "title": "Sosyal Dayanışma",
+        "short": "Dezavantajlı bireylere sosyal destek programları, acil yardım ve rehabilitasyon hizmetleri sunuyoruz.",
+        "description": "Kimsenin geride kalmaması için çalışıyoruz. Eğitim, sağlık, barınma ve istihdam konularında dezavantajlı gruplara yönelik kapsamlı destek programları geliştiriyoruz."
+      },
+      "international": {
+        "title": "Uluslararası İş Birlikleri",
+        "short": "AB, BM ve uluslararası kuruluşlarla ortak projeler geliştirerek küresel ölçekte etki yaratıyoruz.",
+        "description": "Tek başına değil, birlikte daha güçlüyüz. Eğitim, kültür ve sosyal dayanışma alanlarında ulusal ve uluslararası kuruluşlarla stratejik ortaklıklar kurarak etkimizi büyütüyoruz."
+      },
+      "digital": {
+        "title": "Dijital Eğitim & Teknoloji",
+        "short": "Yapay zeka, AR/VR ve uzaktan eğitim platformlarıyla eğitimi geleceğe taşıyoruz.",
+        "description": "Dijital çağda eğitim sınırları aşar. Uzaktan eğitim platformları, yapay zeka destekli öğrenme ortamları ve dijital kütüphanelerle eğitimi herkes için erişilebilir kılmayı hedefliyoruz."
+      },
+      "research": {
+        "title": "Bilimsel Araştırma & Yayıncılık",
+        "short": "Konferans, sempozyum ve yayınlarla bilimsel bilginin üretilmesine ve yayılmasına katkı sağlıyoruz.",
+        "description": "Bilimsel araştırma, sürdürülebilir kalkınmanın temelidir. Araştırma projelerini destekleyerek, yayınlar çıkararak ve bilimsel etkinlikler düzenleyerek bilgi üretimine katkı sağlıyoruz."
+      },
+      "social_services": {
+        "title": "Sosyal Hizmetler",
+        "short": "Sağlık taraması, psikososyal destek ve mesleki rehabilitasyonla toplumun en kırılgan kesimlerini destekliyoruz.",
+        "description": "İnsanın temel ihtiyaçlarını karşılamak, en öncelikli sorumluluğumuzdur. Dezavantajlı kesimlere yönelik kapsamlı ve sürdürülebilir sosyal hizmetler sunuyoruz."
+      },
+      "construction": {
+        "title": "Sosyal Alan İnşası",
+        "short": "Kültür merkezi, spor tesisi, ekolojik park ve sosyal yaşam alanları inşa ediyoruz.",
+        "description": "Fiziksel mekanlar, toplumsal yaşamın altyapısını oluşturur. Herkesin erişebileceği, sürdürülebilir ve kapsayıcı sosyal alanlar inşa ederek toplumsal gelişime katkı sağlıyoruz."
+      }
+    }
+  },
+  "cta_section": {
+    "title": "Bu yolculuğa siz de katılın.",
+    "subtitle": "Her gönüllü bir toplumu güçlendirir. Her adım bir geleceğe dokunur.",
+    "volunteer": "Gönüllü Ol",
+    "scholarship": "Burs Başvurusu"
+  },
+  "about": {
+    "hero_title": "Hikayemiz",
+    "hero_subtitle": "Bir Ailenin Sözü, Topluma Mirası",
+    "story_p1": "Öniz ailesi, nesiller boyunca birlik ve dayanışmanın gücüne inandı. Bu inanç, aile büyüklerinden gençlerine aktarılan bir değer olarak yaşadı — ta ki 2025 yılında somut bir adıma dönüşene kadar.",
+    "story_p2": "1 Ekim 2025'te, Ankara'da 24 aile ferdi bir araya geldi. Farklı yaşlardan, farklı mesleklerden, ama ortak bir soruyla: \"Elimizdeki imkânı, en çok ihtiyacı olan insanlara nasıl ulaştırabiliriz?\"",
+    "story_p3": "Bu sorunun cevabı ÖNİZLER VAKFI oldu.",
+    "story_p4": "2 milyon TL kuruluş sermayesiyle hayata geçen vakfımız, eğitimden kültüre, dijital dönüşümden sosyal dayanışmaya 9 farklı alanda faaliyet göstermeyi amaçlamaktadır.",
+    "story_p5": "Çünkü biz biliyoruz: bir aile birlikte durduğunda toplumlar güçlenir. ÖNİZLER VAKFI, bu güce olan inancımızın adıdır.",
+    "mission_title": "Misyonumuz",
+    "mission_text": "Eğitim, kültür ve sosyal dayanışma alanında bireyleri güçlendirmek, kültürel mirası yaşatmak ve toplumsal eşitliği desteklemek.",
+    "vision_title": "Vizyonumuz",
+    "vision_text": "Eğitimde fırsat eşitliği, kültürde zenginlik ve toplumda dayanışma ile herkesin potansiyelini gerçekleştirebildiği bir dünya.",
+    "values_title": "Değerlerimiz",
+    "values": {
+      "transparency": { "title": "Şeffaflık", "text": "Her kuruş hesap verilir. Faaliyet raporlarımız, mali tablolarımız ve bağış kullanım detaylarımız kamuya açıktır." },
+      "inclusivity": { "title": "Kapsayıcılık", "text": "Kadın, genç, engelli, dezavantajlı — din, dil, ırk, cinsiyet ayrımı gözetmeksizin herkese eşit fırsat sunarız." },
+      "sustainability": { "title": "Sürdürülebilirlik", "text": "Kısa vadeli yardım değil, kalıcı dönüşüm odaklı projeler geliştiririz." },
+      "heritage": { "title": "Aile Mirası", "text": "24 aile ferdi olarak kuşaklar arası bağımız, vakfımızın temelini oluşturur." },
+      "innovation": { "title": "Yenilikçilik", "text": "Yapay zeka, AR/VR gibi teknolojileri eğitim ve kültüre taşıyarak geleceği bugünden inşa ederiz." },
+      "collaboration": { "title": "İş Birliği", "text": "Kamu kurumları, üniversiteler, sivil toplum ve uluslararası kuruluşlarla ortaklıklar kurarız." }
+    },
+    "founder_title": "Kurucumuz",
+    "founder_name": "Merdan Öniz",
+    "founder_role": "Mütevelli Heyeti Başkanı & Vakıf Kurucusu",
+    "board_title": "Mütevelli Heyeti",
+    "board_subtitle": "Vakfımızın en üst karar organı olan Mütevelli Heyeti, 24 Öniz ailesi ferdinden oluşmaktadır.",
+    "management_title": "Yönetim Kurulu",
+    "management_subtitle": "Vakfımızın icra organı olan Yönetim Kurulu, faaliyetlerin yürütülmesinden sorumludur.",
+    "audit_title": "Denetim Kurulu",
+    "audit_subtitle": "Vakfımızın mali ve idari denetimini gerçekleştiren kuruldur.",
+    "legal_title": "Yasal Belgeler",
+    "legal_subtitle": "Bu bölümde vakfımızın yasal dayanağını oluşturan belgelere ulaşabilirsiniz.",
+    "label_mission_vision": "Misyon & Vizyon",
+    "label_mission": "Misyon",
+    "label_vision": "Vizyon",
+    "label_values": "Değerlerimiz",
+    "label_founder": "Kurucu",
+    "label_board": "Mütevelli Heyeti",
+    "label_management": "Yönetim Kurulu",
+    "label_audit": "Denetim",
+    "label_founders": "Kurucu",
+    "label_areas": "Alan",
+    "label_capital": "Milyon ₺",
+    "founder_desc_p1": "Merdan Öniz liderliğinde, Öniz ailesi nesiller boyunca birlik ve dayanışmanın gücüne inandı.",
+    "founder_desc_p2": "2025 yılında ailenin tüm fertlerini bir araya getirerek, topluma kalıcı bir değer bırakmak amacıyla Önizler Vakfı'nı kurdu.",
+    "label_est": "Kuruluş 2025 — Ankara",
+    "quote_text": "Bir aile birlikte durduğunda toplumlar güçlenir.",
+    "quote_attribution": "Önizler Ailesi"
+  },
+  "support": {
+    "hero_title": "Destek Ol",
+    "hero_subtitle": "Bir Hayatı Değiştirmenin En Kolay Yolu",
+    "intro": "Yapacağınız her bağış, bir öğrencinin eğitimine, bir ailenin umuduna, bir toplumun geleceğine dönüşür.",
+    "individual_title": "Bireysel Bağış",
+    "individual_text": "Dilediğiniz miktarı dilediğiniz zaman bağışlayabilirsiniz.",
+    "regular_title": "Düzenli Bağış",
+    "regular_text": "Aylık düzenli bağış ile sürdürülebilir destek sağlayın.",
+    "amounts": {
+      "100": "Bir öğrencinin kırtasiye masrafı",
+      "250": "Bir öğrencinin yemek gideri",
+      "500": "Bir öğrencinin burs desteği",
+      "1000": "Bir ailenin temel ihtiyaçları"
+    },
+    "corporate_title": "Kurumsal Sponsorluk",
+    "corporate_text": "Şirketinizin toplumsal sorumluluk hedeflerini Önizler Vakfı ile buluşturun.",
+    "inkind_title": "Ayni Bağış",
+    "inkind_text": "Eğitim materyalleri, giyim, gıda, ekipman veya profesyonel hizmet bağışlarınızı kabul ediyoruz.",
+    "bank_title": "Banka Hesap Bilgileri",
+    "bank_name": "ÖNİZLER VAKFI",
+    "tax_title": "Vergi Avantajı",
+    "tax_text": "Önizler Vakfı'na yapılan bağışlar, vergi matrahından indirilebilir.",
+    "contact_cta": "İletişime Geç"
+  },
+  "volunteer": {
+    "hero_title": "Gönüllü Ol",
+    "hero_subtitle": "Gücünüzü Paylaşın, Birlikte Değiştirelim",
+    "intro": "Zamanınız, bilginiz ve deneyiminiz bir topluluğu dönüştürebilir.",
+    "why_title": "Neden Gönüllü Olmalısınız?",
+    "reasons": [
+      "Topluma doğrudan katkı sağlarsınız",
+      "Yeni insanlarla tanışır, ağınızı genişletirsiniz",
+      "Farklı alanlarda deneyim kazanırsınız",
+      "Kendi potansiyelinizi keşfedersiniz",
+      "Anlamlı bir topluluğun parçası olursunuz"
+    ],
+    "areas_title": "Gönüllülük Alanları",
+    "areas": {
+      "education": { "title": "Eğitim Gönüllüsü", "text": "Mentorluk, ders desteği, kariyer rehberliği" },
+      "event": { "title": "Etkinlik Gönüllüsü", "text": "Festival, sergi, konferans organizasyonları" },
+      "field": { "title": "Saha Gönüllüsü", "text": "Yardım dağıtımı, afet müdahale, toplum çalışması" },
+      "digital": { "title": "Dijital Gönüllü", "text": "İçerik üretimi, sosyal medya, web, tasarım" },
+      "professional": { "title": "Profesyonel Gönüllü", "text": "Hukuk, muhasebe, pazarlama pro bono desteği" }
+    },
+    "form_title": "Gönüllü Başvuru Formu",
+    "form_name": "Ad Soyad",
+    "form_email": "E-posta",
+    "form_phone": "Telefon",
+    "form_city": "Şehir",
+    "form_profession": "Meslek / Uzmanlık Alanı",
+    "form_area": "İlgilendiğiniz gönüllülük alanı",
+    "form_time": "Haftalık ayırabileceğiniz süre",
+    "form_motivation": "Neden gönüllü olmak istiyorsunuz?",
+    "form_kvkk": "KVKK Aydınlatma Metnini okudum ve kabul ediyorum.",
+    "form_submit": "Başvuru Gönder",
+    "areas_label": "Alanlar",
+    "banner_text": "Her Gönüllü Bir Umuttur",
+    "success_title": "Başvurunuz Alındı!",
+    "success_text": "Gönüllü başvurunuz başarıyla gönderildi. En kısa sürede sizinle iletişime geçeceğiz.",
+    "new_application": "Yeni Başvuru"
+  },
+  "scholarship": {
+    "hero_title": "Burs Başvurusu",
+    "hero_subtitle": "Eğitiminize Destek Olalım",
+    "intro": "Ekonomik koşullar eğitiminizin önüne geçmesin. Burs programımıza başvurun.",
+    "types_title": "Burs Türleri",
+    "types": ["Ortaöğretim bursu", "Üniversite bursu (lisans)", "Yüksek lisans / doktora bursu", "Mesleki eğitim bursu", "Yurt dışı staj desteği"],
+    "conditions_title": "Başvuru Koşulları",
+    "conditions": ["T.C. vatandaşı olmak", "Örgün eğitim kurumunda kayıtlı olmak", "Ekonomik desteğe ihtiyaç duymak", "Başka bir kuruluştan tam burs almıyor olmak"],
+    "docs_title": "Gerekli Belgeler",
+    "docs": ["Nüfus cüzdanı fotokopisi", "Öğrenci belgesi", "Transkript", "Gelir durumu belgesi", "Motivasyon mektubu"],
+    "calendar_title": "Başvuru Takvimi",
+    "calendar_text": "Başvuru dönemi ve detaylar yakında duyurulacaktır.",
+    "faq_title": "Sıkça Sorulan Sorular",
+    "faq": [
+      { "q": "Burs başvurusu ne zaman yapılır?", "a": "Başvuru dönemleri her yıl web sitemiz ve sosyal medya hesaplarımız üzerinden duyurulur." },
+      { "q": "Burs miktarı ne kadardır?", "a": "Burs miktarları öğrenim düzeyine ve ihtiyaç durumuna göre belirlenir." },
+      { "q": "Başka kurumdan burs alıyorum başvurabilir miyim?", "a": "Tam burs almayan adaylar başvurabilir. Kısmi burs alanlar değerlendirmeye alınır." },
+      { "q": "Burs süresi ne kadardır?", "a": "Burslar akademik yıl bazında verilir ve başarı durumuna göre yenilenir." },
+      { "q": "Başvuru sonuçları ne zaman açıklanır?", "a": "Değerlendirme süreci tamamlandıktan sonra sonuçlar e-posta ile bildirilir." }
+    ]
+  },
+  "contact": {
+    "hero_title": "İletişim",
+    "hero_subtitle": "Bizimle iletişime geçin",
+    "address_title": "Adres",
+    "address": "Yeni Bağlıca Mah 2243 Sokak No 2 06790 Etimesgut/Ankara",
+    "phone": "Telefon",
+    "email": "E-posta",
+    "form_title": "İletişim Formu",
+    "form_name": "Ad Soyad",
+    "form_email": "E-posta",
+    "form_phone": "Telefon (opsiyonel)",
+    "form_subject": "Konu",
+    "form_subjects": ["Genel Bilgi", "Bağış", "Burs", "Gönüllülük", "Sponsorluk", "Basın", "Diğer"],
+    "form_message": "Mesajınız",
+    "form_kvkk": "KVKK Aydınlatma Metnini okudum ve kabul ediyorum.",
+    "form_submit": "Gönder",
+    "departments_title": "Departman E-postaları",
+    "social_title": "Sosyal Medya",
+    "success_title": "Mesajınız Gönderildi",
+    "success_text": "En kısa sürede sizinle iletişime geçeceğiz. Teşekkür ederiz.",
+    "new_message": "Yeni Mesaj"
+  },
+  "transparency": {
+    "hero_title": "Şeffaflık",
+    "hero_subtitle": "Hesap Verebilirlik Bizim İçin Bir Değer",
+    "intro": "Vakfımızın tüm mali tabloları, faaliyet raporları ve bağış kullanım detayları kamuya açıktır.",
+    "principles_title": "Şeffaflık İlkelerimiz",
+    "principles": [
+      "Tüm mali tablolar bağımsız denetimden geçer",
+      "Faaliyet raporları yıllık olarak kamuoyuyla paylaşılır",
+      "Bağışların kullanım detayları raporlanır",
+      "Her bağışçı bilgilendirilir",
+      "Vakıf Genel Müdürlüğü denetimine tabidir"
+    ],
+    "reports_title": "Yıllık Faaliyet Raporları",
+    "reports_desc": "Her yılın sonunda vakıf faaliyetlerini kapsayan detaylı raporlar yayınlanır.",
+    "financial_title": "Mali Tablolar",
+    "financial_desc": "Gelir gider tabloları ve bilanço bilgileri bağımsız denetim sonrası paylaşılır.",
+    "donation_title": "Bağış Kullanım Raporu",
+    "donation_desc": "Toplanan bağışların hangi alanlarda kullanıldığı şeffaf olarak raporlanır.",
+    "strategy_title": "Stratejik Planlar",
+    "strategy_desc": "Vakfın kısa ve uzun vadeli hedeflerini içeren stratejik planlar paylaşılır.",
+    "coming_soon": "Yakında Yayınlanacak",
+    "banner_text": "Hesap Verebilirlik Her Kuruşta",
+    "legal_quote": "Vakıf Yönetimi, yıl içinde elde ettiği brüt gelirlerin üçte birini yönetim giderlerine, üçte ikisini ise vakıf amaçlarına harcamaya zorunludur."
+  },
+  "footer": {
+    "description": "Eğitim, kültür ve sosyal dayanışma alanında bireyleri güçlendirmek için kurulmuş bir aile vakfıdır.",
+    "quick_links": "Hızlı Linkler",
+    "contact": "İletişim",
+    "legal": "Yasal",
+    "privacy": "Gizlilik Politikası",
+    "cookies": "Çerez Politikası",
+    "kvkk": "KVKK Aydınlatma",
+    "rights": "Tüm hakları saklıdır.",
+    "notary": "Ankara 54. Noterliği — Yevmiye No: 32318"
+  }
+}

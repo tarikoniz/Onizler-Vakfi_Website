@@ -1,0 +1,339 @@
+{
+  "meta": {
+    "title": "Önizler Foundation",
+    "description": "Empowering individuals through education, culture, and social solidarity — preserving cultural heritage and promoting social equality."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "areas": "Focus Areas",
+    "volunteer": "Volunteer",
+    "scholarship": "Scholarships",
+    "news": "News",
+    "transparency": "Transparency",
+    "contact": "Contact",
+    "donate": "Support Us"
+  },
+  "hero": {
+    "title": "A Family's Promise, A Legacy for Society",
+    "subtitle": "We set out to empower individuals through education, culture, and social solidarity. 24 family members, one purpose.",
+    "cta_volunteer": "Volunteer",
+    "cta_about": "About Us",
+    "explore": "Explore",
+    "about_label": "About Us",
+    "about_heading": "A Family's Strength,\nA Community's Hope",
+    "about_p1": "The Öniz family believed in the power of unity and solidarity for generations. In 2025, 24 family members came together and founded the Önizler Foundation.",
+    "about_p2": "We aim to operate across 9 different areas — from education to culture, digital transformation to social solidarity.",
+    "about_cta": "Discover Our Story",
+    "stats_label": "In Numbers",
+    "areas_label": "Focus Areas",
+    "banner_location": "Ankara, Turkiye",
+    "banner_text": "From 2025 to the Future",
+    "join_label": "Join Us",
+    "founder_member": "Founding Members",
+    "est_label": "Est. 2025 — Ankara",
+    "quote_text": "How can we deliver our resources to those who need them most?",
+    "quote_role": "Founding Chairman"
+  },
+  "mission_banner": {
+    "text": "Empowering individuals through education, culture, and social solidarity — preserving cultural heritage and promoting social equality."
+  },
+  "stats": {
+    "title": "Önizler Foundation in Numbers",
+    "areas": "Focus Areas",
+    "founders": "Founding Family Members",
+    "capital": "Founding Capital",
+    "capital_value": "₺2M"
+  },
+  "focus_areas": {
+    "title": "Our Focus Areas",
+    "subtitle": "We develop, implement, and create sustainable impact across 9 activity areas defined in our charter.",
+    "learn_more": "Learn More",
+    "cta_title": "Join This Journey",
+    "cta_text": "You can contribute as a volunteer in these areas or apply to our scholarship program.",
+    "cta_volunteer": "Volunteer",
+    "cta_scholarship": "Apply for Scholarship",
+    "stats_areas": "Focus Areas",
+    "stats_founders": "Founding Members",
+    "stats_capital": "Capital",
+    "areas": {
+      "education": {
+        "title": "Educational Institutions",
+        "short": "Establishing schools, dormitories, and vocational courses to support education at every level.",
+        "description": "Education is the most powerful tool for social transformation. We aim to strengthen educational infrastructure by establishing secondary and higher education institutions, vocational courses, and dormitories."
+      },
+      "scholarship": {
+        "title": "Scholarships & Academic Incentives",
+        "short": "Providing scholarships, internships, and professional development opportunities to students in need.",
+        "description": "Every talented student deserves educational opportunity. We organize scholarship programs, internship opportunities, and professional development seminars."
+      },
+      "culture": {
+        "title": "Culture & Arts",
+        "short": "From festivals and exhibitions to museums and cultural centers — preserving our cultural heritage.",
+        "description": "Culture is the identity of a society. We organize national and international events to preserve, develop, and pass on our tangible and intangible cultural heritage."
+      },
+      "solidarity": {
+        "title": "Social Solidarity",
+        "short": "Providing social support programs, emergency aid, and rehabilitation services to disadvantaged individuals.",
+        "description": "We work to ensure no one is left behind. We develop comprehensive support programs for disadvantaged groups in education, health, housing, and employment."
+      },
+      "international": {
+        "title": "International Partnerships",
+        "short": "Creating global impact through joint projects with the EU, UN, and international organizations.",
+        "description": "We are stronger together. We grow our impact by establishing strategic partnerships with national and international organizations in education, culture, and social solidarity."
+      },
+      "digital": {
+        "title": "Digital Education & Technology",
+        "short": "Bringing education into the future with AI, AR/VR, and distance learning platforms.",
+        "description": "In the digital age, education transcends borders. We aim to make education accessible to everyone through distance learning platforms, AI-powered learning environments, and digital libraries."
+      },
+      "research": {
+        "title": "Scientific Research & Publishing",
+        "short": "Contributing to knowledge production and dissemination through conferences, symposia, and publications.",
+        "description": "Scientific research is the foundation of sustainable development. We contribute to knowledge production by supporting research projects, publishing, and organizing scientific events."
+      },
+      "social_services": {
+        "title": "Social Services",
+        "short": "Supporting the most vulnerable with health screenings, psychosocial support, and vocational rehabilitation.",
+        "description": "Meeting basic human needs is our primary responsibility. We provide comprehensive and sustainable social services to disadvantaged communities."
+      },
+      "construction": {
+        "title": "Social Infrastructure",
+        "short": "Building cultural centers, sports facilities, ecological parks, and community spaces.",
+        "description": "Physical spaces form the infrastructure of community life. We contribute to social development by building accessible, sustainable, and inclusive social spaces."
+      }
+    }
+  },
+  "cta_section": {
+    "title": "Join this journey.",
+    "subtitle": "Every volunteer strengthens a community. Every step touches a future.",
+    "volunteer": "Volunteer",
+    "scholarship": "Apply for Scholarship"
+  },
+  "about": {
+    "hero_title": "Our Story",
+    "hero_subtitle": "A Family's Promise, A Legacy for Society",
+    "story_p1": "The Öniz family believed in the power of unity and solidarity for generations. This belief lived on as a value passed from elders to youth — until it took concrete form in 2025.",
+    "story_p2": "On October 1, 2025, 24 family members came together in Ankara. Different ages, different professions, but with one shared question: \"How can we deliver our resources to those who need them most?\"",
+    "story_p3": "The answer to that question was the ÖNİZLER FOUNDATION.",
+    "story_p4": "Established with a founding capital of 2 million TL, our foundation aims to operate across 9 different areas — from education to culture, digital transformation to social solidarity.",
+    "story_p5": "Because we know: when a family stands together, communities grow stronger. ÖNİZLER FOUNDATION is the name of our belief in that power.",
+    "mission_title": "Our Mission",
+    "mission_text": "To empower individuals through education, culture, and social solidarity, preserve cultural heritage, and promote social equality.",
+    "vision_title": "Our Vision",
+    "vision_text": "A world where everyone can realize their potential through equal opportunity in education, richness in culture, and solidarity in society.",
+    "values_title": "Our Values",
+    "values": {
+      "transparency": { "title": "Transparency", "text": "Every penny is accounted for. Our activity reports, financial statements, and donation details are publicly available." },
+      "inclusivity": { "title": "Inclusivity", "text": "Equal opportunity for all — regardless of gender, age, disability, religion, language, or ethnicity." },
+      "sustainability": { "title": "Sustainability", "text": "We develop projects focused on lasting transformation, not short-term aid." },
+      "heritage": { "title": "Family Heritage", "text": "As 24 family members, our intergenerational bond forms the foundation of our organization." },
+      "innovation": { "title": "Innovation", "text": "We build the future today by bringing AI, AR/VR and other technologies to education and culture." },
+      "collaboration": { "title": "Collaboration", "text": "We build partnerships with public institutions, universities, civil society, and international organizations." }
+    },
+    "founder_title": "Our Founder",
+    "founder_name": "Merdan Öniz",
+    "founder_role": "Chairman of the Board of Trustees & Founder",
+    "board_title": "Board of Trustees",
+    "board_subtitle": "The Board of Trustees, the supreme decision-making body of our foundation, consists of 24 members of the Öniz family.",
+    "management_title": "Executive Board",
+    "management_subtitle": "The Executive Board is responsible for carrying out all activities of the foundation.",
+    "audit_title": "Audit Committee",
+    "audit_subtitle": "The committee responsible for the financial and administrative audit of our foundation.",
+    "legal_title": "Legal Documents",
+    "legal_subtitle": "Access the legal documents that form the basis of our foundation.",
+    "label_mission_vision": "Mission & Vision",
+    "label_mission": "Mission",
+    "label_vision": "Vision",
+    "label_values": "Our Values",
+    "label_founder": "Founder",
+    "label_board": "Board of Trustees",
+    "label_management": "Executive Board",
+    "label_audit": "Audit",
+    "label_founders": "Founders",
+    "label_areas": "Areas",
+    "label_capital": "Million ₺",
+    "founder_desc_p1": "Under the leadership of Merdan Öniz, the Öniz family believed in the power of unity and solidarity for generations.",
+    "founder_desc_p2": "In 2025, he brought all family members together and founded the Önizler Foundation to leave a lasting legacy for society.",
+    "label_est": "Est. 2025 — Ankara",
+    "quote_text": "When a family stands together, communities grow stronger.",
+    "quote_attribution": "The Önizler Family"
+  },
+  "support": {
+    "hero_title": "Support Us",
+    "hero_subtitle": "The Easiest Way to Change a Life",
+    "intro": "Every donation transforms into a student's education, a family's hope, and a community's future.",
+    "individual_title": "Individual Donation",
+    "individual_text": "Donate any amount at any time.",
+    "regular_title": "Monthly Donation",
+    "regular_text": "Provide sustainable support with regular monthly donations.",
+    "amounts": {
+      "100": "A student's stationery expenses",
+      "250": "A student's meal costs",
+      "500": "A student's scholarship support",
+      "1000": "A family's basic needs"
+    },
+    "corporate_title": "Corporate Sponsorship",
+    "corporate_text": "Align your company's social responsibility goals with Önizler Foundation.",
+    "inkind_title": "In-Kind Donation",
+    "inkind_text": "We accept donations of educational materials, clothing, food, equipment, or professional services.",
+    "bank_title": "Bank Account Information",
+    "bank_name": "ÖNİZLER VAKFI",
+    "tax_title": "Tax Benefits",
+    "tax_text": "Donations to Önizler Foundation are tax-deductible.",
+    "contact_cta": "Contact Us"
+  },
+  "volunteer": {
+    "hero_title": "Volunteer",
+    "hero_subtitle": "Share Your Strength, Let's Change Together",
+    "intro": "Your time, knowledge, and experience can transform a community.",
+    "why_title": "Why Volunteer?",
+    "reasons": [
+      "Make a direct contribution to society",
+      "Meet new people and expand your network",
+      "Gain experience in different fields",
+      "Discover your own potential",
+      "Become part of a meaningful community"
+    ],
+    "areas_title": "Volunteer Areas",
+    "areas": {
+      "education": { "title": "Education Volunteer", "text": "Mentoring, tutoring, career guidance" },
+      "event": { "title": "Event Volunteer", "text": "Festival, exhibition, conference organization" },
+      "field": { "title": "Field Volunteer", "text": "Aid distribution, disaster response, community work" },
+      "digital": { "title": "Digital Volunteer", "text": "Content creation, social media, web, design" },
+      "professional": { "title": "Professional Volunteer", "text": "Legal, accounting, marketing pro bono support" }
+    },
+    "form_title": "Volunteer Application Form",
+    "form_name": "Full Name",
+    "form_email": "Email",
+    "form_phone": "Phone",
+    "form_city": "City",
+    "form_profession": "Profession / Area of Expertise",
+    "form_area": "Volunteer area of interest",
+    "form_time": "Weekly availability",
+    "form_motivation": "Why do you want to volunteer?",
+    "form_kvkk": "I have read and accept the Privacy Policy.",
+    "form_submit": "Submit Application",
+    "areas_label": "Areas",
+    "banner_text": "Every Volunteer Is a Hope",
+    "success_title": "Application Received!",
+    "success_text": "Your volunteer application has been submitted successfully. We will contact you shortly.",
+    "new_application": "New Application"
+  },
+  "scholarship": {
+    "hero_title": "Scholarships",
+    "hero_subtitle": "Let Us Support Your Education",
+    "intro": "Don't let financial conditions stand in the way of your education. Apply to our scholarship program.",
+    "types_title": "Scholarship Types",
+    "types": ["Secondary education scholarship", "University scholarship (undergraduate)", "Graduate / doctoral scholarship", "Vocational education scholarship", "International internship support"],
+    "conditions_title": "Application Requirements",
+    "conditions": ["Turkish citizenship", "Enrolled in a formal educational institution", "Demonstrated financial need", "Not receiving a full scholarship from another organization"],
+    "docs_title": "Required Documents",
+    "docs": ["Copy of ID card", "Student certificate", "Transcript", "Family income statement", "Motivation letter"],
+    "calendar_title": "Application Calendar",
+    "calendar_text": "Application period and details will be announced soon.",
+    "faq_title": "Frequently Asked Questions",
+    "faq": [
+      { "q": "When can I apply for a scholarship?", "a": "Application periods are announced each year on our website and social media accounts." },
+      { "q": "How much is the scholarship amount?", "a": "Scholarship amounts are determined based on the level of education and financial need." },
+      { "q": "Can I apply if I receive a scholarship from another institution?", "a": "Candidates not receiving a full scholarship may apply. Those with partial scholarships will be evaluated." },
+      { "q": "How long does the scholarship last?", "a": "Scholarships are awarded per academic year and renewed based on academic performance." },
+      { "q": "When are application results announced?", "a": "Results are communicated via email after the evaluation process is completed." }
+    ]
+  },
+  "contact": {
+    "hero_title": "Contact",
+    "hero_subtitle": "Get in touch with us",
+    "address_title": "Address",
+    "address": "Yeni Bağlıca Mah 2243 Sokak No 2 06790 Etimesgut/Ankara Turkiye",
+    "phone": "Phone",
+    "email": "Email",
+    "form_title": "Contact Form",
+    "form_name": "Full Name",
+    "form_email": "Email",
+    "form_phone": "Phone (optional)",
+    "form_subject": "Subject",
+    "form_subjects": ["General Information", "Donation", "Scholarship", "Volunteering", "Sponsorship", "Press", "Other"],
+    "form_message": "Your Message",
+    "form_kvkk": "I have read and accept the Privacy Policy.",
+    "form_submit": "Send",
+    "departments_title": "Department Emails",
+    "social_title": "Social Media",
+    "success_title": "Message Sent",
+    "success_text": "We will contact you shortly. Thank you.",
+    "new_message": "New Message"
+  },
+  "transparency": {
+    "hero_title": "Transparency",
+    "hero_subtitle": "Accountability Is Our Core Value",
+    "intro": "All financial statements, activity reports, and donation usage details of our foundation are publicly available.",
+    "principles_title": "Our Transparency Principles",
+    "principles": [
+      "All financial statements undergo independent audit",
+      "Activity reports are shared publicly each year",
+      "Donation usage details are reported transparently",
+      "Every donor is informed about the use of their contribution",
+      "Subject to oversight by the General Directorate of Foundations"
+    ],
+    "reports_title": "Annual Activity Reports",
+    "reports_desc": "Detailed reports covering foundation activities are published at the end of each year.",
+    "financial_title": "Financial Statements",
+    "financial_desc": "Income and expense statements and balance sheets are shared after independent audit.",
+    "donation_title": "Donation Usage Report",
+    "donation_desc": "How collected donations are allocated across focus areas is reported transparently.",
+    "strategy_title": "Strategic Plans",
+    "strategy_desc": "Strategic plans containing the foundation's short and long-term goals are published.",
+    "coming_soon": "Coming Soon",
+    "banner_text": "Accountability in Every Penny",
+    "legal_quote": "The Foundation is required to spend one-third of its gross annual income on administrative expenses and two-thirds on its charitable purposes."
+  },
+  "news": {
+    "hero_title": "News",
+    "hero_subtitle": "Latest news and announcements from our foundation",
+    "featured": "Featured",
+    "read_more": "Read More",
+    "newsletter_title": "Stay Informed",
+    "newsletter_text": "Subscribe to our newsletter to follow the latest developments.",
+    "newsletter_placeholder": "Your email address",
+    "newsletter_button": "Subscribe",
+    "cat_announcement": "Announcement",
+    "cat_project": "Project",
+    "cat_event": "Event",
+    "news_items": [
+      {
+        "date": "2025-10-01",
+        "category": "cat_announcement",
+        "title": "Önizler Foundation Officially Established",
+        "excerpt": "24 family members came together to establish the Önizler Foundation, dedicated to education, culture, and social solidarity."
+      },
+      {
+        "date": "2025-10-15",
+        "category": "cat_project",
+        "title": "Our First Scholarship Program Is Being Prepared",
+        "excerpt": "Work has begun on our foundation's first scholarship program. Application details will be announced soon."
+      },
+      {
+        "date": "2025-11-01",
+        "category": "cat_event",
+        "title": "Our Website Is Live",
+        "excerpt": "Our foundation's official website is now live. You can access all information from a single point."
+      }
+    ]
+  },
+  "footer": {
+    "description": "A family foundation established to empower individuals through education, culture, and social solidarity.",
+    "newsletter_title": "Newsletter",
+    "newsletter_text": "Stay updated on our activities.",
+    "newsletter_placeholder": "Your email address",
+    "newsletter_button": "Subscribe",
+    "newsletter_success": "Thank you!",
+    "quick_links": "Quick Links",
+    "contact": "Contact",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "cookies": "Cookie Policy",
+    "kvkk": "Data Protection",
+    "rights": "All rights reserved.",
+    "notary": "Ankara 54th Notary — Registration No: 32318"
+  }
+}
