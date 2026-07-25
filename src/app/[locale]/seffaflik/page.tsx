@@ -1,6 +1,6 @@
 import { useTranslations } from "next-intl";
 import Image from "next/image";
-import { FileText, BarChart3, PieChart, Target, Quote, Clock, CheckCircle2 } from "lucide-react";
+import { FileText, BarChart3, PieChart, Target, Quote, Clock, CheckCircle2, Landmark, Scale, Coins, MapPin } from "lucide-react";
 import PageHero from "@/components/PageHero";
 import ScrollReveal from "@/components/ScrollReveal";
 
@@ -26,6 +26,56 @@ export default function TransparencyPage() {
             <p className="text-center text-lg text-charcoal/60 mb-16 max-w-2xl mx-auto font-light">
               {t("intro")}
             </p>
+          </ScrollReveal>
+
+          {/* Official Registration */}
+          <ScrollReveal direction="up">
+            <div className="bg-navy text-white p-8 sm:p-10 mb-8 relative overflow-hidden border border-navy">
+              <div className="absolute right-0 top-0 h-full w-40 opacity-[0.08]">
+                <Image src="/logo.png" alt="" width={200} height={200} className="brightness-0 invert w-full h-full object-contain" />
+              </div>
+              <div className="relative">
+                <div className="flex items-center gap-4 mb-6">
+                  <div className="w-10 h-[2px] bg-gold" />
+                  <span className="text-gold text-xs font-bold tracking-[0.3em] uppercase">{t("registration_label")}</span>
+                </div>
+                <h2 className="text-2xl font-extrabold tracking-tight mb-6">{t("registration_title")}</h2>
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                  <div className="flex items-start gap-3">
+                    <Landmark className="w-5 h-5 text-gold flex-shrink-0 mt-0.5" />
+                    <div>
+                      <p className="text-[10px] text-gold uppercase tracking-widest font-bold mb-1">{t("registration_gazette")}</p>
+                      <p className="text-sm text-white/80">26.06.2026 — Sayı: 33292</p>
+                      <a href="https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/06/20260626-4-10.pdf" target="_blank" rel="noopener noreferrer" className="text-[11px] text-gold hover:text-gold-light underline mt-1 inline-block">
+                        {t("registration_view")} →
+                      </a>
+                    </div>
+                  </div>
+                  <div className="flex items-start gap-3">
+                    <Scale className="w-5 h-5 text-gold flex-shrink-0 mt-0.5" />
+                    <div>
+                      <p className="text-[10px] text-gold uppercase tracking-widest font-bold mb-1">{t("registration_court")}</p>
+                      <p className="text-sm text-white/80">Ankara Batı 10. Asliye Hukuk Mahkemesi</p>
+                      <p className="text-[11px] text-white/50 mt-0.5">E:2025/502, K:2026/81 (06.04.2026)</p>
+                    </div>
+                  </div>
+                  <div className="flex items-start gap-3">
+                    <Coins className="w-5 h-5 text-gold flex-shrink-0 mt-0.5" />
+                    <div>
+                      <p className="text-[10px] text-gold uppercase tracking-widest font-bold mb-1">{t("registration_capital")}</p>
+                      <p className="text-sm text-white/80">2.000.000 TL (Nakit)</p>
+                    </div>
+                  </div>
+                  <div className="flex items-start gap-3">
+                    <MapPin className="w-5 h-5 text-gold flex-shrink-0 mt-0.5" />
+                    <div>
+                      <p className="text-[10px] text-gold uppercase tracking-widest font-bold mb-1">{t("registration_residence")}</p>
+                      <p className="text-sm text-white/80">Ankara, Türkiye</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
           </ScrollReveal>
 
           {/* Principles */}

@@ -114,8 +114,8 @@
     "hero_title": "Hikayemiz",
     "hero_subtitle": "Bir Ailenin Sözü, Topluma Mirası",
     "story_p1": "Öniz ailesi, nesiller boyunca birlik ve dayanışmanın gücüne inandı. Bu inanç, aile büyüklerinden gençlerine aktarılan bir değer olarak yaşadı — ta ki 2025 yılında somut bir adıma dönüşene kadar.",
-    "story_p2": "1 Ekim 2025'te, Ankara'da 24 aile ferdi bir araya geldi. Farklı yaşlardan, farklı mesleklerden, ama ortak bir soruyla: \"Elimizdeki imkânı, en çok ihtiyacı olan insanlara nasıl ulaştırabiliriz?\"",
-    "story_p3": "Bu sorunun cevabı ÖNİZLER VAKFI oldu.",
+    "story_p2": "Ankara'da bir araya gelen 24 aile ferdi, farklı yaşlardan ve mesleklerden, ama ortak bir soruyla yola çıktı: \"Elimizdeki imkânı, en çok ihtiyacı olan insanlara nasıl ulaştırabiliriz?\"",
+    "story_p3": "Bu sorunun cevabı ÖNİZLER VAKFI oldu. Ankara Batı 10. Asliye Hukuk Mahkemesinin 06.04.2026 tarihli ve E:2025/502, K:2026/81 sayılı kararı ile tescil edilen vakfımız, 26 Haziran 2026 tarihli ve 33292 sayılı Resmî Gazete'de ilan edilerek resmi olarak faaliyete başlamıştır.",
     "story_p4": "2 milyon TL kuruluş sermayesiyle hayata geçen vakfımız, eğitimden kültüre, dijital dönüşümden sosyal dayanışmaya 9 farklı alanda faaliyet göstermeyi amaçlamaktadır.",
     "story_p5": "Çünkü biz biliyoruz: bir aile birlikte durduğunda toplumlar güçlenir. ÖNİZLER VAKFI, bu güce olan inancımızın adıdır.",
     "mission_title": "Misyonumuz",
@@ -284,6 +284,13 @@
     "strategy_title": "Stratejik Planlar",
     "strategy_desc": "Vakfın kısa ve uzun vadeli hedeflerini içeren stratejik planlar paylaşılır.",
     "coming_soon": "Yakında Yayınlanacak",
+    "registration_label": "Resmî Tescil",
+    "registration_title": "Vakfın Resmî Kuruluş Bilgileri",
+    "registration_gazette": "Resmî Gazete",
+    "registration_court": "Tescil Kararı",
+    "registration_capital": "Kuruluş Sermayesi",
+    "registration_residence": "İkametgah",
+    "registration_view": "Resmî Gazete ilanını görüntüle",
     "banner_text": "Hesap Verebilirlik Her Kuruşta",
     "legal_quote": "Vakıf Yönetimi, yıl içinde elde ettiği brüt gelirlerin üçte birini yönetim giderlerine, üçte ikisini ise vakıf amaçlarına harcamaya zorunludur."
   },
@@ -301,10 +308,10 @@
     "cat_event": "Etkinlik",
     "news_items": [
       {
-        "date": "2025-10-01",
+        "date": "2026-06-26",
         "category": "cat_announcement",
-        "title": "Önizler Vakfı Resmen Kuruldu",
-        "excerpt": "24 aile ferdi bir araya gelerek eğitim, kültür ve sosyal dayanışma alanında faaliyet gösterecek Önizler Vakfı'nı kurdu."
+        "title": "Önizler Vakfı Resmî Gazete'de İlan Edildi",
+        "excerpt": "Vakfımız, 26 Haziran 2026 tarihli ve 33292 sayılı Resmî Gazete'de yayımlanan Vakıflar Genel Müdürlüğü ilanıyla resmî statü kazanarak faaliyetlerine başlamıştır."
       },
       {
         "date": "2025-10-15",
@@ -334,6 +341,6 @@
     "cookies": "Çerez Politikası",
     "kvkk": "KVKK Aydınlatma",
     "rights": "Tüm hakları saklıdır.",
-    "notary": "Ankara 54. Noterliği — Yevmiye No: 32318"
+    "notary": "Resmî Gazete: 26.06.2026 — Sayı: 33292"
   }
 }
