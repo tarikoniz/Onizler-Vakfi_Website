@@ -109,9 +109,9 @@ export default function SupportPage() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-12">
             <ScrollReveal direction="left">
               <div className="bg-navy p-8 relative overflow-hidden h-full">
-                <div className="absolute top-0 left-0 w-full h-[3px] bg-gold" />
+                <div className="absolute top-0 left-0 w-full h-[3px] bg-gold-warm" />
                 <div className="w-12 h-12 bg-white/10 flex items-center justify-center mb-4">
-                  <Landmark className="w-6 h-6 text-gold" />
+                  <Landmark className="w-6 h-6 text-gold-warm" />
                 </div>
                 <h3 className="text-lg font-extrabold text-white mb-3 tracking-tight">
                   {t("bank_title")}
@@ -132,7 +132,7 @@ export default function SupportPage() {
                 <h3 className="text-lg font-extrabold text-charcoal mb-3 tracking-tight">
                   {t("tax_title")}
                 </h3>
-                <p className="text-sm text-charcoal/50 leading-relaxed">{t("tax_text")}</p>
+                <p className="text-sm text-charcoal/70 leading-relaxed">{t("tax_text")}</p>
               </div>
             </ScrollReveal>
           </div>

@@ -150,7 +150,7 @@ export default function AboutPage() {
                   <h2 className="text-2xl font-extrabold text-charcoal mb-4 tracking-tight">
                     {t("mission_title")}
                   </h2>
-                  <p className="text-charcoal/60 leading-relaxed">{t("mission_text")}</p>
+                  <p className="text-charcoal/75 leading-relaxed">{t("mission_text")}</p>
                 </div>
               </ScrollReveal>
               <ScrollReveal direction="right">
@@ -163,7 +163,7 @@ export default function AboutPage() {
                   <h2 className="text-2xl font-extrabold text-charcoal mb-4 tracking-tight">
                     {t("vision_title")}
                   </h2>
-                  <p className="text-charcoal/60 leading-relaxed">{t("vision_text")}</p>
+                  <p className="text-charcoal/75 leading-relaxed">{t("vision_text")}</p>
                 </div>
               </ScrollReveal>
             </div>
@@ -205,7 +205,7 @@ export default function AboutPage() {
                         <h3 className="font-bold text-charcoal group-hover:text-gold transition-colors duration-300">
                           {t(`values.${key}.title`)}
                         </h3>
-                        <p className="text-sm text-charcoal/50 leading-relaxed mt-2">
+                        <p className="text-sm text-charcoal/70 leading-relaxed mt-2">
                           {t(`values.${key}.text`)}
                         </p>
                       </div>
@@ -268,10 +268,10 @@ export default function AboutPage() {
                 <h2 className="text-3xl sm:text-4xl font-extrabold text-charcoal tracking-tight mb-6">
                   {t("founder_title")}
                 </h2>
-                <p className="text-charcoal/60 leading-relaxed mb-4">
+                <p className="text-charcoal/75 leading-relaxed mb-4">
                   {t("founder_desc_p1")}
                 </p>
-                <p className="text-charcoal/60 leading-relaxed">
+                <p className="text-charcoal/75 leading-relaxed">
                   {t("founder_desc_p2")}
                 </p>
               </div>

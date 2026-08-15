@@ -7,21 +7,22 @@ export default function Logo({
   size?: "small" | "default" | "large";
   variant?: "light" | "dark";
 }) {
-  const dims = {
-    small: 64,
-    default: 96,
-    large: 160,
+  const heights = {
+    small: 120,
+    default: 160,
+    large: 220,
   };
 
-  const d = dims[size];
+  const h = heights[size];
 
   return (
     <Image
       src="/logo.png"
       alt="Önizler Vakfı"
-      width={d}
-      height={d}
-      className={`object-contain ${variant === "light" ? "brightness-0 invert" : ""}`}
+      width={h}
+      height={h}
+      className={`object-contain w-auto ${variant === "light" ? "brightness-0 invert" : ""}`}
+      style={{ height: `${h}px`, width: "auto" }}
       priority
     />
   );

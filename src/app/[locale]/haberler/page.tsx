@@ -37,27 +37,27 @@ export default function NewsPage() {
                   <rect width="100%" height="100%" fill="url(#news-grid)" />
                 </svg>
               </div>
-              <div className="absolute top-0 left-0 w-full h-[3px] bg-gold" />
+              <div className="absolute top-0 left-0 w-full h-[3px] bg-gold-warm" />
               <div className="relative">
                 <div className="flex items-center gap-3 mb-4">
-                  <span className="px-3 py-1 bg-gold text-white text-xs font-bold uppercase tracking-wider">
+                  <span className="px-3 py-1 bg-gold-warm text-navy text-xs font-bold uppercase tracking-wider">
                     {t(featured.category)}
                   </span>
-                  <span className="flex items-center gap-1.5 text-xs text-white/40 uppercase tracking-wider">
+                  <span className="flex items-center gap-1.5 text-xs text-white/60 uppercase tracking-wider">
                     <Calendar className="w-3 h-3" />
                     {featured.date}
                   </span>
-                  <span className="px-2 py-0.5 border border-gold/30 text-gold text-[10px] font-bold uppercase tracking-wider">
+                  <span className="px-2 py-0.5 border border-gold-warm/50 text-gold-warm text-[10px] font-bold uppercase tracking-wider">
                     {t("featured")}
                   </span>
                 </div>
                 <h2 className="text-2xl sm:text-3xl font-extrabold text-white mb-3 tracking-tight">
                   {featured.title}
                 </h2>
-                <p className="text-white/50 text-sm leading-relaxed mb-6 max-w-2xl">
+                <p className="text-white/75 text-base leading-relaxed mb-6 max-w-2xl">
                   {featured.excerpt}
                 </p>
-                <button className="flex items-center gap-2 text-sm font-bold text-gold hover:text-gold-light transition-colors uppercase tracking-wider">
+                <button className="flex items-center gap-2 text-sm font-bold text-gold-warm hover:text-gold-warm-light transition-colors uppercase tracking-wider">
                   {t("read_more")} <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
                 </button>
               </div>
@@ -82,7 +82,7 @@ export default function NewsPage() {
                   <h2 className="text-xl font-extrabold text-charcoal mb-2 tracking-tight group-hover:text-gold transition-colors duration-300">
                     {item.title}
                   </h2>
-                  <p className="text-charcoal/50 text-sm leading-relaxed mb-5">
+                  <p className="text-charcoal/70 text-sm leading-relaxed mb-5">
                     {item.excerpt}
                   </p>
                   <button className="flex items-center gap-2 text-sm font-bold text-navy hover:text-gold transition-colors uppercase tracking-wider">

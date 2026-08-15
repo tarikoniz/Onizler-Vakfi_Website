@@ -23,7 +23,7 @@ export default function LegalPage() {
                   {t("privacy")}
                 </h2>
               </div>
-              <div className="text-charcoal/60 space-y-5 text-sm leading-relaxed">
+              <div className="text-charcoal/75 space-y-5 text-sm leading-relaxed">
                 <p>
                   Önizler Vakfı olarak kişisel verilerinizin güvenliği konusunda büyük önem gösteriyoruz.
                   Bu politika, web sitemizi ziyaret ettiğinizde, bağış yaptığınızda, gönüllü veya burs
@@ -81,7 +81,7 @@ export default function LegalPage() {
                   {t("cookies")}
                 </h2>
               </div>
-              <div className="text-charcoal/60 space-y-5 text-sm leading-relaxed">
+              <div className="text-charcoal/75 space-y-5 text-sm leading-relaxed">
                 <p>
                   Web sitemiz, deneyiminizi iyileştirmek amacıyla çerezler kullanmaktadır.
                 </p>
@@ -124,7 +124,7 @@ export default function LegalPage() {
                   {t("kvkk")}
                 </h2>
               </div>
-              <div className="text-charcoal/60 space-y-5 text-sm leading-relaxed">
+              <div className="text-charcoal/75 space-y-5 text-sm leading-relaxed">
                 <p>
                   6698 sayılı Kişisel Verilerin Korunması Kanunu uyarınca, Önizler Vakfı olarak
                   veri sorumlusu sıfatıyla kişisel verileriniz aşağıda açıklanan çerçevede işlenmektedir.
@@ -134,7 +134,7 @@ export default function LegalPage() {
                     Veri Sorumlusu: ÖNİZLER VAKFI
                   </p>
                   <p className="text-charcoal/50 mt-1">
-                    Yeni Bağlıca Mah 2243 Sokak No 2 06790 Etimesgut/Ankara
+                    Yeni Bağlıca Mah. 2243 Sok. No: 2 Öniz Kale, Etimesgut / ANKARA
                   </p>
                 </div>
                 <div>

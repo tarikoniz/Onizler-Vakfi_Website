@@ -19,7 +19,7 @@ const SocialSvg = ({ d }: { d: string }) => (
 );
 
 const socials = [
-  { d: IG_PATH, name: "Instagram", href: "https://instagram.com/onizlervakfi" },
+  { d: IG_PATH, name: "Instagram", href: "https://www.instagram.com/onizlervakfi/" },
   { d: LI_PATH, name: "LinkedIn", href: "https://linkedin.com/company/onizlervakfi" },
   { d: YT_PATH, name: "YouTube", href: "https://youtube.com/@onizlervakfi" },
   { d: X_PATH, name: "X", href: "https://x.com/onizlervakfi" },
@@ -51,7 +51,7 @@ export default function Footer() {
             <div className="mb-6">
               <Logo size="default" variant="dark" />
             </div>
-            <p className="text-sm leading-relaxed text-charcoal/40">
+            <p className="text-sm leading-relaxed text-charcoal/65">
               {t("description")}
             </p>
             <div className="flex gap-2 mt-6">
@@ -101,14 +101,19 @@ export default function Footer() {
               {t("contact")}
             </h3>
             <div className="space-y-4 text-sm">
-              <div className="flex items-start gap-2">
+              <a
+                href="https://share.google/WrF5phwe1HFljRvst"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-start gap-2 group"
+              >
                 <MapPin className="w-4 h-4 text-gold flex-shrink-0 mt-0.5" />
-                <div className="text-charcoal/50">
-                  <p>Yeni Bağlıca Mah</p>
-                  <p>2243 Sokak No 2 06790</p>
-                  <p>Etimesgut/Ankara</p>
+                <div className="text-charcoal/50 group-hover:text-charcoal transition-colors">
+                  <p>Yeni Bağlıca Mah. 2243 Sok.</p>
+                  <p>No: 2 Öniz Kale</p>
+                  <p>Etimesgut / ANKARA</p>
                 </div>
-              </div>
+              </a>
               <div className="flex items-center gap-2">
                 <Mail className="w-4 h-4 text-gold flex-shrink-0" />
                 <span className="text-charcoal/50">info@onizlervakfi.org</span>

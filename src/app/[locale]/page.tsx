@@ -64,8 +64,8 @@ export default function HomePage() {
           <div className="max-w-4xl">
             <ScrollReveal direction="fade" delay={200}>
               <div className="flex items-center gap-4 mb-8">
-                <div className="w-16 h-[2px] bg-gold" />
-                <span className="text-gold text-sm font-bold tracking-[0.3em] uppercase">
+                <div className="w-16 h-[2px] bg-gold-warm" />
+                <span className="text-gold-warm text-sm font-bold tracking-[0.3em] uppercase">
                   Önizler Vakfı
                 </span>
               </div>
@@ -78,7 +78,7 @@ export default function HomePage() {
             </ScrollReveal>
 
             <ScrollReveal direction="up" delay={600}>
-              <p className="mt-8 text-lg sm:text-xl text-white/50 leading-relaxed max-w-2xl font-light">
+              <p className="mt-8 text-xl sm:text-2xl text-white/85 leading-relaxed max-w-3xl font-light">
                 {t("hero.subtitle")}
               </p>
             </ScrollReveal>
@@ -159,10 +159,10 @@ export default function HomePage() {
                 <h2 className="text-3xl sm:text-4xl font-extrabold text-charcoal tracking-tight mb-6 whitespace-pre-line">
                   {t("hero.about_heading")}
                 </h2>
-                <p className="text-charcoal/60 leading-relaxed mb-4">
+                <p className="text-charcoal/75 leading-relaxed mb-4">
                   {t("hero.about_p1")}
                 </p>
-                <p className="text-charcoal/60 leading-relaxed mb-8">
+                <p className="text-charcoal/75 leading-relaxed mb-8">
                   {t("hero.about_p2")}
                 </p>
                 <Link
@@ -239,7 +239,7 @@ export default function HomePage() {
                   {t("focus_areas.title")}
                 </h2>
               </div>
-              <p className="mt-4 lg:mt-0 text-charcoal/50 max-w-md text-sm leading-relaxed">
+              <p className="mt-4 lg:mt-0 text-charcoal/70 max-w-md text-sm leading-relaxed">
                 {t("focus_areas.subtitle")}
               </p>
             </div>
@@ -265,7 +265,7 @@ export default function HomePage() {
                         <h3 className="text-base font-bold text-charcoal mt-0.5 group-hover:text-gold transition-colors duration-300">
                           {t(`focus_areas.areas.${key}.title`)}
                         </h3>
-                        <p className="text-sm text-charcoal/50 leading-relaxed mt-2">
+                        <p className="text-sm text-charcoal/70 leading-relaxed mt-2">
                           {t(`focus_areas.areas.${key}.short`)}
                         </p>
                       </div>

@@ -7,7 +7,7 @@ import PageHero from "@/components/PageHero";
 import ScrollReveal from "@/components/ScrollReveal";
 
 const socials = [
-  { label: "IG", name: "Instagram", href: "https://instagram.com/onizlervakfi" },
+  { label: "IG", name: "Instagram", href: "https://www.instagram.com/onizlervakfi/" },
   { label: "in", name: "LinkedIn", href: "https://linkedin.com/company/onizlervakfi" },
   { label: "YT", name: "YouTube", href: "https://youtube.com/@onizlervakfi" },
   { label: "X", name: "X", href: "https://x.com/onizlervakfi" },
@@ -43,17 +43,17 @@ export default function ContactPage() {
               <ScrollReveal direction="left">
                 <div className="bg-cream p-6 border border-gray-light">
                   <div className="space-y-5">
-                    <div className="flex items-start gap-3">
+                    <a href="https://share.google/WrF5phwe1HFljRvst" target="_blank" rel="noopener noreferrer" className="flex items-start gap-3 group">
                       <div className="w-10 h-10 bg-white flex items-center justify-center flex-shrink-0">
                         <MapPin className="w-5 h-5 text-gold" />
                       </div>
                       <div>
-                        <h3 className="font-bold text-charcoal text-sm uppercase tracking-wider">
+                        <h3 className="font-bold text-charcoal text-sm uppercase tracking-wider group-hover:text-gold transition-colors">
                           {t("address_title")}
                         </h3>
-                        <p className="text-sm text-charcoal/50 mt-1">{t("address")}</p>
+                        <p className="text-sm text-charcoal/50 mt-1 group-hover:text-charcoal transition-colors">{t("address")}</p>
                       </div>
-                    </div>
+                    </a>
                     <div className="flex items-center gap-3">
                       <div className="w-10 h-10 bg-white flex items-center justify-center flex-shrink-0">
                         <Phone className="w-5 h-5 text-gold" />

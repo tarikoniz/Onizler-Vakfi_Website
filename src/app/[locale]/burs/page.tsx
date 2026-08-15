@@ -19,7 +19,7 @@ function FaqItem({ q, a }: { q: string; a: string }) {
         <ChevronDown className={`w-5 h-5 text-charcoal/30 flex-shrink-0 transition-transform duration-300 ${open ? "rotate-180" : ""}`} />
       </button>
       {open && (
-        <div className="px-5 pb-5 text-sm text-charcoal/60 leading-relaxed border-t border-gray-light pt-4">
+        <div className="px-5 pb-5 text-sm text-charcoal/75 leading-relaxed border-t border-gray-light pt-4">
           {a}
         </div>
       )}

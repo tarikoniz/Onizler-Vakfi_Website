@@ -36,40 +36,40 @@ export default function TransparencyPage() {
               </div>
               <div className="relative">
                 <div className="flex items-center gap-4 mb-6">
-                  <div className="w-10 h-[2px] bg-gold" />
-                  <span className="text-gold text-xs font-bold tracking-[0.3em] uppercase">{t("registration_label")}</span>
+                  <div className="w-10 h-[2px] bg-gold-warm" />
+                  <span className="text-gold-warm text-xs font-bold tracking-[0.3em] uppercase">{t("registration_label")}</span>
                 </div>
                 <h2 className="text-2xl font-extrabold tracking-tight mb-6">{t("registration_title")}</h2>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                   <div className="flex items-start gap-3">
-                    <Landmark className="w-5 h-5 text-gold flex-shrink-0 mt-0.5" />
+                    <Landmark className="w-5 h-5 text-gold-warm flex-shrink-0 mt-0.5" />
                     <div>
-                      <p className="text-[10px] text-gold uppercase tracking-widest font-bold mb-1">{t("registration_gazette")}</p>
+                      <p className="text-[10px] text-gold-warm uppercase tracking-widest font-bold mb-1">{t("registration_gazette")}</p>
                       <p className="text-sm text-white/80">26.06.2026 — Sayı: 33292</p>
-                      <a href="https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/06/20260626-4-10.pdf" target="_blank" rel="noopener noreferrer" className="text-[11px] text-gold hover:text-gold-light underline mt-1 inline-block">
+                      <a href="https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/06/20260626-4-10.pdf" target="_blank" rel="noopener noreferrer" className="text-[11px] text-gold-warm hover:text-gold-light underline mt-1 inline-block">
                         {t("registration_view")} →
                       </a>
                     </div>
                   </div>
                   <div className="flex items-start gap-3">
-                    <Scale className="w-5 h-5 text-gold flex-shrink-0 mt-0.5" />
+                    <Scale className="w-5 h-5 text-gold-warm flex-shrink-0 mt-0.5" />
                     <div>
-                      <p className="text-[10px] text-gold uppercase tracking-widest font-bold mb-1">{t("registration_court")}</p>
+                      <p className="text-[10px] text-gold-warm uppercase tracking-widest font-bold mb-1">{t("registration_court")}</p>
                       <p className="text-sm text-white/80">Ankara Batı 10. Asliye Hukuk Mahkemesi</p>
                       <p className="text-[11px] text-white/50 mt-0.5">E:2025/502, K:2026/81 (06.04.2026)</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-3">
-                    <Coins className="w-5 h-5 text-gold flex-shrink-0 mt-0.5" />
+                    <Coins className="w-5 h-5 text-gold-warm flex-shrink-0 mt-0.5" />
                     <div>
-                      <p className="text-[10px] text-gold uppercase tracking-widest font-bold mb-1">{t("registration_capital")}</p>
+                      <p className="text-[10px] text-gold-warm uppercase tracking-widest font-bold mb-1">{t("registration_capital")}</p>
                       <p className="text-sm text-white/80">2.000.000 TL (Nakit)</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-3">
-                    <MapPin className="w-5 h-5 text-gold flex-shrink-0 mt-0.5" />
+                    <MapPin className="w-5 h-5 text-gold-warm flex-shrink-0 mt-0.5" />
                     <div>
-                      <p className="text-[10px] text-gold uppercase tracking-widest font-bold mb-1">{t("registration_residence")}</p>
+                      <p className="text-[10px] text-gold-warm uppercase tracking-widest font-bold mb-1">{t("registration_residence")}</p>
                       <p className="text-sm text-white/80">Ankara, Türkiye</p>
                     </div>
                   </div>
@@ -109,7 +109,7 @@ export default function TransparencyPage() {
                   <h2 className="text-lg font-extrabold text-charcoal tracking-tight group-hover:text-gold transition-colors duration-300 mb-2">
                     {t(key)}
                   </h2>
-                  <p className="text-sm text-charcoal/50 leading-relaxed mb-4">
+                  <p className="text-sm text-charcoal/70 leading-relaxed mb-4">
                     {t(desc)}
                   </p>
                   <div className="flex items-center gap-2 text-xs text-gold/70 font-bold uppercase tracking-wider">
@@ -137,7 +137,7 @@ export default function TransparencyPage() {
             <div className="bg-cream p-8 sm:p-10 relative overflow-hidden border border-gray-light border-l-4 border-l-gold">
               <div className="flex items-start gap-4">
                 <Quote className="w-8 h-8 text-gold flex-shrink-0" />
-                <p className="text-charcoal/60 italic leading-relaxed">
+                <p className="text-charcoal/75 italic leading-relaxed">
                   {t("legal_quote")}
                 </p>
               </div>

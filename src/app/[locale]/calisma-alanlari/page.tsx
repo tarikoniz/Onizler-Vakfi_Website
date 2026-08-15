@@ -70,7 +70,7 @@ export default function AreasPage() {
                   <h2 className="text-xl sm:text-2xl font-extrabold text-charcoal tracking-tight group-hover:text-gold transition-colors duration-300">
                     {t(`areas.${key}.title`)}
                   </h2>
-                  <p className="text-charcoal/60 leading-relaxed mt-3">
+                  <p className="text-charcoal/75 leading-relaxed mt-3">
                     {t(`areas.${key}.description`)}
                   </p>
                 </div>

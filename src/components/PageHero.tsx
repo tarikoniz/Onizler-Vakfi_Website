@@ -25,14 +25,14 @@ export default function PageHero({ title, subtitle }: { title: string; subtitle?
 
       <div className="relative mx-auto max-w-7xl px-6 sm:px-8 py-20 sm:py-28">
         <div className="flex items-center gap-4 mb-6">
-          <div className="w-12 h-[2px] bg-gold" />
-          <span className="text-gold text-xs font-bold tracking-[0.3em] uppercase">Önizler Vakfı</span>
+          <div className="w-12 h-[2px] bg-gold-warm" />
+          <span className="text-gold-warm text-sm font-bold tracking-[0.3em] uppercase">Önizler Vakfı</span>
         </div>
-        <h1 className="text-3xl sm:text-5xl lg:text-6xl font-extrabold text-white tracking-tight leading-tight">
+        <h1 className="text-4xl sm:text-6xl lg:text-7xl font-extrabold text-white tracking-tight leading-tight">
           {title}
         </h1>
         {subtitle && (
-          <p className="mt-4 text-lg text-white/50 font-light max-w-2xl">{subtitle}</p>
+          <p className="mt-6 text-lg sm:text-xl text-white/80 font-light max-w-2xl leading-relaxed">{subtitle}</p>
         )}
 
         <div className="absolute bottom-0 left-0 right-0 h-[3px] bg-gradient-to-r from-gold via-gold/50 to-transparent" />
