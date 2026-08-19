@@ -32,7 +32,7 @@ export default function TransparencyPage() {
           <ScrollReveal direction="up">
             <div className="bg-navy text-white p-8 sm:p-10 mb-8 relative overflow-hidden border border-navy">
               <div className="absolute right-0 top-0 h-full w-40 opacity-[0.08]">
-                <Image src="/logo.png" alt="" width={200} height={200} className="brightness-0 invert w-full h-full object-contain" />
+                <Image src="/logo-mark-white.png" alt="" width={200} height={200} className="w-full h-full object-contain" />
               </div>
               <div className="relative">
                 <div className="flex items-center gap-4 mb-6">
@@ -125,7 +125,7 @@ export default function TransparencyPage() {
           <ScrollReveal direction="fade">
             <div className="relative h-24 bg-gradient-to-r from-gold to-gold-light overflow-hidden flex items-center justify-center mb-8">
               <div className="absolute right-4 top-1/2 -translate-y-1/2 opacity-[0.08]">
-                <Image src="/logo.png" alt="" width={150} height={150} className="brightness-0 invert" />
+                <Image src="/logo-mark-white.png" alt="" width={150} height={150} className="" />
               </div>
               <p className="text-white font-bold text-sm tracking-[0.3em] uppercase relative z-10">
                 {t("banner_text")}

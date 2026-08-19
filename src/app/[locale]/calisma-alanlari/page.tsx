@@ -84,7 +84,7 @@ export default function AreasPage() {
       <section className="relative py-24 sm:py-32 overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-r from-gold via-gold-light to-gold" />
         <div className="absolute inset-0 opacity-[0.06]">
-          <Image src="/logo.png" alt="" width={400} height={400} className="absolute right-10 top-1/2 -translate-y-1/2 brightness-0 invert object-contain h-full w-auto" />
+          <Image src="/logo-mark-white.png" alt="" width={400} height={400} className="absolute right-10 top-1/2 -translate-y-1/2 object-contain h-full w-auto" />
         </div>
         <div className="relative mx-auto max-w-3xl px-6 sm:px-8 text-center">
           <ScrollReveal direction="up">

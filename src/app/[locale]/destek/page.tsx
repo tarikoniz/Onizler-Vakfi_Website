@@ -141,7 +141,7 @@ export default function SupportPage() {
           <ScrollReveal direction="fade">
             <div className="relative bg-gradient-to-r from-gold to-gold-light p-8 sm:p-10 overflow-hidden flex items-center justify-between">
               <div className="absolute right-4 top-1/2 -translate-y-1/2 opacity-[0.08]">
-                <Image src="/logo.png" alt="" width={200} height={200} className="brightness-0 invert" />
+                <Image src="/logo-mark-white.png" alt="" width={200} height={200} className="" />
               </div>
               <div className="relative">
                 <h3 className="text-xl font-extrabold text-white tracking-tight mb-2">

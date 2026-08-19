@@ -49,8 +49,8 @@ export default function HomePage() {
         </div>
 
         {/* Hero visual — tree logo watermark */}
-        <div className="absolute right-0 top-1/2 -translate-y-1/2 w-[600px] h-[600px] opacity-[0.07] hidden lg:block">
-          <Image src="/logo.png" alt="" width={600} height={600} className="object-contain brightness-0 invert w-full h-full" priority />
+        <div className="absolute right-16 top-1/2 -translate-y-1/2 w-72 h-72 opacity-20 hidden lg:block pointer-events-none">
+          <Image src="/logo-mark-white.png" alt="" width={288} height={288} className="object-contain w-full h-full" priority />
         </div>
 
         <div className="absolute top-1/4 right-1/4 w-72 h-72 border border-white/8 rounded-full animate-float" />
@@ -130,7 +130,7 @@ export default function HomePage() {
                 <div className="aspect-[4/3] bg-gradient-to-br from-cream via-white to-cream relative overflow-hidden border border-gray-light">
                   <div className="absolute inset-0 flex items-center justify-center p-8">
                     <Image
-                      src="/logo.png"
+                      src="/logo-mark-white.png"
                       alt="Önizler Vakfı"
                       width={320}
                       height={320}
@@ -317,7 +317,7 @@ export default function HomePage() {
       <section className="relative h-56 sm:h-72 overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-r from-gold via-gold-light to-gold" />
         <div className="absolute inset-0 opacity-[0.08]">
-          <Image src="/logo.png" alt="" width={400} height={400} className="absolute right-10 top-1/2 -translate-y-1/2 brightness-0 invert object-contain h-full w-auto" />
+          <Image src="/logo-mark-white.png" alt="" width={400} height={400} className="absolute right-10 top-1/2 -translate-y-1/2 object-contain h-full w-auto" />
         </div>
         <div className="relative z-10 h-full flex items-center justify-center">
           <div className="text-center">

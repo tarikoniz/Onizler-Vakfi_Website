@@ -95,7 +95,7 @@ export default function VolunteerPage() {
           <ScrollReveal direction="fade">
             <div className="relative h-32 bg-gradient-to-r from-gold to-gold-light mb-12 overflow-hidden flex items-center justify-center">
               <div className="absolute right-4 top-1/2 -translate-y-1/2 opacity-[0.08]">
-                <Image src="/logo.png" alt="" width={200} height={200} className="brightness-0 invert" />
+                <Image src="/logo-mark-white.png" alt="" width={200} height={200} className="" />
               </div>
               <p className="text-white font-bold text-lg tracking-wider uppercase relative z-10">{t("banner_text")}</p>
             </div>

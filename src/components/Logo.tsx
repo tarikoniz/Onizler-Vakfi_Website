@@ -8,20 +8,21 @@ export default function Logo({
   variant?: "light" | "dark";
 }) {
   const heights = {
-    small: 120,
-    default: 160,
-    large: 220,
+    small: 72,
+    default: 112,
+    large: 160,
   };
 
   const h = heights[size];
+  const src = variant === "light" ? "/logo-mark-white.png" : "/logo.png";
 
   return (
     <Image
-      src="/logo.png"
+      src={src}
       alt="Önizler Vakfı"
       width={h}
       height={h}
-      className={`object-contain w-auto ${variant === "light" ? "brightness-0 invert" : ""}`}
+      className="object-contain w-auto"
       style={{ height: `${h}px`, width: "auto" }}
       priority
     />
