@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Önizler Vakfı",
-    "description": "Eğitim, kültür ve sosyal dayanışma alanında bireyleri güçlendirmek, kültürel mirası yaşatmak ve toplumsal eşitliği desteklemek."
+    "description": "Topluma Öncü, Geleceğe İz — Toplumsal kalkınmanın dinamiklerini bilgi, inovasyon ve sürdürülebilirlik ekseninde yeniden üreten öncü sivil toplum kuruluşu."
   },
   "nav": {
     "home": "Ana Sayfa",
@@ -15,33 +15,33 @@
     "donate": "Destek Ol"
   },
   "hero": {
-    "title": "Bir Ailenin Sözü, Topluma Mirası",
-    "subtitle": "Eğitim, kültür ve sosyal dayanışma alanında bireyleri güçlendirmek için yola çıktık. 24 aile ferdi, tek bir amaç.",
+    "title": "Topluma Öncü, Geleceğe İz",
+    "subtitle": "Toplumsal kalkınmanın dinamiklerini bilgi, inovasyon ve sürdürülebilirlik ekseninde yeniden üreten; geleceğe nitelikli değerler aktarmayı amaçlayan öncü bir sivil toplum kuruluşuyuz.",
     "cta_volunteer": "Gönüllü Ol",
     "cta_about": "Hakkımızda",
     "explore": "Keşfet",
-    "about_label": "Hakkımızda",
-    "about_heading": "Bir Ailenin Gücü,\nToplumun Umudu",
-    "about_p1": "Öniz ailesi, nesiller boyunca birlik ve dayanışmanın gücüne inandı. 2025 yılında 24 aile ferdi bir araya gelerek Önizler Vakfı'nı kurdu.",
-    "about_p2": "Eğitimden kültüre, dijital dönüşümden sosyal dayanışmaya 9 farklı alanda faaliyet göstermeyi amaçlıyoruz.",
-    "about_cta": "Hikayemizi Keşfet",
-    "stats_label": "Rakamlarla",
+    "about_label": "Kimdir?",
+    "about_heading": "Bir Ailenin Sözü,\nToplumun İzi",
+    "about_p1": "Öniz ailesinin nesiller boyu süregelen dayanışma birikimi, 2026 yılında Önizler Vakfı çatısı altında kurumsal bir yapıya dönüştü.",
+    "about_p2": "Bilgi, inovasyon ve sürdürülebilirlik ekseninde çalışan öncü bir sivil toplum kuruluşu olarak, vakıf senedimizde tanımlanan 9 faaliyet alanında projeler geliştiriyoruz.",
+    "about_cta": "Vizyonumuzu Keşfet",
+    "stats_label": "Etki Alanlarımız",
     "areas_label": "Faaliyet Alanları",
     "banner_location": "Ankara, Türkiye",
-    "banner_text": "2025'ten Geleceğe",
+    "banner_text": "Topluma Öncü, Geleceğe İz",
     "join_label": "Katılın",
-    "founder_member": "Kurucu Üye",
-    "est_label": "Kuruluş 2025 — Ankara",
-    "quote_text": "Elimizdeki imkânı, en çok ihtiyacı olan insanlara nasıl ulaştırabiliriz?",
-    "quote_role": "Kurucu Başkan"
+    "founder_member": "Stratejik Odak",
+    "est_label": "Ankara — Türkiye",
+    "quote_text": "Toplumsal gelişimin dinamiklerini bilim, inovasyon ve sürdürülebilirlik ekseninde yeniden üretmek.",
+    "quote_role": "Vakıf Vizyonu"
   },
   "mission_banner": {
-    "text": "Eğitim, kültür ve sosyal dayanışma alanında bireyleri güçlendirmek, kültürel mirası yaşatmak ve toplumsal eşitliği desteklemek."
+    "text": "Topluma Öncü, Geleceğe İz — bilgi, inovasyon ve sürdürülebilirlik ekseninde toplumsal kalkınma."
   },
   "stats": {
-    "title": "Rakamlarla Önizler Vakfı",
-    "areas": "Faaliyet Alanı",
-    "founders": "Kurucu Aile Ferdi",
+    "title": "Stratejik Odak Alanlarımız",
+    "areas": "Stratejik Alan",
+    "founders": "Yönetim Kurulu",
     "capital": "Kuruluş Sermayesi",
     "capital_value": "2M ₺"
   },
@@ -112,22 +112,22 @@
   },
   "about": {
     "hero_title": "Hikayemiz",
-    "hero_subtitle": "Bir Ailenin Sözü, Topluma Mirası",
-    "story_p1": "Öniz ailesi, nesiller boyunca birlik ve dayanışmanın gücüne inandı. Bu inanç, aile büyüklerinden gençlerine aktarılan bir değer olarak yaşadı — ta ki 2025 yılında somut bir adıma dönüşene kadar.",
-    "story_p2": "Ankara'da bir araya gelen 24 aile ferdi, farklı yaşlardan ve mesleklerden, ama ortak bir soruyla yola çıktı: \"Elimizdeki imkânı, en çok ihtiyacı olan insanlara nasıl ulaştırabiliriz?\"",
-    "story_p3": "Bu sorunun cevabı ÖNİZLER VAKFI oldu. Ankara Batı 10. Asliye Hukuk Mahkemesinin 06.04.2026 tarihli ve E:2025/502, K:2026/81 sayılı kararı ile tescil edilen vakfımız, 26 Haziran 2026 tarihli ve 33292 sayılı Resmî Gazete'de ilan edilerek resmi olarak faaliyete başlamıştır.",
-    "story_p4": "2 milyon TL kuruluş sermayesiyle hayata geçen vakfımız, eğitimden kültüre, dijital dönüşümden sosyal dayanışmaya 9 farklı alanda faaliyet göstermeyi amaçlamaktadır.",
-    "story_p5": "Çünkü biz biliyoruz: bir aile birlikte durduğunda toplumlar güçlenir. ÖNİZLER VAKFI, bu güce olan inancımızın adıdır.",
+    "hero_subtitle": "Bir Ailenin Sözü, Toplumun İzi",
+    "story_p1": "Öniz ailesi, nesiller boyu süregelen dayanışma, hayırseverlik ve toplumsal sorumluluk mirasını yeni bir kurumsal yapı altında toplumun hizmetine sunmak istedi.",
+    "story_p2": "Ankara'da bir araya gelen 24 aile ferdi, ortak bir soruyla yola çıktı: \"Elimizdeki imkânı, en çok ihtiyacı olan insanlara nasıl kalıcı biçimde ulaştırabiliriz?\"",
+    "story_p3": "Bu sorunun cevabı ÖNİZLER VAKFI oldu. Ankara Batı 10. Asliye Hukuk Mahkemesinin 06.04.2026 tarihli ve E:2025/502, K:2026/81 sayılı kararı ile tescil edilen vakfımız; 26 Haziran 2026 tarihli ve 33292 sayılı Resmî Gazete'de ilan edilerek resmen faaliyete başlamıştır.",
+    "story_p4": "Bugün Önizler Vakfı; bilgi, inovasyon ve sürdürülebilirlik ekseninde çalışan öncü bir sivil toplum kuruluşu olarak konumlanmaktadır. 2 milyon TL kuruluş sermayesiyle hayata geçen vakfımız; vakıf senedinde tanımlanan 9 faaliyet alanında proaktif, bilimsel ve yenilikçi metodolojilerle çalışmalarını sürdürmektedir.",
+    "story_p5": "Bireysel çabaların kolektif bir güce dönüşerek toplumsal bir refah ve gelecek izi oluşturduğuna inanıyoruz. \"Topluma Öncü, Geleceğe İz\" — Önizler Vakfı, bu inancın kurumsal karşılığıdır.",
     "mission_title": "Misyonumuz",
-    "mission_text": "Eğitim, kültür ve sosyal dayanışma alanında bireyleri güçlendirmek, kültürel mirası yaşatmak ve toplumsal eşitliği desteklemek.",
+    "mission_text": "Bilgi, inovasyon ve sürdürülebilirlik eksenli çalışmalarla toplumsal kalkınmayı yeniden üretmek; kadın, genç ve özel gereksinimliler başta olmak üzere bireylerin potansiyelini güçlendirerek geleceğe nitelikli değerler aktarmak.",
     "vision_title": "Vizyonumuz",
-    "vision_text": "Eğitimde fırsat eşitliği, kültürde zenginlik ve toplumda dayanışma ile herkesin potansiyelini gerçekleştirebildiği bir dünya.",
+    "vision_text": "Toplumsal gelişim dinamiklerini proaktif, bilimsel ve yenilikçi metodolojilerle tetikleyerek; insani değerlerin, sosyal adaletin ve fırsat eşitliğinin sürdürülebilir kılındığı; bireylerin potansiyellerini en üst düzeyde gerçekleştirebildiği modern, kapsayıcı ve geleceğe yön veren küresel ölçekte referans bir sivil toplum ekosistemine öncülük etmek.",
     "values_title": "Değerlerimiz",
     "values": {
       "transparency": { "title": "Şeffaflık", "text": "Her kuruş hesap verilir. Faaliyet raporlarımız, mali tablolarımız ve bağış kullanım detaylarımız kamuya açıktır." },
       "inclusivity": { "title": "Kapsayıcılık", "text": "Kadın, genç, engelli, dezavantajlı — din, dil, ırk, cinsiyet ayrımı gözetmeksizin herkese eşit fırsat sunarız." },
       "sustainability": { "title": "Sürdürülebilirlik", "text": "Kısa vadeli yardım değil, kalıcı dönüşüm odaklı projeler geliştiririz." },
-      "heritage": { "title": "Aile Mirası", "text": "24 aile ferdi olarak kuşaklar arası bağımız, vakfımızın temelini oluşturur." },
+      "heritage": { "title": "Kültürel Miras", "text": "Somut ve somut olmayan kültürel mirası koruyup gelecek nesillere aktarmayı temel değer sayarız." },
       "innovation": { "title": "Yenilikçilik", "text": "Yapay zeka, AR/VR gibi teknolojileri eğitim ve kültüre taşıyarak geleceği bugünden inşa ederiz." },
       "collaboration": { "title": "İş Birliği", "text": "Kamu kurumları, üniversiteler, sivil toplum ve uluslararası kuruluşlarla ortaklıklar kurarız." }
     },
@@ -135,7 +135,7 @@
     "founder_name": "Merdan Öniz",
     "founder_role": "Mütevelli Heyeti Başkanı & Vakıf Kurucusu",
     "board_title": "Mütevelli Heyeti",
-    "board_subtitle": "Vakfımızın en üst karar organı olan Mütevelli Heyeti, 24 Öniz ailesi ferdinden oluşmaktadır.",
+    "board_subtitle": "Vakfımızın en üst karar organı olan Mütevelli Heyeti, 24 üyeden oluşmaktadır.",
     "management_title": "Yönetim Kurulu",
     "management_subtitle": "Vakfımızın icra organı olan Yönetim Kurulu, faaliyetlerin yürütülmesinden sorumludur.",
     "audit_title": "Denetim Kurulu",
@@ -153,11 +153,11 @@
     "label_founders": "Kurucu",
     "label_areas": "Alan",
     "label_capital": "Milyon ₺",
-    "founder_desc_p1": "Merdan Öniz liderliğinde, Öniz ailesi nesiller boyunca birlik ve dayanışmanın gücüne inandı.",
-    "founder_desc_p2": "2025 yılında ailenin tüm fertlerini bir araya getirerek, topluma kalıcı bir değer bırakmak amacıyla Önizler Vakfı'nı kurdu.",
+    "founder_desc_p1": "Merdan Öniz liderliğinde kurulan vakfımız, nesiller boyu süregelen dayanışma birikimini kurumsal bir çatı altında toplumun hizmetine sunmayı hedefler.",
+    "founder_desc_p2": "2026 yılında resmen kurulan vakıf; bilim, eğitim ve toplumsal dayanışma alanlarında topluma kalıcı bir iz bırakmayı hedeflemektedir.",
     "label_est": "Kuruluş 2025 — Ankara",
-    "quote_text": "Bir aile birlikte durduğunda toplumlar güçlenir.",
-    "quote_attribution": "Önizler Ailesi"
+    "quote_text": "Bireysel çabaların kolektif bir güce dönüşerek toplumsal bir refah ve gelecek izi oluşturması.",
+    "quote_attribution": "Önizler Vakfı"
   },
   "support": {
     "hero_title": "Destek Ol",

@@ -87,7 +87,7 @@ export default function HomePage() {
               <div className="mt-12 flex flex-wrap gap-5">
                 <Link
                   href="/gonullu-ol"
-                  className="group px-10 py-4 bg-gold text-white font-bold tracking-wider uppercase text-sm hover:bg-gold-light transition-all duration-300 flex items-center gap-3"
+                  className="group px-10 py-4 bg-white text-navy font-bold tracking-wider uppercase text-sm hover:bg-cream-warm transition-all duration-300 flex items-center gap-3"
                 >
                   {t("hero.cta_volunteer")}
                   <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />

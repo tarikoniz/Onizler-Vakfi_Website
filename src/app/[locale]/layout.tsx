@@ -12,15 +12,15 @@ const SITE_URL = "https://onizler-vakfi-website.vercel.app";
 
 const META = {
   tr: {
-    title: "Önizler Vakfı — Bir Ailenin Sözü, Topluma Mirası",
+    title: "Önizler Vakfı — Topluma Öncü, Geleceğe İz",
     description:
-      "Eğitim, kültür ve sosyal dayanışma alanında bireyleri güçlendirmek, kültürel mirası yaşatmak ve toplumsal eşitliği desteklemek için kurulan Önizler Vakfı'nın resmî web sitesi.",
+      "Toplumsal kalkınmanın dinamiklerini bilgi, inovasyon ve sürdürülebilirlik ekseninde yeniden üreten; geleceğe nitelikli değerler aktarmayı amaçlayan öncü bir sivil toplum kuruluşu.",
     locale: "tr_TR",
   },
   en: {
-    title: "Önizler Foundation — A Family's Word, A Community's Legacy",
+    title: "Önizler Foundation — Pioneer for Society, Legacy for the Future",
     description:
-      "Official website of Önizler Foundation — empowering individuals through education, culture, and social solidarity; preserving cultural heritage and advancing social equality.",
+      "A pioneering civil society organization advancing social development through knowledge, innovation and sustainability — transferring qualified values to future generations.",
     locale: "en_US",
   },
 } as const;

@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Önizler Foundation",
-    "description": "Empowering individuals through education, culture, and social solidarity — preserving cultural heritage and promoting social equality."
+    "description": "Pioneer for Society, Legacy for the Future — a pioneering civil society organization advancing social development through knowledge, innovation and sustainability."
   },
   "nav": {
     "home": "Home",
@@ -15,33 +15,33 @@
     "donate": "Support Us"
   },
   "hero": {
-    "title": "A Family's Promise, A Legacy for Society",
-    "subtitle": "We set out to empower individuals through education, culture, and social solidarity. 24 family members, one purpose.",
+    "title": "Pioneer for Society, Legacy for the Future",
+    "subtitle": "A pioneering civil society organization advancing social development through knowledge, innovation and sustainability — carrying a family's generational commitment forward for society.",
     "cta_volunteer": "Volunteer",
     "cta_about": "About Us",
     "explore": "Explore",
     "about_label": "About Us",
-    "about_heading": "A Family's Strength,\nA Community's Hope",
-    "about_p1": "The Öniz family believed in the power of unity and solidarity for generations. In 2025, 24 family members came together and founded the Önizler Foundation.",
-    "about_p2": "We aim to operate across 9 different areas — from education to culture, digital transformation to social solidarity.",
-    "about_cta": "Discover Our Story",
-    "stats_label": "In Numbers",
+    "about_heading": "A Family's Word,\nA Society's Legacy",
+    "about_p1": "The Öniz family's generational tradition of solidarity was formalized into an institutional structure in 2026 under the Önizler Foundation.",
+    "about_p2": "As a pioneering civil society organization built on knowledge, innovation and sustainability, we operate across 9 activity areas defined in our charter.",
+    "about_cta": "Discover Our Vision",
+    "stats_label": "Strategic Focus",
     "areas_label": "Focus Areas",
     "banner_location": "Ankara, Turkiye",
-    "banner_text": "From 2025 to the Future",
+    "banner_text": "Pioneer for Society, Legacy for the Future",
     "join_label": "Join Us",
-    "founder_member": "Founding Members",
-    "est_label": "Est. 2025 — Ankara",
-    "quote_text": "How can we deliver our resources to those who need them most?",
-    "quote_role": "Founding Chairman"
+    "founder_member": "Board Members",
+    "est_label": "Ankara — Türkiye",
+    "quote_text": "Triggering social development through proactive, scientific and innovative methodologies.",
+    "quote_role": "Foundation Vision"
   },
   "mission_banner": {
-    "text": "Empowering individuals through education, culture, and social solidarity — preserving cultural heritage and promoting social equality."
+    "text": "Pioneer for Society, Legacy for the Future — social development through knowledge, innovation and sustainability."
   },
   "stats": {
-    "title": "Önizler Foundation in Numbers",
-    "areas": "Focus Areas",
-    "founders": "Founding Family Members",
+    "title": "Our Strategic Focus Areas",
+    "areas": "Strategic Areas",
+    "founders": "Board Members",
     "capital": "Founding Capital",
     "capital_value": "₺2M"
   },
@@ -112,22 +112,22 @@
   },
   "about": {
     "hero_title": "Our Story",
-    "hero_subtitle": "A Family's Promise, A Legacy for Society",
-    "story_p1": "The Öniz family believed in the power of unity and solidarity for generations. This belief lived on as a value passed from elders to youth — until it took concrete form in 2025.",
-    "story_p2": "24 family members came together in Ankara. Different ages, different professions, but with one shared question: \"How can we deliver our resources to those who need them most?\"",
-    "story_p3": "The answer to that question was the ÖNİZLER FOUNDATION. Registered by the Ankara West 10th Civil Court of First Instance (Decision No. E:2025/502, K:2026/81 dated 06.04.2026) and officially announced in the Turkish Official Gazette No. 33292 on 26 June 2026.",
-    "story_p4": "Established with a founding capital of 2 million TL, our foundation aims to operate across 9 different areas — from education to culture, digital transformation to social solidarity.",
-    "story_p5": "Because we know: when a family stands together, communities grow stronger. ÖNİZLER FOUNDATION is the name of our belief in that power.",
+    "hero_subtitle": "A Family's Word, A Society's Legacy",
+    "story_p1": "The Öniz family sought to formalize its generational tradition of solidarity, philanthropy and social responsibility under a new institutional structure.",
+    "story_p2": "24 family members came together in Ankara with a shared question: \"How can we deliver our resources to those who need them most, in a lasting way?\"",
+    "story_p3": "The answer was ÖNİZLER FOUNDATION. Registered by the Ankara West 10th Civil Court of First Instance (Decision No. E:2025/502, K:2026/81 dated 06.04.2026) and officially announced in the Turkish Official Gazette No. 33292 on 26 June 2026.",
+    "story_p4": "Today Önizler Foundation stands as a pioneering civil society organization built on knowledge, innovation and sustainability. Established with a founding capital of 2 million TL, our foundation operates across 9 activity areas defined in our charter with proactive, scientific and innovative methodologies.",
+    "story_p5": "We believe that individual efforts, transformed into a collective force, create a lasting legacy of social welfare and progress. \"Pioneer for Society, Legacy for the Future\" — Önizler Foundation is the institutional embodiment of this belief.",
     "mission_title": "Our Mission",
-    "mission_text": "To empower individuals through education, culture, and social solidarity, preserve cultural heritage, and promote social equality.",
+    "mission_text": "To advance social development through knowledge, innovation and sustainability; to strengthen the potential of individuals — particularly women, youth and those with special needs — and to transfer qualified values to future generations.",
     "vision_title": "Our Vision",
-    "vision_text": "A world where everyone can realize their potential through equal opportunity in education, richness in culture, and solidarity in society.",
+    "vision_text": "To lead a globally referenced civil society ecosystem — modern, inclusive and future-shaping — where social development is triggered through proactive, scientific and innovative methodologies, and where human values, social justice and equal opportunity are made sustainable.",
     "values_title": "Our Values",
     "values": {
       "transparency": { "title": "Transparency", "text": "Every penny is accounted for. Our activity reports, financial statements, and donation details are publicly available." },
       "inclusivity": { "title": "Inclusivity", "text": "Equal opportunity for all — regardless of gender, age, disability, religion, language, or ethnicity." },
       "sustainability": { "title": "Sustainability", "text": "We develop projects focused on lasting transformation, not short-term aid." },
-      "heritage": { "title": "Family Heritage", "text": "As 24 family members, our intergenerational bond forms the foundation of our organization." },
+      "heritage": { "title": "Cultural Heritage", "text": "We protect tangible and intangible cultural heritage and pass it on to future generations as a core value." },
       "innovation": { "title": "Innovation", "text": "We build the future today by bringing AI, AR/VR and other technologies to education and culture." },
       "collaboration": { "title": "Collaboration", "text": "We build partnerships with public institutions, universities, civil society, and international organizations." }
     },
@@ -135,7 +135,7 @@
     "founder_name": "Merdan Öniz",
     "founder_role": "Chairman of the Board of Trustees & Founder",
     "board_title": "Board of Trustees",
-    "board_subtitle": "The Board of Trustees, the supreme decision-making body of our foundation, consists of 24 members of the Öniz family.",
+    "board_subtitle": "The Board of Trustees, the supreme decision-making body of our foundation, consists of 24 members.",
     "management_title": "Executive Board",
     "management_subtitle": "The Executive Board is responsible for carrying out all activities of the foundation.",
     "audit_title": "Audit Committee",
@@ -153,11 +153,11 @@
     "label_founders": "Founders",
     "label_areas": "Areas",
     "label_capital": "Million ₺",
-    "founder_desc_p1": "Under the leadership of Merdan Öniz, the Öniz family believed in the power of unity and solidarity for generations.",
-    "founder_desc_p2": "In 2025, he brought all family members together and founded the Önizler Foundation to leave a lasting legacy for society.",
+    "founder_desc_p1": "Under the leadership of Merdan Öniz, our foundation carries forward the family's generational tradition of solidarity and social responsibility under an institutional structure.",
+    "founder_desc_p2": "Officially established in 2026, the foundation aims to leave a lasting legacy in science, education and social solidarity — for society and future generations.",
     "label_est": "Est. 2025 — Ankara",
-    "quote_text": "When a family stands together, communities grow stronger.",
-    "quote_attribution": "The Önizler Family"
+    "quote_text": "Individual efforts, transformed into a collective force, create a lasting legacy of social welfare and progress.",
+    "quote_attribution": "Önizler Foundation"
   },
   "support": {
     "hero_title": "Support Us",
