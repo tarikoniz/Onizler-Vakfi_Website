@@ -16,41 +16,48 @@ const valueKeys = [
 const boardMembers = [
   { name: "Merdan Öniz", role: "Mütevelli Heyeti Başkanı" },
   { name: "Mustafa Öniz", role: "Başkan Yardımcısı" },
-  { name: "Ömer Faruk Öniz", role: "Başkan Yardımcısı" },
-  { name: "Abdulaziz Öniz", role: "Katip" },
+  { name: "Ömer Faruk Öniz", role: "Üye — YK Genel Sekreter" },
+  { name: "Abdulaziz Öniz", role: "Üye — YK Üyesi" },
   { name: "Badem Öniz", role: "Üye" },
-  { name: "Elif Öniz", role: "Üye" },
-  { name: "Hava Öniz", role: "Üye" },
-  { name: "Sevgi Öniz", role: "Üye" },
+  { name: "Elif Öniz", role: "Üye — Denetim Kurulu" },
+  { name: "Hava Öniz", role: "Üye — YK Yedek" },
+  { name: "Sevgi Öniz", role: "Üye — YK Yedek" },
   { name: "Enes Öniz", role: "Üye" },
   { name: "Bilal Öniz", role: "Üye" },
   { name: "Emine Öniz", role: "Üye" },
   { name: "Gülay Öniz", role: "Üye" },
   { name: "Ruhset Öniz", role: "Üye" },
   { name: "Şenol Öniz", role: "Üye" },
-  { name: "Nurcan Öniz", role: "Üye — YK Başkanı" },
+  { name: "Nurcan Öniz", role: "Üye" },
   { name: "Rüveyde Öniz", role: "Üye" },
   { name: "İbrahim Öniz", role: "Üye — YK Üyesi" },
-  { name: "Ravza Öniz", role: "Üye — YK Genel Sekreter" },
-  { name: "Sümeyye Öniz", role: "Üye" },
-  { name: "Büşra Öniz", role: "Üye — Denetim Kurulu" },
-  { name: "Tarık Öniz", role: "Üye — Denetim Kurulu" },
-  { name: "Emrah Öniz", role: "Üye — YK Üyesi" },
-  { name: "Sercan Öniz", role: "Üye — YK Başkan Yrd." },
+  { name: "Ravza Öniz", role: "Üye — Genel Müdür" },
+  { name: "Sümeyye Öniz", role: "Üye — Denetim Kurulu" },
+  { name: "Büşra Öniz", role: "Üye — YK Başkan Yrd." },
+  { name: "Tarık Öniz", role: "Üye — YK Başkanı" },
+  { name: "Emrah Öniz", role: "Üye" },
+  { name: "Sercan Öniz", role: "Üye" },
   { name: "Ercan Öniz", role: "Üye" },
 ];
 
 const management = [
-  { name: "Nurcan Öniz", role: "Başkan" },
-  { name: "Sercan Öniz", role: "Başkan Yardımcısı" },
-  { name: "Ravza Öniz", role: "Genel Sekreter" },
+  { name: "Tarık Öniz", role: "Başkan" },
+  { name: "Büşra Öniz", role: "Başkan Yardımcısı" },
+  { name: "Ömer Faruk Öniz", role: "Genel Sekreter" },
+  { name: "Abdulaziz Öniz", role: "Üye" },
   { name: "İbrahim Öniz", role: "Üye" },
-  { name: "Emrah Öniz", role: "Üye" },
 ];
 
+const managementReserve = [
+  { name: "Sevgi Öniz", role: "Yedek Üye" },
+  { name: "Hava Öniz", role: "Yedek Üye" },
+];
+
+const generalManager = { name: "Ravza Öniz", role: "Genel Müdür" };
+
 const audit = [
-  { name: "Büşra Öniz", role: "Üye" },
-  { name: "Tarık Öniz", role: "Üye" },
+  { name: "Sümeyye Öniz", role: "Üye" },
+  { name: "Elif Öniz", role: "Üye" },
 ];
 
 export default function AboutPage() {
@@ -351,6 +358,55 @@ export default function AboutPage() {
               </ScrollReveal>
             ))}
           </div>
+
+          {/* Yedek Üyeler */}
+          <ScrollReveal direction="up" delay={200}>
+            <div className="mt-12 max-w-2xl mx-auto">
+              <div className="flex items-center justify-center gap-3 mb-4">
+                <div className="w-8 h-[1px] bg-charcoal/20" />
+                <span className="text-charcoal/40 text-[10px] font-bold tracking-[0.3em] uppercase">Yedek Üyeler</span>
+                <div className="w-8 h-[1px] bg-charcoal/20" />
+              </div>
+              <div className="grid grid-cols-2 gap-3">
+                {managementReserve.map((member) => (
+                  <div key={member.name} className="bg-cream p-4 text-center border border-gray-light">
+                    <p className="text-sm font-bold text-charcoal">{member.name}</p>
+                    <p className="text-[10px] text-charcoal/40 mt-1 uppercase tracking-wider">{member.role}</p>
+                  </div>
+                ))}
+              </div>
+            </div>
+          </ScrollReveal>
+        </div>
+      </section>
+
+      {/* Genel Müdür */}
+      <section className="bg-cream py-16 sm:py-20">
+        <div className="mx-auto max-w-3xl px-6 sm:px-8">
+          <ScrollReveal direction="up">
+            <div className="text-center mb-10">
+              <div className="flex items-center justify-center gap-4 mb-6">
+                <div className="w-12 h-[2px] bg-gold" />
+                <span className="text-gold text-xs font-bold tracking-[0.3em] uppercase">Genel Müdür</span>
+                <div className="w-12 h-[2px] bg-gold" />
+              </div>
+              <h2 className="text-2xl sm:text-3xl font-extrabold text-charcoal tracking-tight">
+                Vakıf Genel Müdürlüğü
+              </h2>
+            </div>
+            <div className="max-w-xs mx-auto">
+              <div className="group bg-white p-8 text-center border border-gray-light hover:border-gold/30 transition-all duration-500 hover:shadow-lg relative overflow-hidden">
+                <div className="absolute top-0 left-0 w-full h-[3px] bg-gold" />
+                <div className="w-20 h-20 bg-gold/10 mx-auto mb-4 flex items-center justify-center rounded-full">
+                  <span className="text-xl font-bold text-gold">
+                    {generalManager.name.split(" ").map((n) => n[0]).join("")}
+                  </span>
+                </div>
+                <p className="text-lg font-extrabold text-charcoal">{generalManager.name}</p>
+                <p className="text-xs text-charcoal/50 mt-1 uppercase tracking-wider font-bold">{generalManager.role}</p>
+              </div>
+            </div>
+          </ScrollReveal>
         </div>
       </section>
 
