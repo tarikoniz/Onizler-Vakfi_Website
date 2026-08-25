@@ -14,30 +14,41 @@ const valueKeys = [
 ] as const;
 
 const boardMembers = [
+  // Mütevelli Heyeti Başkanlık
   { name: "Merdan Öniz", role: "Mütevelli Heyeti Başkanı" },
-  { name: "Mustafa Öniz", role: "Başkan Yardımcısı" },
-  { name: "Ömer Faruk Öniz", role: "Üye — YK Genel Sekreter" },
-  { name: "Abdulaziz Öniz", role: "Üye — YK Üyesi" },
-  { name: "Badem Öniz", role: "Üye" },
-  { name: "Elif Öniz", role: "Üye — Denetim Kurulu" },
-  { name: "Hava Öniz", role: "Üye — YK Yedek" },
-  { name: "Sevgi Öniz", role: "Üye — YK Yedek" },
-  { name: "Enes Öniz", role: "Üye" },
-  { name: "Bilal Öniz", role: "Üye" },
-  { name: "Emine Öniz", role: "Üye" },
-  { name: "Gülay Öniz", role: "Üye" },
-  { name: "Ruhset Öniz", role: "Üye" },
-  { name: "Şenol Öniz", role: "Üye" },
-  { name: "Nurcan Öniz", role: "Üye" },
-  { name: "Rüveyde Öniz", role: "Üye" },
-  { name: "İbrahim Öniz", role: "Üye — YK Üyesi" },
-  { name: "Ravza Öniz", role: "Üye — Genel Müdür" },
-  { name: "Sümeyye Öniz", role: "Üye — Denetim Kurulu" },
-  { name: "Büşra Öniz", role: "Üye — YK Başkan Yrd." },
-  { name: "Tarık Öniz", role: "Üye — YK Başkanı" },
-  { name: "Emrah Öniz", role: "Üye" },
-  { name: "Sercan Öniz", role: "Üye" },
-  { name: "Ercan Öniz", role: "Üye" },
+  { name: "Mustafa Öniz", role: "Mütevelli Heyeti Başkan Yardımcısı" },
+
+  // Yönetim Kurulu Asıl Üyeleri
+  { name: "Tarık Öniz", role: "Yönetim Kurulu Başkanı" },
+  { name: "Büşra Öniz", role: "Yönetim Kurulu Başkan Yardımcısı" },
+  { name: "Ömer Faruk Öniz", role: "Yönetim Kurulu Genel Sekreteri" },
+  { name: "Abdulaziz Öniz", role: "Yönetim Kurulu Üyesi" },
+  { name: "İbrahim Öniz", role: "Yönetim Kurulu Üyesi" },
+
+  // Yönetim Kurulu Yedek Üyeleri
+  { name: "Sevgi Öniz", role: "Yönetim Kurulu Yedek Üyesi" },
+  { name: "Hava Öniz", role: "Yönetim Kurulu Yedek Üyesi" },
+
+  // Genel Müdür
+  { name: "Ravza Öniz", role: "Genel Müdür" },
+
+  // Denetim Kurulu
+  { name: "Sümeyye Öniz", role: "Denetim Kurulu Üyesi" },
+  { name: "Elif Öniz", role: "Denetim Kurulu Üyesi" },
+
+  // Diğer Mütevelli Heyeti Üyeleri (alfabetik)
+  { name: "Badem Öniz", role: "Mütevelli Heyeti Üyesi" },
+  { name: "Bilal Öniz", role: "Mütevelli Heyeti Üyesi" },
+  { name: "Emine Öniz", role: "Mütevelli Heyeti Üyesi" },
+  { name: "Emrah Öniz", role: "Mütevelli Heyeti Üyesi" },
+  { name: "Enes Öniz", role: "Mütevelli Heyeti Üyesi" },
+  { name: "Ercan Öniz", role: "Mütevelli Heyeti Üyesi" },
+  { name: "Gülay Öniz", role: "Mütevelli Heyeti Üyesi" },
+  { name: "Nurcan Öniz", role: "Mütevelli Heyeti Üyesi" },
+  { name: "Ruhset Öniz", role: "Mütevelli Heyeti Üyesi" },
+  { name: "Rüveyde Öniz", role: "Mütevelli Heyeti Üyesi" },
+  { name: "Sercan Öniz", role: "Mütevelli Heyeti Üyesi" },
+  { name: "Şenol Öniz", role: "Mütevelli Heyeti Üyesi" },
 ];
 
 const management = [
