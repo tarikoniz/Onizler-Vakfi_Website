@@ -72,7 +72,7 @@ export default function HomePage() {
             </ScrollReveal>
 
             <ScrollReveal direction="up" delay={400}>
-              <h1 className="text-4xl sm:text-6xl lg:text-7xl font-extrabold leading-[1.05] sm:leading-[0.95] tracking-tight text-white">
+              <h1 className="text-4xl sm:text-6xl lg:text-7xl font-extrabold leading-[1.15] tracking-tight text-white pt-2">
                 {t("hero.title")}
               </h1>
             </ScrollReveal>
