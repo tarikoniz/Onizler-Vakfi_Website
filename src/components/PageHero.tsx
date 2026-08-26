@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function PageHero({ title, subtitle }: { title: string; subtitle?: string }) {
   return (
-    <section className="relative bg-gradient-to-br from-[#1E6B7D] via-[#2C7E92] to-[#164D5B] overflow-hidden pt-32">
+    <section className="relative bg-gradient-to-br from-[#143D4B] via-[#1E5566] to-[#0F2E38] overflow-hidden pt-32">
       <div className="absolute inset-0 opacity-[0.06]">
         <svg className="w-full h-full" xmlns="http://www.w3.org/2000/svg">
           <defs>

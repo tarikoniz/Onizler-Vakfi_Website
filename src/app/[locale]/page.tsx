@@ -35,7 +35,7 @@ export default function HomePage() {
     <>
       {/* Hero — Full screen */}
       <section className="relative min-h-screen flex items-center justify-center overflow-hidden bg-navy">
-        <div className="absolute inset-0 bg-gradient-to-br from-[#1E6B7D] via-[#2C7E92] to-[#164D5B] animate-gradient" />
+        <div className="absolute inset-0 bg-gradient-to-br from-[#143D4B] via-[#1E5566] to-[#0F2E38] animate-gradient" />
 
         <div className="absolute inset-0 opacity-[0.07]">
           <svg className="w-full h-full" xmlns="http://www.w3.org/2000/svg">
