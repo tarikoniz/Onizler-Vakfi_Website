@@ -8,9 +8,9 @@ export default function Logo({
   variant?: "light" | "dark";
 }) {
   const heights = {
-    small: 72,
-    default: 112,
-    large: 160,
+    small: 84,
+    default: 120,
+    large: 176,
   };
 
   const h = heights[size];

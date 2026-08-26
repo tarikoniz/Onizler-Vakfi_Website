@@ -49,7 +49,7 @@ export default function HomePage() {
         </div>
 
         {/* Hero visual — tree logo watermark */}
-        <div className="absolute right-16 top-1/2 -translate-y-1/2 w-72 h-72 opacity-20 hidden lg:block pointer-events-none">
+        <div className="absolute right-20 top-1/2 -translate-y-1/2 w-56 h-56 xl:w-72 xl:h-72 opacity-10 hidden lg:block pointer-events-none">
           <Image src="/logo-mark-white.png" alt="" width={288} height={288} className="object-contain w-full h-full" priority />
         </div>
 

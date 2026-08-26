@@ -14,8 +14,8 @@ export default function PageHero({ title, subtitle }: { title: string; subtitle?
         </svg>
       </div>
 
-      <div className="absolute right-8 top-1/2 -translate-y-1/2 w-56 h-56 opacity-15 hidden lg:block pointer-events-none">
-        <Image src="/logo-mark-white.png" alt="" width={224} height={224} className="object-contain w-full h-full" />
+      <div className="absolute right-8 top-1/2 -translate-y-1/2 w-44 h-44 xl:w-52 xl:h-52 opacity-10 hidden lg:block pointer-events-none">
+        <Image src="/logo-mark-white.png" alt="" width={208} height={208} className="object-contain w-full h-full" />
       </div>
 
       <div className="absolute right-10 top-20 w-48 h-48 border border-white/8 rounded-full hidden lg:block" />
