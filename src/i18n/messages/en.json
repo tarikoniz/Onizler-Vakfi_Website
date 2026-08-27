@@ -12,7 +12,8 @@
     "news": "News",
     "transparency": "Transparency",
     "contact": "Contact",
-    "donate": "Support Us"
+    "donate": "Support Us",
+    "press": "Press Kit"
   },
   "hero": {
     "title": "Pioneer for Society, Legacy for the Future",
@@ -455,5 +456,31 @@
     ],
     "cta_text": "Couldn't find the answer you were looking for?",
     "cta_link": "Contact Us"
+  },
+  "partners": {
+    "label": "Collaboration",
+    "title": "Our Supporters"
+  },
+  "documents": {
+    "title": "Documents & Reports",
+    "empty": "Activity reports and financial documents will be published here as they are prepared."
+  },
+  "press": {
+    "hero_title": "Press Kit",
+    "hero_subtitle": "Brand Assets & Media Contact",
+    "intro": "You can download the Önizler Foundation logo and brand assets below. Please use the logo in its original proportions and in line with the colour rules.",
+    "logo_title": "Logo",
+    "logo_desc": "Three colour variants for different backgrounds. SVG (vector) stays crisp at any size; PNG is for quick use.",
+    "variant_teal": "Teal (light background)",
+    "variant_white": "White (dark background)",
+    "variant_gold": "Gold (special use)",
+    "download_svg": "Download SVG",
+    "download_png": "Download PNG",
+    "colors_title": "Brand Colours",
+    "usage_title": "Usage Guidelines",
+    "usage_do": "Use the logo in its original proportions; leave sufficient clear space around it.",
+    "usage_dont": "Do not stretch, rotate, recolour, or add unauthorised effects to the logo.",
+    "contact_title": "Press Contact",
+    "contact_desc": "For interviews, statements and media requests:"
   }
 }

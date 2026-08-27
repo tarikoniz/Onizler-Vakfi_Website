@@ -82,6 +82,7 @@ export default function Footer() {
                 { key: "scholarship", href: "/burs" },
                 { key: "news", href: "/haberler" },
                 { key: "transparency", href: "/seffaflik" },
+                { key: "press", href: "/basin" },
                 { key: "donate", href: "/destek" },
               ].map((item) => (
                 <li key={item.key}>

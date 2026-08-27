@@ -11,6 +11,7 @@ const paths = [
   "/haberler",
   "/destek",
   "/seffaflik",
+  "/basin",
   "/iletisim",
   "/yasal",
 ] as const;

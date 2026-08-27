@@ -12,7 +12,8 @@
     "news": "Haberler",
     "transparency": "Şeffaflık",
     "contact": "İletişim",
-    "donate": "Destek Ol"
+    "donate": "Destek Ol",
+    "press": "Basın Kiti"
   },
   "hero": {
     "title": "Topluma Öncü, Geleceğe İz",
@@ -455,5 +456,31 @@
     ],
     "cta_text": "Aradığınız cevabı bulamadınız mı?",
     "cta_link": "Bize Ulaşın"
+  },
+  "partners": {
+    "label": "İş Birliği",
+    "title": "Destekçilerimiz"
+  },
+  "documents": {
+    "title": "Belgeler ve Raporlar",
+    "empty": "Faaliyet raporları ve mali belgeler hazırlandıkça bu bölümde yayınlanacaktır."
+  },
+  "press": {
+    "hero_title": "Basın Kiti",
+    "hero_subtitle": "Marka Varlıkları ve Medya İletişimi",
+    "intro": "Önizler Vakfı logosunu ve marka varlıklarını aşağıdan indirebilirsiniz. Lütfen logoyu orijinal oranlarında ve renk kurallarına uygun kullanınız.",
+    "logo_title": "Logo",
+    "logo_desc": "Farklı zeminler için üç renk varyantı. SVG (vektör) her boyutta nettir; PNG hızlı kullanım içindir.",
+    "variant_teal": "Lacivert (açık zemin)",
+    "variant_white": "Beyaz (koyu zemin)",
+    "variant_gold": "Altın (özel kullanım)",
+    "download_svg": "SVG indir",
+    "download_png": "PNG indir",
+    "colors_title": "Kurumsal Renkler",
+    "usage_title": "Kullanım Kuralları",
+    "usage_do": "Logoyu orijinal oranlarında kullanın; etrafında yeterli boşluk bırakın.",
+    "usage_dont": "Logoyu germeyin, döndürmeyin, renklerini değiştirmeyin veya izinsiz efekt eklemeyin.",
+    "contact_title": "Basın İletişimi",
+    "contact_desc": "Röportaj, demeç ve medya talepleriniz için:"
   }
 }

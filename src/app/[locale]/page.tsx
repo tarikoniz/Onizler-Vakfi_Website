@@ -20,6 +20,7 @@ import {
 } from "lucide-react";
 import ScrollReveal from "@/components/ScrollReveal";
 import FaqAccordion from "@/components/FaqAccordion";
+import PartnersBand from "@/components/PartnersBand";
 
 const areaIcons = [
   GraduationCap, Award, Palette, HandHeart, Globe,
@@ -323,6 +324,9 @@ export default function HomePage() {
           </ScrollReveal>
         </div>
       </section>
+
+      {/* Partners / Supporters — appears only when configured */}
+      <PartnersBand />
 
       {/* FAQ */}
       <section className="bg-cream py-20 sm:py-28">

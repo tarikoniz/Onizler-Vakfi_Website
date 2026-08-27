@@ -3,6 +3,7 @@ import Image from "next/image";
 import { FileText, BarChart3, PieChart, Target, Quote, Clock, CheckCircle2, Landmark, Scale, Coins, MapPin } from "lucide-react";
 import PageHero from "@/components/PageHero";
 import ScrollReveal from "@/components/ScrollReveal";
+import DocumentsSection from "@/components/DocumentsSection";
 
 export default function TransparencyPage() {
   const t = useTranslations("transparency");
@@ -95,6 +96,13 @@ export default function TransparencyPage() {
                   </li>
                 ))}
               </ul>
+            </div>
+          </ScrollReveal>
+
+          {/* Downloadable documents / reports */}
+          <ScrollReveal direction="up" delay={80}>
+            <div className="mb-8">
+              <DocumentsSection />
             </div>
           </ScrollReveal>
 
