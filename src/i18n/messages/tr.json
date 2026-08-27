@@ -416,5 +416,16 @@
     "kvkk": "KVKK Aydınlatma",
     "rights": "Tüm hakları saklıdır.",
     "notary": "Resmî Gazete: 26.06.2026 — Sayı: 33292"
+  },
+  "cookie": {
+    "text": "Bu web sitesi, deneyiminizi geliştirmek için çerezler kullanır. Siteyi kullanmaya devam ederek çerez kullanımını kabul etmiş olursunuz.",
+    "link": "Çerez Politikası",
+    "accept": "Kabul Et",
+    "decline": "Reddet"
+  },
+  "notFound": {
+    "eyebrow": "Sayfa Bulunamadı",
+    "text": "Aradığınız sayfa taşınmış veya hiç var olmamış olabilir. Ana sayfaya dönebilirsiniz.",
+    "cta": "Ana Sayfaya Dön"
   }
 }

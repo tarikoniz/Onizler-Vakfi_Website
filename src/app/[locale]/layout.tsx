@@ -6,6 +6,8 @@ import { Manrope, Playfair_Display, Roboto_Slab, Montserrat } from "next/font/go
 import { routing } from "@/i18n/routing";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import CookieConsent from "@/components/CookieConsent";
+import ScrollToTop from "@/components/ScrollToTop";
 import "../globals.css";
 
 const SITE_URL = "https://onizler-vakfi-website.vercel.app";
@@ -121,6 +123,8 @@ export default async function LocaleLayout({
           <Header />
           <main className="flex-1">{children}</main>
           <Footer />
+          <CookieConsent />
+          <ScrollToTop />
         </NextIntlClientProvider>
       </body>
     </html>

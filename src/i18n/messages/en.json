@@ -416,5 +416,16 @@
     "kvkk": "Data Protection",
     "rights": "All rights reserved.",
     "notary": "Official Gazette: 26.06.2026 — No: 33292"
+  },
+  "cookie": {
+    "text": "This website uses cookies to improve your experience. By continuing to use the site, you agree to our use of cookies.",
+    "link": "Cookie Policy",
+    "accept": "Accept",
+    "decline": "Decline"
+  },
+  "notFound": {
+    "eyebrow": "Page Not Found",
+    "text": "The page you are looking for may have been moved or never existed. You can return to the homepage.",
+    "cta": "Back to Home"
   }
 }
