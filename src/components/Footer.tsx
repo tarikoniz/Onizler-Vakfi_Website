@@ -194,6 +194,13 @@ export default function Footer() {
           <p>&copy; 2026 Önizler Vakfı — {t("rights")}</p>
           <p>{t("notary")}</p>
         </div>
+
+        <div className="mt-6 text-center">
+          <p className="text-[11px] text-charcoal/25 tracking-wider">
+            {t("made_by")}{" "}
+            <span className="font-bold text-charcoal/45">FaOn</span>
+          </p>
+        </div>
       </div>
     </footer>
   );
