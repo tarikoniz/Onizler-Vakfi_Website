@@ -1,4 +1,4 @@
-import Image from "next/image";
+/* eslint-disable @next/next/no-img-element */
 
 export default function Logo({
   size = "default",
@@ -14,17 +14,16 @@ export default function Logo({
   };
 
   const h = heights[size];
-  const src = variant === "light" ? "/logo-mark-white.png" : "/logo.png";
+  // dark = teal mark (for light backgrounds), light = white mark (for dark backgrounds)
+  const src = variant === "light" ? "/logo-white.svg" : "/logo-teal.svg";
 
   return (
-    <Image
+    <img
       src={src}
       alt="Önizler Vakfı"
-      width={h}
-      height={h}
-      className="object-contain w-auto"
       style={{ height: `${h}px`, width: "auto" }}
-      priority
+      className="object-contain select-none"
+      draggable={false}
     />
   );
 }

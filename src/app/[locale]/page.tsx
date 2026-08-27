@@ -139,12 +139,11 @@ export default function HomePage() {
                     </svg>
                   </div>
                   <div className="absolute inset-0 flex items-center justify-center p-10">
-                    <Image
-                      src="/logo-mark-white.png"
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img
+                      src="/logo-white.svg"
                       alt="Önizler Vakfı"
-                      width={340}
-                      height={340}
-                      className="object-contain"
+                      className="object-contain w-[78%] h-[78%]"
                     />
                   </div>
                   <div className="absolute top-0 left-0 w-16 h-16 border-t-2 border-l-2 border-gold" />
