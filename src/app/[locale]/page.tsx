@@ -14,9 +14,11 @@ import {
   ArrowRight,
   ArrowDown,
   Quote,
+  Eye,
+  Leaf,
+  Users,
 } from "lucide-react";
 import ScrollReveal from "@/components/ScrollReveal";
-import AnimatedCounter from "@/components/AnimatedCounter";
 
 const areaIcons = [
   GraduationCap, Award, Palette, HandHeart, Globe,
@@ -152,9 +154,9 @@ export default function HomePage() {
                     <p className="text-white/70 text-xs uppercase tracking-[0.3em] text-center font-bold">{t("hero.est_label")}</p>
                   </div>
                 </div>
-                <div className="absolute -bottom-6 -right-6 bg-gold p-6 hidden sm:block shadow-lg">
-                  <div className="text-3xl font-extrabold text-white"><AnimatedCounter value={9} /></div>
-                  <div className="text-xs text-white/90 uppercase tracking-wider font-bold mt-1">{t("hero.founder_member")}</div>
+                <div className="absolute -bottom-6 -right-6 bg-gold px-7 py-6 hidden sm:block shadow-lg text-center">
+                  <div className="text-3xl font-extrabold text-white leading-none">2026</div>
+                  <div className="text-[11px] text-white/90 uppercase tracking-[0.2em] font-bold mt-2">{t("hero.est_short")}</div>
                 </div>
               </div>
             </ScrollReveal>
@@ -187,7 +189,7 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Stats — Bold numbers with animated counters */}
+      {/* Values band — dignified, no exposed figures */}
       <section className="bg-cream py-20 sm:py-28 relative overflow-hidden">
         <div className="absolute left-0 top-0 w-1 h-full bg-gradient-to-b from-transparent via-gold to-transparent opacity-30" />
 
@@ -196,38 +198,37 @@ export default function HomePage() {
             <div className="text-center mb-16">
               <div className="flex items-center justify-center gap-4 mb-6">
                 <div className="w-12 h-[2px] bg-gold" />
-                <span className="text-gold text-xs font-bold tracking-[0.3em] uppercase">{t("hero.stats_label")}</span>
+                <span className="text-gold text-xs font-bold tracking-[0.3em] uppercase">{t("about.label_values")}</span>
                 <div className="w-12 h-[2px] bg-gold" />
               </div>
               <h2 className="text-3xl sm:text-5xl font-extrabold text-charcoal tracking-tight">
-                {t("stats.title")}
+                {t("about.values_title")}
               </h2>
             </div>
           </ScrollReveal>
 
-          <ScrollReveal direction="up" delay={200}>
-            <div className="grid grid-cols-1 sm:grid-cols-3 gap-0">
-              {[
-                { value: 9, suffix: "", label: t("stats.areas"), icon: "◆" },
-                { value: 24, suffix: "", label: t("stats.founders"), icon: "●" },
-                { value: 2, suffix: "M₺", label: t("stats.capital"), icon: "■" },
-              ].map((stat, i) => (
-                <div
-                  key={stat.label}
-                  className={`text-center py-14 px-6 relative ${i < 2 ? "sm:border-r border-b sm:border-b-0 border-charcoal/10" : ""}`}
-                >
-                  <div className="text-gold/30 text-lg mb-4">{stat.icon}</div>
-                  <div className="text-6xl sm:text-7xl font-extrabold text-navy leading-none">
-                    <AnimatedCounter value={stat.value} suffix={stat.suffix} />
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+            {[
+              { key: "transparency", Icon: Eye },
+              { key: "sustainability", Icon: Leaf },
+              { key: "inclusivity", Icon: Users },
+            ].map(({ key, Icon }, i) => (
+              <ScrollReveal key={key} direction="up" delay={i * 120}>
+                <div className="group bg-white border border-gray-light p-8 sm:p-10 h-full relative overflow-hidden hover:shadow-lg transition-shadow duration-500">
+                  <div className="absolute top-0 left-0 w-full h-[3px] bg-gold scale-x-0 group-hover:scale-x-100 origin-left transition-transform duration-500" />
+                  <div className="w-14 h-14 rounded-full bg-navy/[0.06] flex items-center justify-center mb-6 group-hover:bg-navy/10 transition-colors">
+                    <Icon className="w-6 h-6 text-navy" />
                   </div>
-                  <div className="mt-4 text-xs text-charcoal/40 uppercase tracking-[0.25em] font-bold">
-                    {stat.label}
-                  </div>
-                  <div className="absolute bottom-0 left-1/2 -translate-x-1/2 w-8 h-[2px] bg-gold" />
+                  <h3 className="text-xl font-extrabold text-charcoal tracking-tight mb-3">
+                    {t(`about.values.${key}.title`)}
+                  </h3>
+                  <p className="text-charcoal/60 leading-relaxed text-[15px]">
+                    {t(`about.values.${key}.text`)}
+                  </p>
                 </div>
-              ))}
-            </div>
-          </ScrollReveal>
+              </ScrollReveal>
+            ))}
+          </div>
         </div>
       </section>
 
