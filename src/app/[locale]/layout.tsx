@@ -10,6 +10,8 @@ import CookieConsent from "@/components/CookieConsent";
 import ScrollToTop from "@/components/ScrollToTop";
 import WhatsAppButton from "@/components/WhatsAppButton";
 import Analytics from "@/components/Analytics";
+import { Analytics as VercelAnalytics } from "@vercel/analytics/next";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import "../globals.css";
 
 const SITE_URL = "https://onizler-vakfi-website.vercel.app";
@@ -129,6 +131,8 @@ export default async function LocaleLayout({
           <ScrollToTop />
           <WhatsAppButton />
           <Analytics />
+          <VercelAnalytics />
+          <SpeedInsights />
         </NextIntlClientProvider>
       </body>
     </html>
