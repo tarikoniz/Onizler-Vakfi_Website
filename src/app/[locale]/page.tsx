@@ -72,7 +72,7 @@ export default function HomePage() {
             </ScrollReveal>
 
             <ScrollReveal direction="up" delay={400}>
-              <h1 className="text-4xl sm:text-6xl lg:text-7xl font-extrabold leading-[1.15] tracking-tight text-white pt-2">
+              <h1 className="text-4xl sm:text-6xl lg:text-7xl font-extrabold leading-[1.12] tracking-tight text-white pt-2 [text-wrap:balance] max-w-3xl">
                 {t("hero.title")}
               </h1>
             </ScrollReveal>
@@ -127,25 +127,35 @@ export default function HomePage() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <ScrollReveal direction="left">
               <div className="relative">
-                <div className="aspect-[4/3] bg-gradient-to-br from-cream via-white to-cream relative overflow-hidden border border-gray-light">
-                  <div className="absolute inset-0 flex items-center justify-center p-8">
+                <div className="aspect-[4/3] bg-navy relative overflow-hidden">
+                  <div className="absolute inset-0 opacity-[0.5]">
+                    <svg className="w-full h-full" xmlns="http://www.w3.org/2000/svg">
+                      <defs>
+                        <pattern id="about-grid" width="40" height="40" patternUnits="userSpaceOnUse">
+                          <path d="M 40 0 L 0 0 0 40" fill="none" stroke="white" strokeWidth="0.4" opacity="0.08" />
+                        </pattern>
+                      </defs>
+                      <rect width="100%" height="100%" fill="url(#about-grid)" />
+                    </svg>
+                  </div>
+                  <div className="absolute inset-0 flex items-center justify-center p-10">
                     <Image
                       src="/logo-mark-white.png"
                       alt="Önizler Vakfı"
-                      width={320}
-                      height={320}
-                      className="object-contain opacity-90"
+                      width={340}
+                      height={340}
+                      className="object-contain"
                     />
                   </div>
                   <div className="absolute top-0 left-0 w-16 h-16 border-t-2 border-l-2 border-gold" />
                   <div className="absolute bottom-0 right-0 w-16 h-16 border-b-2 border-r-2 border-gold" />
-                  <div className="absolute bottom-4 left-4 right-4 bg-white/90 backdrop-blur-sm p-4 border border-gray-light">
-                    <p className="text-charcoal/50 text-xs uppercase tracking-[0.3em] text-center font-bold">{t("hero.est_label")}</p>
+                  <div className="absolute bottom-4 left-4 right-4 bg-white/10 backdrop-blur-sm p-4 border border-white/15">
+                    <p className="text-white/70 text-xs uppercase tracking-[0.3em] text-center font-bold">{t("hero.est_label")}</p>
                   </div>
                 </div>
-                <div className="absolute -bottom-6 -right-6 bg-gold p-6 hidden sm:block">
-                  <div className="text-3xl font-extrabold text-white"><AnimatedCounter value={24} /></div>
-                  <div className="text-xs text-white/80 uppercase tracking-wider font-bold mt-1">{t("hero.founder_member")}</div>
+                <div className="absolute -bottom-6 -right-6 bg-gold p-6 hidden sm:block shadow-lg">
+                  <div className="text-3xl font-extrabold text-white"><AnimatedCounter value={9} /></div>
+                  <div className="text-xs text-white/90 uppercase tracking-wider font-bold mt-1">{t("hero.founder_member")}</div>
                 </div>
               </div>
             </ScrollReveal>

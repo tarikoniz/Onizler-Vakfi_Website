@@ -30,7 +30,7 @@
     "banner_location": "Ankara, Turkiye",
     "banner_text": "Pioneer for Society, Legacy for the Future",
     "join_label": "Join Us",
-    "founder_member": "Board Members",
+    "founder_member": "Focus Areas",
     "est_label": "Ankara — Türkiye",
     "quote_text": "Triggering social development through proactive, scientific and innovative methodologies.",
     "quote_role": "Foundation Vision"
@@ -40,8 +40,8 @@
   },
   "stats": {
     "title": "Our Strategic Focus Areas",
-    "areas": "Strategic Areas",
-    "founders": "Board Members",
+    "areas": "Focus Areas",
+    "founders": "Trustees",
     "capital": "Founding Capital",
     "capital_value": "₺2M"
   },
@@ -124,12 +124,30 @@
     "vision_text": "To lead a globally referenced civil society ecosystem — modern, inclusive and future-shaping — where social development is triggered through proactive, scientific and innovative methodologies, and where human values, social justice and equal opportunity are made sustainable.",
     "values_title": "Our Values",
     "values": {
-      "transparency": { "title": "Transparency", "text": "Every penny is accounted for. Our activity reports, financial statements, and donation details are publicly available." },
-      "inclusivity": { "title": "Inclusivity", "text": "Equal opportunity for all — regardless of gender, age, disability, religion, language, or ethnicity." },
-      "sustainability": { "title": "Sustainability", "text": "We develop projects focused on lasting transformation, not short-term aid." },
-      "heritage": { "title": "Cultural Heritage", "text": "We protect tangible and intangible cultural heritage and pass it on to future generations as a core value." },
-      "innovation": { "title": "Innovation", "text": "We build the future today by bringing AI, AR/VR and other technologies to education and culture." },
-      "collaboration": { "title": "Collaboration", "text": "We build partnerships with public institutions, universities, civil society, and international organizations." }
+      "transparency": {
+        "title": "Transparency",
+        "text": "Every penny is accounted for. Our activity reports, financial statements, and donation details are publicly available."
+      },
+      "inclusivity": {
+        "title": "Inclusivity",
+        "text": "Equal opportunity for all — regardless of gender, age, disability, religion, language, or ethnicity."
+      },
+      "sustainability": {
+        "title": "Sustainability",
+        "text": "We develop projects focused on lasting transformation, not short-term aid."
+      },
+      "heritage": {
+        "title": "Cultural Heritage",
+        "text": "We protect tangible and intangible cultural heritage and pass it on to future generations as a core value."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "text": "We build the future today by bringing AI, AR/VR and other technologies to education and culture."
+      },
+      "collaboration": {
+        "title": "Collaboration",
+        "text": "We build partnerships with public institutions, universities, civil society, and international organizations."
+      }
     },
     "founder_title": "Our Founder",
     "founder_name": "Merdan Öniz",
@@ -197,11 +215,26 @@
     ],
     "areas_title": "Volunteer Areas",
     "areas": {
-      "education": { "title": "Education Volunteer", "text": "Mentoring, tutoring, career guidance" },
-      "event": { "title": "Event Volunteer", "text": "Festival, exhibition, conference organization" },
-      "field": { "title": "Field Volunteer", "text": "Aid distribution, disaster response, community work" },
-      "digital": { "title": "Digital Volunteer", "text": "Content creation, social media, web, design" },
-      "professional": { "title": "Professional Volunteer", "text": "Legal, accounting, marketing pro bono support" }
+      "education": {
+        "title": "Education Volunteer",
+        "text": "Mentoring, tutoring, career guidance"
+      },
+      "event": {
+        "title": "Event Volunteer",
+        "text": "Festival, exhibition, conference organization"
+      },
+      "field": {
+        "title": "Field Volunteer",
+        "text": "Aid distribution, disaster response, community work"
+      },
+      "digital": {
+        "title": "Digital Volunteer",
+        "text": "Content creation, social media, web, design"
+      },
+      "professional": {
+        "title": "Professional Volunteer",
+        "text": "Legal, accounting, marketing pro bono support"
+      }
     },
     "form_title": "Volunteer Application Form",
     "form_name": "Full Name",
@@ -225,20 +258,52 @@
     "hero_subtitle": "Let Us Support Your Education",
     "intro": "Don't let financial conditions stand in the way of your education. Apply to our scholarship program.",
     "types_title": "Scholarship Types",
-    "types": ["Secondary education scholarship", "University scholarship (undergraduate)", "Graduate / doctoral scholarship", "Vocational education scholarship", "International internship support"],
+    "types": [
+      "Secondary education scholarship",
+      "University scholarship (undergraduate)",
+      "Graduate / doctoral scholarship",
+      "Vocational education scholarship",
+      "International internship support"
+    ],
     "conditions_title": "Application Requirements",
-    "conditions": ["Turkish citizenship", "Enrolled in a formal educational institution", "Demonstrated financial need", "Not receiving a full scholarship from another organization"],
+    "conditions": [
+      "Turkish citizenship",
+      "Enrolled in a formal educational institution",
+      "Demonstrated financial need",
+      "Not receiving a full scholarship from another organization"
+    ],
     "docs_title": "Required Documents",
-    "docs": ["Copy of ID card", "Student certificate", "Transcript", "Family income statement", "Motivation letter"],
+    "docs": [
+      "Copy of ID card",
+      "Student certificate",
+      "Transcript",
+      "Family income statement",
+      "Motivation letter"
+    ],
     "calendar_title": "Application Calendar",
     "calendar_text": "Application period and details will be announced soon.",
     "faq_title": "Frequently Asked Questions",
     "faq": [
-      { "q": "When can I apply for a scholarship?", "a": "Application periods are announced each year on our website and social media accounts." },
-      { "q": "How much is the scholarship amount?", "a": "Scholarship amounts are determined based on the level of education and financial need." },
-      { "q": "Can I apply if I receive a scholarship from another institution?", "a": "Candidates not receiving a full scholarship may apply. Those with partial scholarships will be evaluated." },
-      { "q": "How long does the scholarship last?", "a": "Scholarships are awarded per academic year and renewed based on academic performance." },
-      { "q": "When are application results announced?", "a": "Results are communicated via email after the evaluation process is completed." }
+      {
+        "q": "When can I apply for a scholarship?",
+        "a": "Application periods are announced each year on our website and social media accounts."
+      },
+      {
+        "q": "How much is the scholarship amount?",
+        "a": "Scholarship amounts are determined based on the level of education and financial need."
+      },
+      {
+        "q": "Can I apply if I receive a scholarship from another institution?",
+        "a": "Candidates not receiving a full scholarship may apply. Those with partial scholarships will be evaluated."
+      },
+      {
+        "q": "How long does the scholarship last?",
+        "a": "Scholarships are awarded per academic year and renewed based on academic performance."
+      },
+      {
+        "q": "When are application results announced?",
+        "a": "Results are communicated via email after the evaluation process is completed."
+      }
     ]
   },
   "contact": {
@@ -253,7 +318,15 @@
     "form_email": "Email",
     "form_phone": "Phone (optional)",
     "form_subject": "Subject",
-    "form_subjects": ["General Information", "Donation", "Scholarship", "Volunteering", "Sponsorship", "Press", "Other"],
+    "form_subjects": [
+      "General Information",
+      "Donation",
+      "Scholarship",
+      "Volunteering",
+      "Sponsorship",
+      "Press",
+      "Other"
+    ],
     "form_message": "Your Message",
     "form_kvkk": "I have read and accept the Privacy Policy.",
     "form_submit": "Send",

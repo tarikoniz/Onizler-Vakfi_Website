@@ -30,7 +30,7 @@
     "banner_location": "Ankara, Türkiye",
     "banner_text": "Topluma Öncü, Geleceğe İz",
     "join_label": "Katılın",
-    "founder_member": "Stratejik Odak",
+    "founder_member": "Faaliyet Alanı",
     "est_label": "Ankara — Türkiye",
     "quote_text": "Toplumsal gelişimin dinamiklerini bilim, inovasyon ve sürdürülebilirlik ekseninde yeniden üretmek.",
     "quote_role": "Vakıf Vizyonu"
@@ -40,8 +40,8 @@
   },
   "stats": {
     "title": "Stratejik Odak Alanlarımız",
-    "areas": "Stratejik Alan",
-    "founders": "Yönetim Kurulu",
+    "areas": "Faaliyet Alanı",
+    "founders": "Mütevelli Üyesi",
     "capital": "Kuruluş Sermayesi",
     "capital_value": "2M ₺"
   },
@@ -124,12 +124,30 @@
     "vision_text": "Toplumsal gelişim dinamiklerini proaktif, bilimsel ve yenilikçi metodolojilerle tetikleyerek, insani değerlerin, sosyal adaletin ve fırsat eşitliğinin sürdürülebilir kılındığı; bireylerin potansiyellerini en üst düzeyde gerçekleştirebildiği modern, kapsayıcı ve geleceğe yön veren küresel ölçekte referans bir sivil toplum ekosistemine öncülük etmek.",
     "values_title": "Değerlerimiz",
     "values": {
-      "transparency": { "title": "Şeffaflık", "text": "Her kuruş hesap verilir. Faaliyet raporlarımız, mali tablolarımız ve bağış kullanım detaylarımız kamuya açıktır." },
-      "inclusivity": { "title": "Kapsayıcılık", "text": "Kadın, genç, engelli, dezavantajlı — din, dil, ırk, cinsiyet ayrımı gözetmeksizin herkese eşit fırsat sunarız." },
-      "sustainability": { "title": "Sürdürülebilirlik", "text": "Kısa vadeli yardım değil, kalıcı dönüşüm odaklı projeler geliştiririz." },
-      "heritage": { "title": "Kültürel Miras", "text": "Somut ve somut olmayan kültürel mirası koruyup gelecek nesillere aktarmayı temel değer sayarız." },
-      "innovation": { "title": "Yenilikçilik", "text": "Yapay zeka, AR/VR gibi teknolojileri eğitim ve kültüre taşıyarak geleceği bugünden inşa ederiz." },
-      "collaboration": { "title": "İş Birliği", "text": "Kamu kurumları, üniversiteler, sivil toplum ve uluslararası kuruluşlarla ortaklıklar kurarız." }
+      "transparency": {
+        "title": "Şeffaflık",
+        "text": "Her kuruş hesap verilir. Faaliyet raporlarımız, mali tablolarımız ve bağış kullanım detaylarımız kamuya açıktır."
+      },
+      "inclusivity": {
+        "title": "Kapsayıcılık",
+        "text": "Kadın, genç, engelli, dezavantajlı — din, dil, ırk, cinsiyet ayrımı gözetmeksizin herkese eşit fırsat sunarız."
+      },
+      "sustainability": {
+        "title": "Sürdürülebilirlik",
+        "text": "Kısa vadeli yardım değil, kalıcı dönüşüm odaklı projeler geliştiririz."
+      },
+      "heritage": {
+        "title": "Kültürel Miras",
+        "text": "Somut ve somut olmayan kültürel mirası koruyup gelecek nesillere aktarmayı temel değer sayarız."
+      },
+      "innovation": {
+        "title": "Yenilikçilik",
+        "text": "Yapay zeka, AR/VR gibi teknolojileri eğitim ve kültüre taşıyarak geleceği bugünden inşa ederiz."
+      },
+      "collaboration": {
+        "title": "İş Birliği",
+        "text": "Kamu kurumları, üniversiteler, sivil toplum ve uluslararası kuruluşlarla ortaklıklar kurarız."
+      }
     },
     "founder_title": "Kurucumuz",
     "founder_name": "Merdan Öniz",
@@ -197,11 +215,26 @@
     ],
     "areas_title": "Gönüllülük Alanları",
     "areas": {
-      "education": { "title": "Eğitim Gönüllüsü", "text": "Mentorluk, ders desteği, kariyer rehberliği" },
-      "event": { "title": "Etkinlik Gönüllüsü", "text": "Festival, sergi, konferans organizasyonları" },
-      "field": { "title": "Saha Gönüllüsü", "text": "Yardım dağıtımı, afet müdahale, toplum çalışması" },
-      "digital": { "title": "Dijital Gönüllü", "text": "İçerik üretimi, sosyal medya, web, tasarım" },
-      "professional": { "title": "Profesyonel Gönüllü", "text": "Hukuk, muhasebe, pazarlama pro bono desteği" }
+      "education": {
+        "title": "Eğitim Gönüllüsü",
+        "text": "Mentorluk, ders desteği, kariyer rehberliği"
+      },
+      "event": {
+        "title": "Etkinlik Gönüllüsü",
+        "text": "Festival, sergi, konferans organizasyonları"
+      },
+      "field": {
+        "title": "Saha Gönüllüsü",
+        "text": "Yardım dağıtımı, afet müdahale, toplum çalışması"
+      },
+      "digital": {
+        "title": "Dijital Gönüllü",
+        "text": "İçerik üretimi, sosyal medya, web, tasarım"
+      },
+      "professional": {
+        "title": "Profesyonel Gönüllü",
+        "text": "Hukuk, muhasebe, pazarlama pro bono desteği"
+      }
     },
     "form_title": "Gönüllü Başvuru Formu",
     "form_name": "Ad Soyad",
@@ -225,20 +258,52 @@
     "hero_subtitle": "Eğitiminize Destek Olalım",
     "intro": "Ekonomik koşullar eğitiminizin önüne geçmesin. Burs programımıza başvurun.",
     "types_title": "Burs Türleri",
-    "types": ["Ortaöğretim bursu", "Üniversite bursu (lisans)", "Yüksek lisans / doktora bursu", "Mesleki eğitim bursu", "Yurt dışı staj desteği"],
+    "types": [
+      "Ortaöğretim bursu",
+      "Üniversite bursu (lisans)",
+      "Yüksek lisans / doktora bursu",
+      "Mesleki eğitim bursu",
+      "Yurt dışı staj desteği"
+    ],
     "conditions_title": "Başvuru Koşulları",
-    "conditions": ["T.C. vatandaşı olmak", "Örgün eğitim kurumunda kayıtlı olmak", "Ekonomik desteğe ihtiyaç duymak", "Başka bir kuruluştan tam burs almıyor olmak"],
+    "conditions": [
+      "T.C. vatandaşı olmak",
+      "Örgün eğitim kurumunda kayıtlı olmak",
+      "Ekonomik desteğe ihtiyaç duymak",
+      "Başka bir kuruluştan tam burs almıyor olmak"
+    ],
     "docs_title": "Gerekli Belgeler",
-    "docs": ["Nüfus cüzdanı fotokopisi", "Öğrenci belgesi", "Transkript", "Gelir durumu belgesi", "Motivasyon mektubu"],
+    "docs": [
+      "Nüfus cüzdanı fotokopisi",
+      "Öğrenci belgesi",
+      "Transkript",
+      "Gelir durumu belgesi",
+      "Motivasyon mektubu"
+    ],
     "calendar_title": "Başvuru Takvimi",
     "calendar_text": "Başvuru dönemi ve detaylar yakında duyurulacaktır.",
     "faq_title": "Sıkça Sorulan Sorular",
     "faq": [
-      { "q": "Burs başvurusu ne zaman yapılır?", "a": "Başvuru dönemleri her yıl web sitemiz ve sosyal medya hesaplarımız üzerinden duyurulur." },
-      { "q": "Burs miktarı ne kadardır?", "a": "Burs miktarları öğrenim düzeyine ve ihtiyaç durumuna göre belirlenir." },
-      { "q": "Başka kurumdan burs alıyorum başvurabilir miyim?", "a": "Tam burs almayan adaylar başvurabilir. Kısmi burs alanlar değerlendirmeye alınır." },
-      { "q": "Burs süresi ne kadardır?", "a": "Burslar akademik yıl bazında verilir ve başarı durumuna göre yenilenir." },
-      { "q": "Başvuru sonuçları ne zaman açıklanır?", "a": "Değerlendirme süreci tamamlandıktan sonra sonuçlar e-posta ile bildirilir." }
+      {
+        "q": "Burs başvurusu ne zaman yapılır?",
+        "a": "Başvuru dönemleri her yıl web sitemiz ve sosyal medya hesaplarımız üzerinden duyurulur."
+      },
+      {
+        "q": "Burs miktarı ne kadardır?",
+        "a": "Burs miktarları öğrenim düzeyine ve ihtiyaç durumuna göre belirlenir."
+      },
+      {
+        "q": "Başka kurumdan burs alıyorum başvurabilir miyim?",
+        "a": "Tam burs almayan adaylar başvurabilir. Kısmi burs alanlar değerlendirmeye alınır."
+      },
+      {
+        "q": "Burs süresi ne kadardır?",
+        "a": "Burslar akademik yıl bazında verilir ve başarı durumuna göre yenilenir."
+      },
+      {
+        "q": "Başvuru sonuçları ne zaman açıklanır?",
+        "a": "Değerlendirme süreci tamamlandıktan sonra sonuçlar e-posta ile bildirilir."
+      }
     ]
   },
   "contact": {
@@ -253,7 +318,15 @@
     "form_email": "E-posta",
     "form_phone": "Telefon (opsiyonel)",
     "form_subject": "Konu",
-    "form_subjects": ["Genel Bilgi", "Bağış", "Burs", "Gönüllülük", "Sponsorluk", "Basın", "Diğer"],
+    "form_subjects": [
+      "Genel Bilgi",
+      "Bağış",
+      "Burs",
+      "Gönüllülük",
+      "Sponsorluk",
+      "Basın",
+      "Diğer"
+    ],
     "form_message": "Mesajınız",
     "form_kvkk": "KVKK Aydınlatma Metnini okudum ve kabul ediyorum.",
     "form_submit": "Gönder",
