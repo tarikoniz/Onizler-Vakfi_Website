@@ -427,5 +427,33 @@
     "eyebrow": "Page Not Found",
     "text": "The page you are looking for may have been moved or never existed. You can return to the homepage.",
     "cta": "Back to Home"
+  },
+  "faq": {
+    "label": "Frequently Asked Questions",
+    "title": "Common Questions",
+    "items": [
+      {
+        "q": "How can I donate to Önizler Foundation?",
+        "a": "You can make a one-time or recurring donation via the bank details on our Support page, or choose corporate sponsorship or in-kind giving. Every donation is transparently reported."
+      },
+      {
+        "q": "Are my donations tax-deductible?",
+        "a": "Donations to Önizler Foundation may be deducted from income and corporate tax bases within the framework of applicable legislation. A donation receipt is issued upon request."
+      },
+      {
+        "q": "What are the requirements for a scholarship application?",
+        "a": "Undergraduate and graduate students with high academic achievement and limited socio-economic means may apply. Applications are received digitally and evaluated on merit."
+      },
+      {
+        "q": "I want to volunteer — how can I join?",
+        "a": "Fill in the form on our Volunteer page and choose the area that suits you — education, events, field, digital or professional. After applying you are invited to an orientation process."
+      },
+      {
+        "q": "How is the foundation's financial transparency ensured?",
+        "a": "All our financial statements undergo independent audit; activity reports and donation-usage details are shared with the public annually. We are subject to the oversight of the General Directorate of Foundations."
+      }
+    ],
+    "cta_text": "Couldn't find the answer you were looking for?",
+    "cta_link": "Contact Us"
   }
 }

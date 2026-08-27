@@ -427,5 +427,33 @@
     "eyebrow": "Sayfa Bulunamadı",
     "text": "Aradığınız sayfa taşınmış veya hiç var olmamış olabilir. Ana sayfaya dönebilirsiniz.",
     "cta": "Ana Sayfaya Dön"
+  },
+  "faq": {
+    "label": "Sıkça Sorulan Sorular",
+    "title": "Merak Edilenler",
+    "items": [
+      {
+        "q": "Önizler Vakfı'na nasıl bağış yapabilirim?",
+        "a": "Destek Ol sayfamızdaki banka hesap bilgileri üzerinden bireysel veya düzenli bağış yapabilir, kurumsal sponsorluk ya da ayni bağış seçeneklerinden yararlanabilirsiniz. Her bağış, şeffaf biçimde raporlanır."
+      },
+      {
+        "q": "Bağışlarım vergiden düşülüyor mu?",
+        "a": "Önizler Vakfı'na yapılan bağışlar, yürürlükteki mevzuat çerçevesinde gelir ve kurumlar vergisi matrahından indirilebilir. Bağış makbuzunuz talebiniz üzerine düzenlenir."
+      },
+      {
+        "q": "Burs başvurusu için hangi şartlar aranıyor?",
+        "a": "Akademik başarısı yüksek, sosyo-ekonomik imkânları kısıtlı lisans ve lisansüstü öğrencileri burs programımıza başvurabilir. Başvurular dijital ortamda alınır ve liyakat esaslı değerlendirilir."
+      },
+      {
+        "q": "Gönüllü olmak istiyorum, nasıl katılabilirim?",
+        "a": "Gönüllü Ol sayfamızdaki formu doldurarak eğitim, etkinlik, saha, dijital veya profesyonel gönüllülük alanlarından size uygun olanı seçebilirsiniz. Başvurunuz sonrası oryantasyon sürecine davet edilirsiniz."
+      },
+      {
+        "q": "Vakfın mali şeffaflığı nasıl sağlanıyor?",
+        "a": "Tüm mali tablolarımız bağımsız denetimden geçer; faaliyet raporları ve bağış kullanım detayları yıllık olarak kamuoyuyla paylaşılır. Vakıflar Genel Müdürlüğü denetimine tabiyiz."
+      }
+    ],
+    "cta_text": "Aradığınız cevabı bulamadınız mı?",
+    "cta_link": "Bize Ulaşın"
   }
 }

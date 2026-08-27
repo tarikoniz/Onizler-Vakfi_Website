@@ -19,6 +19,7 @@ import {
   Users,
 } from "lucide-react";
 import ScrollReveal from "@/components/ScrollReveal";
+import FaqAccordion from "@/components/FaqAccordion";
 
 const areaIcons = [
   GraduationCap, Award, Palette, HandHeart, Globe,
@@ -318,6 +319,33 @@ export default function HomePage() {
                   <p className="text-xs text-charcoal/40 uppercase tracking-wider">{t("hero.quote_role")}</p>
                 </div>
               </div>
+            </div>
+          </ScrollReveal>
+        </div>
+      </section>
+
+      {/* FAQ */}
+      <section className="bg-cream py-20 sm:py-28">
+        <div className="mx-auto max-w-3xl px-6 sm:px-8">
+          <ScrollReveal direction="up">
+            <div className="text-center mb-14">
+              <div className="flex items-center justify-center gap-4 mb-6">
+                <div className="w-12 h-[2px] bg-gold" />
+                <span className="text-gold text-xs font-bold tracking-[0.3em] uppercase">{t("faq.label")}</span>
+                <div className="w-12 h-[2px] bg-gold" />
+              </div>
+              <h2 className="text-3xl sm:text-5xl font-extrabold text-charcoal tracking-tight">
+                {t("faq.title")}
+              </h2>
+            </div>
+          </ScrollReveal>
+          <ScrollReveal direction="up" delay={120}>
+            <FaqAccordion items={t.raw("faq.items") as { q: string; a: string }[]} />
+            <div className="text-center mt-10 text-charcoal/60 text-sm">
+              {t("faq.cta_text")}{" "}
+              <Link href="/iletisim" className="text-navy font-bold underline hover:text-gold transition-colors">
+                {t("faq.cta_link")}
+              </Link>
             </div>
           </ScrollReveal>
         </div>
