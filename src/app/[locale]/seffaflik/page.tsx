@@ -1,6 +1,6 @@
 import { useTranslations } from "next-intl";
 import Image from "next/image";
-import { FileText, BarChart3, PieChart, Target, Quote, Clock, CheckCircle2, Landmark, Scale, Coins, MapPin } from "lucide-react";
+import { FileText, BarChart3, PieChart, Target, Quote, Clock, CheckCircle2, Landmark, MapPin } from "lucide-react";
 import PageHero from "@/components/PageHero";
 import ScrollReveal from "@/components/ScrollReveal";
 import DocumentsSection from "@/components/DocumentsSection";
@@ -46,25 +46,10 @@ export default function TransparencyPage() {
                     <Landmark className="w-5 h-5 text-gold-warm flex-shrink-0 mt-0.5" />
                     <div>
                       <p className="text-[10px] text-gold-warm uppercase tracking-widest font-bold mb-1">{t("registration_gazette")}</p>
-                      <p className="text-sm text-white/80">26.06.2026 — Sayı: 33292</p>
+                      <p className="text-sm text-white/80">26 Haziran 2026 — Sayı: 33292</p>
                       <a href="https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/06/20260626-4-10.pdf" target="_blank" rel="noopener noreferrer" className="text-[11px] text-gold-warm hover:text-gold-light underline mt-1 inline-block">
                         {t("registration_view")} →
                       </a>
-                    </div>
-                  </div>
-                  <div className="flex items-start gap-3">
-                    <Scale className="w-5 h-5 text-gold-warm flex-shrink-0 mt-0.5" />
-                    <div>
-                      <p className="text-[10px] text-gold-warm uppercase tracking-widest font-bold mb-1">{t("registration_court")}</p>
-                      <p className="text-sm text-white/80">Ankara Batı 10. Asliye Hukuk Mahkemesi</p>
-                      <p className="text-[11px] text-white/50 mt-0.5">E:2025/502, K:2026/81 (06.04.2026)</p>
-                    </div>
-                  </div>
-                  <div className="flex items-start gap-3">
-                    <Coins className="w-5 h-5 text-gold-warm flex-shrink-0 mt-0.5" />
-                    <div>
-                      <p className="text-[10px] text-gold-warm uppercase tracking-widest font-bold mb-1">{t("registration_capital")}</p>
-                      <p className="text-sm text-white/80">2.000.000 TL (Nakit)</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-3">

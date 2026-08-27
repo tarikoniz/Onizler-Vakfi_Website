@@ -121,9 +121,9 @@ export default function AboutPage() {
                 {/* Quick stats */}
                 <div className="grid grid-cols-3 gap-3">
                   {[
-                    { value: 24, label: t("label_founders") },
+                    { value: 24, label: t("label_trustees") },
                     { value: 9, label: t("label_areas") },
-                    { value: 2, label: t("label_capital") },
+                    { value: 4, label: t("label_priorities") },
                   ].map((s) => (
                     <div key={s.label} className="bg-cream p-4 text-center border border-gray-light">
                       <div className="text-2xl font-extrabold text-gold"><AnimatedCounter value={s.value} /></div>

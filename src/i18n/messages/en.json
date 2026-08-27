@@ -104,7 +104,9 @@
         "short": "Building cultural centers, sports facilities, ecological parks, and community spaces.",
         "description": "Physical spaces form the infrastructure of community life. We contribute to social development by building accessible, sustainable, and inclusive social spaces."
       }
-    }
+    },
+    "stats_priorities": "Strategic Priorities",
+    "stats_est": "Established"
   },
   "cta_section": {
     "title": "Join this journey.",
@@ -116,8 +118,8 @@
     "hero_title": "Our Story",
     "hero_subtitle": "A Family's Word, A Society's Legacy",
     "story_p1": "The Öniz family sought to formalize its generational tradition of solidarity, philanthropy and social responsibility under a new institutional structure.",
-    "story_p2": "24 family members came together in Ankara with a shared question: \"How can we deliver our resources to those who need them most, in a lasting way?\"",
-    "story_p3": "The answer was ÖNİZLER FOUNDATION. Registered by the Ankara West 10th Civil Court of First Instance (Decision No. E:2025/502, K:2026/81 dated 06.04.2026) and officially announced in the Turkish Official Gazette No. 33292 on 26 June 2026.",
+    "story_p2": "Brought to life under the leadership of its founder, Merdan Öniz, the foundation carries a generational tradition of solidarity and responsibility into an institutional structure, in the service of society.",
+    "story_p3": "Established for this purpose, ÖNİZLER FOUNDATION gained official status and began its activities upon its announcement in the Turkish Official Gazette No. 33292 on 26 June 2026.",
     "story_p4": "Today Önizler Foundation stands as a pioneering civil society organization built on knowledge, innovation and sustainability. It operates across 9 activity areas defined in our charter with proactive, scientific and innovative methodologies.",
     "story_p5": "We believe that individual efforts, transformed into a collective force, create a lasting legacy of social welfare and progress. \"Pioneer for Society, Legacy for the Future\" — Önizler Foundation is the institutional embodiment of this belief.",
     "mission_title": "Our Mission",
@@ -155,7 +157,7 @@
     "founder_name": "Merdan Öniz",
     "founder_role": "Chairman of the Board of Trustees & Founder",
     "board_title": "Board of Trustees",
-    "board_subtitle": "The Board of Trustees, the supreme decision-making body of our foundation, consists of 24 members.",
+    "board_subtitle": "The Board of Trustees, the foundation's highest decision-making body, consists of 24 members. Merdan Öniz is the founder; the other members hold the title of Trustee.",
     "management_title": "Executive Board",
     "management_subtitle": "The Executive Board is responsible for carrying out all activities of the foundation.",
     "audit_title": "Audit Committee",
@@ -177,7 +179,9 @@
     "founder_desc_p2": "Officially established in 2026, the foundation aims to leave a lasting legacy in science, education and social solidarity — for society and future generations.",
     "label_est": "Est. 2025 — Ankara",
     "quote_text": "Individual efforts, transformed into a collective force, create a lasting legacy of social welfare and progress.",
-    "quote_attribution": "Önizler Foundation"
+    "quote_attribution": "Önizler Foundation",
+    "label_trustees": "Trustees",
+    "label_priorities": "Strategic Priorities"
   },
   "support": {
     "hero_title": "Support Us",
@@ -277,10 +281,17 @@
     "docs_title": "Required Documents",
     "docs": [
       "Copy of ID card",
-      "Student certificate",
-      "Transcript",
-      "Family income statement",
-      "Motivation letter"
+      "Student certificate (e-Government)",
+      "Academic transcript",
+      "Detailed civil registry record (e-Government)",
+      "Certificate of residence",
+      "Criminal record certificate (e-Government)",
+      "Family income statement (payslip / income declaration)",
+      "Social security service record / employment status",
+      "Student bank account (IBAN) details",
+      "One passport photo",
+      "Letter of intent / motivation letter",
+      "Reference letter (if available)"
     ],
     "calendar_title": "Application Calendar",
     "calendar_text": "Application period and details will be announced soon.",
@@ -306,7 +317,8 @@
         "q": "When are application results announced?",
         "a": "Results are communicated via email after the evaluation process is completed."
       }
-    ]
+    ],
+    "docs_note": "Required documents may vary by scholarship type and application period. The final list is shared in the application announcement."
   },
   "contact": {
     "hero_title": "Contact",
@@ -341,19 +353,19 @@
   "transparency": {
     "hero_title": "Transparency",
     "hero_subtitle": "Accountability Is Our Core Value",
-    "intro": "All financial statements, activity reports, and donation usage details of our foundation are publicly available.",
+    "intro": "Our foundation is managed with accountability, under an internal control mechanism and the official oversight of the General Directorate of Foundations.",
     "principles_title": "Our Transparency Principles",
     "principles": [
-      "All financial statements undergo independent audit",
-      "Activity reports are shared publicly each year",
-      "Donation usage details are reported transparently",
-      "Every donor is informed about the use of their contribution",
-      "Subject to oversight by the General Directorate of Foundations"
+      "Our financial operations are regularly audited by our internal control mechanism",
+      "The foundation is subject to the official oversight of the General Directorate of Foundations",
+      "Donations are used in line with the purposes defined in our charter",
+      "Every donor is informed about how their contribution is used",
+      "Our resources are managed with accountability and integrity"
     ],
-    "reports_title": "Annual Activity Reports",
-    "reports_desc": "Detailed reports covering foundation activities are published at the end of each year.",
-    "financial_title": "Financial Statements",
-    "financial_desc": "Income and expense statements and balance sheets are shared after independent audit.",
+    "reports_title": "Internal Audit",
+    "reports_desc": "Foundation activities and use of resources are regularly reviewed by our internal audit board.",
+    "financial_title": "Financial Operations",
+    "financial_desc": "The foundation's financial operations are regularly monitored under our internal control mechanism and the oversight of the General Directorate of Foundations.",
     "donation_title": "Donation Usage Report",
     "donation_desc": "How collected donations are allocated across focus areas is reported transparently.",
     "strategy_title": "Strategic Plans",
@@ -451,7 +463,7 @@
       },
       {
         "q": "How is the foundation's financial transparency ensured?",
-        "a": "All our financial statements undergo independent audit; activity reports and donation-usage details are shared with the public annually. We are subject to the oversight of the General Directorate of Foundations."
+        "a": "Our foundation's financial operations are regularly audited by our internal control mechanism and are subject to the official oversight of the General Directorate of Foundations. Our resources are managed in line with our charter and with the principle of accountability."
       }
     ],
     "cta_text": "Couldn't find the answer you were looking for?",
@@ -463,7 +475,7 @@
   },
   "documents": {
     "title": "Documents & Reports",
-    "empty": "Activity reports and financial documents will be published here as they are prepared."
+    "empty": "Publicly shareable documents and announcements will be published here as they are prepared."
   },
   "press": {
     "hero_title": "Press Kit",

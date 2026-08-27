@@ -105,14 +105,17 @@ export default function ScholarshipPage() {
                     {t("docs_title")}
                   </h2>
                 </div>
-                <ul className="space-y-3">
+                <ul className="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-3">
                   {docs.map((doc: string, i: number) => (
-                    <li key={i} className="flex items-center gap-3 text-charcoal/60">
-                      <FileText className="w-4 h-4 text-charcoal/30 flex-shrink-0" />
+                    <li key={i} className="flex items-start gap-3 text-charcoal/60 text-sm">
+                      <FileText className="w-4 h-4 text-gold/60 flex-shrink-0 mt-0.5" />
                       {doc}
                     </li>
                   ))}
                 </ul>
+                <p className="mt-6 text-xs text-charcoal/40 italic leading-relaxed border-t border-gray-light pt-4">
+                  {t("docs_note")}
+                </p>
               </div>
             </ScrollReveal>
 

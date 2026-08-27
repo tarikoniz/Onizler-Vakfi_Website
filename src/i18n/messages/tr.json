@@ -104,7 +104,9 @@
         "short": "Kültür merkezi, spor tesisi, ekolojik park ve sosyal yaşam alanları inşa ediyoruz.",
         "description": "Fiziksel mekanlar, toplumsal yaşamın altyapısını oluşturur. Herkesin erişebileceği, sürdürülebilir ve kapsayıcı sosyal alanlar inşa ederek toplumsal gelişime katkı sağlıyoruz."
       }
-    }
+    },
+    "stats_priorities": "Stratejik Öncelik",
+    "stats_est": "Kuruluş"
   },
   "cta_section": {
     "title": "Bu yolculuğa siz de katılın.",
@@ -116,8 +118,8 @@
     "hero_title": "Hikayemiz",
     "hero_subtitle": "Bir Ailenin Sözü, Toplumun İzi",
     "story_p1": "Öniz ailesi, nesiller boyu süregelen dayanışma, hayırseverlik ve toplumsal sorumluluk mirasını yeni bir kurumsal yapı altında toplumun hizmetine sunmak istedi.",
-    "story_p2": "Ankara'da bir araya gelen 24 aile ferdi, ortak bir soruyla yola çıktı: \"Elimizdeki imkânı, en çok ihtiyacı olan insanlara nasıl kalıcı biçimde ulaştırabiliriz?\"",
-    "story_p3": "Bu sorunun cevabı ÖNİZLER VAKFI oldu. Ankara Batı 10. Asliye Hukuk Mahkemesinin 06.04.2026 tarihli ve E:2025/502, K:2026/81 sayılı kararı ile tescil edilen vakfımız; 26 Haziran 2026 tarihli ve 33292 sayılı Resmî Gazete'de ilan edilerek resmen faaliyete başlamıştır.",
+    "story_p2": "Vakfın kurucusu Merdan Öniz öncülüğünde hayata geçen bu yapı; nesiller boyu süregelen dayanışma ve sorumluluk anlayışını, kurumsal bir çatı altında toplumun hizmetine sunma amacını taşır.",
+    "story_p3": "Bu amaçla kurulan ÖNİZLER VAKFI; 26 Haziran 2026 tarihli ve 33292 sayılı Resmî Gazete'de ilan edilerek resmî statü kazanmış ve faaliyetlerine başlamıştır.",
     "story_p4": "Bugün Önizler Vakfı; bilgi, inovasyon ve sürdürülebilirlik ekseninde çalışan öncü bir sivil toplum kuruluşu olarak konumlanmaktadır. Vakıf senedinde tanımlanan 9 faaliyet alanında proaktif, bilimsel ve yenilikçi metodolojilerle çalışmalarını sürdürmektedir.",
     "story_p5": "Bireysel çabaların kolektif bir güce dönüşerek toplumsal bir refah ve gelecek izi oluşturduğuna inanıyoruz. \"Topluma Öncü, Geleceğe İz\" — Önizler Vakfı, bu inancın kurumsal karşılığıdır.",
     "mission_title": "Misyonumuz",
@@ -155,7 +157,7 @@
     "founder_name": "Merdan Öniz",
     "founder_role": "Mütevelli Heyeti Başkanı & Vakıf Kurucusu",
     "board_title": "Mütevelli Heyeti",
-    "board_subtitle": "Vakfımızın en üst karar organı olan Mütevelli Heyeti, 24 üyeden oluşmaktadır.",
+    "board_subtitle": "Vakfımızın en üst karar organı olan Mütevelli Heyeti 24 üyeden oluşur. Vakfın kurucusu Merdan Öniz olup, diğer üyeler Mütevelli Heyeti üyesi sıfatını taşır.",
     "management_title": "Yönetim Kurulu",
     "management_subtitle": "Vakfımızın icra organı olan Yönetim Kurulu, faaliyetlerin yürütülmesinden sorumludur.",
     "audit_title": "Denetim Kurulu",
@@ -177,7 +179,9 @@
     "founder_desc_p2": "2026 yılında resmen kurulan vakıf; bilim, eğitim ve toplumsal dayanışma alanlarında topluma kalıcı bir iz bırakmayı hedeflemektedir.",
     "label_est": "Kuruluş 2025 — Ankara",
     "quote_text": "Bireysel çabaların kolektif bir güce dönüşerek toplumsal bir refah ve gelecek izi oluşturması.",
-    "quote_attribution": "Önizler Vakfı"
+    "quote_attribution": "Önizler Vakfı",
+    "label_trustees": "Mütevelli Üyesi",
+    "label_priorities": "Stratejik Öncelik"
   },
   "support": {
     "hero_title": "Destek Ol",
@@ -276,11 +280,18 @@
     ],
     "docs_title": "Gerekli Belgeler",
     "docs": [
-      "Nüfus cüzdanı fotokopisi",
-      "Öğrenci belgesi",
-      "Transkript",
-      "Gelir durumu belgesi",
-      "Motivasyon mektubu"
+      "Nüfus cüzdanı / kimlik fotokopisi",
+      "Öğrenci belgesi (e-Devlet)",
+      "Not durum belgesi (transkript)",
+      "Vukuatlı nüfus kayıt örneği (e-Devlet)",
+      "Yerleşim yeri (ikametgah) belgesi",
+      "Adli sicil kaydı (e-Devlet)",
+      "Aile gelir durum belgesi (maaş bordrosu / gelir taahhütnamesi)",
+      "SGK hizmet dökümü / çalışma durum belgesi",
+      "Öğrenciye ait banka hesap (IBAN) bilgisi",
+      "1 adet vesikalık fotoğraf",
+      "Niyet / motivasyon mektubu",
+      "Varsa referans mektubu"
     ],
     "calendar_title": "Başvuru Takvimi",
     "calendar_text": "Başvuru dönemi ve detaylar yakında duyurulacaktır.",
@@ -306,7 +317,8 @@
         "q": "Başvuru sonuçları ne zaman açıklanır?",
         "a": "Değerlendirme süreci tamamlandıktan sonra sonuçlar e-posta ile bildirilir."
       }
-    ]
+    ],
+    "docs_note": "İstenen belgeler burs türüne ve başvuru dönemine göre değişebilir. Nihai belge listesi başvuru duyurusunda paylaşılır."
   },
   "contact": {
     "hero_title": "İletişim",
@@ -341,19 +353,19 @@
   "transparency": {
     "hero_title": "Şeffaflık",
     "hero_subtitle": "Hesap Verebilirlik Bizim İçin Bir Değer",
-    "intro": "Vakfımızın tüm mali tabloları, faaliyet raporları ve bağış kullanım detayları kamuya açıktır.",
+    "intro": "Vakfımız; iç denetim mekanizması ve Vakıflar Genel Müdürlüğü'nün resmî denetimi çerçevesinde, hesap verebilirlik ilkesiyle yönetilir.",
     "principles_title": "Şeffaflık İlkelerimiz",
     "principles": [
-      "Tüm mali tablolar bağımsız denetimden geçer",
-      "Faaliyet raporları yıllık olarak kamuoyuyla paylaşılır",
-      "Bağışların kullanım detayları raporlanır",
-      "Her bağışçı bilgilendirilir",
-      "Vakıf Genel Müdürlüğü denetimine tabidir"
+      "Mali işleyişimiz iç denetim mekanizmamızca düzenli olarak denetlenir",
+      "Vakfımız, Vakıflar Genel Müdürlüğü'nün resmî denetimine tabidir",
+      "Bağışlar, vakıf senedinde tanımlanan amaçlar doğrultusunda kullanılır",
+      "Her bağışçı, katkısının nasıl değerlendirildiği konusunda bilgilendirilir",
+      "Kaynaklarımız hesap verebilirlik ve dürüstlük ilkeleriyle yönetilir"
     ],
-    "reports_title": "Yıllık Faaliyet Raporları",
-    "reports_desc": "Her yılın sonunda vakıf faaliyetlerini kapsayan detaylı raporlar yayınlanır.",
-    "financial_title": "Mali Tablolar",
-    "financial_desc": "Gelir gider tabloları ve bilanço bilgileri bağımsız denetim sonrası paylaşılır.",
+    "reports_title": "İç Denetim",
+    "reports_desc": "Vakıf faaliyetleri ve kaynak kullanımı, iç denetim kurulumuz tarafından düzenli olarak değerlendirilir.",
+    "financial_title": "Mali İşleyiş",
+    "financial_desc": "Vakfın mali işleyişi, iç denetim mekanizması ve Vakıflar Genel Müdürlüğü denetimi kapsamında düzenli olarak izlenir.",
     "donation_title": "Bağış Kullanım Raporu",
     "donation_desc": "Toplanan bağışların hangi alanlarda kullanıldığı şeffaf olarak raporlanır.",
     "strategy_title": "Stratejik Planlar",
@@ -451,7 +463,7 @@
       },
       {
         "q": "Vakfın mali şeffaflığı nasıl sağlanıyor?",
-        "a": "Tüm mali tablolarımız bağımsız denetimden geçer; faaliyet raporları ve bağış kullanım detayları yıllık olarak kamuoyuyla paylaşılır. Vakıflar Genel Müdürlüğü denetimine tabiyiz."
+        "a": "Vakfımızın mali işleyişi iç denetim mekanizmamızca düzenli olarak denetlenir ve Vakıflar Genel Müdürlüğü'nün resmî denetimine tabidir. Kaynaklarımız, vakıf senedinde tanımlanan amaçlar doğrultusunda ve hesap verebilirlik ilkesiyle yönetilir."
       }
     ],
     "cta_text": "Aradığınız cevabı bulamadınız mı?",
@@ -463,7 +475,7 @@
   },
   "documents": {
     "title": "Belgeler ve Raporlar",
-    "empty": "Faaliyet raporları ve mali belgeler hazırlandıkça bu bölümde yayınlanacaktır."
+    "empty": "Vakfımızın paylaşıma açık belge ve duyuruları hazırlandıkça bu bölümde yayınlanacaktır."
   },
   "press": {
     "hero_title": "Basın Kiti",

@@ -34,14 +34,17 @@ export default function AreasPage() {
           <div className="flex flex-wrap items-center justify-center gap-8 sm:gap-16 text-white">
             {[
               { value: 9, label: t("stats_areas") },
-              { value: 24, label: t("stats_founders") },
-              { value: 2, suffix: "M₺", label: t("stats_capital") },
+              { value: 4, label: t("stats_priorities") },
             ].map((s) => (
               <div key={s.label} className="text-center">
-                <span className="text-2xl font-extrabold"><AnimatedCounter value={s.value} suffix={s.suffix || ""} /></span>
+                <span className="text-2xl font-extrabold"><AnimatedCounter value={s.value} /></span>
                 <span className="text-white/80 text-xs uppercase tracking-wider font-bold ml-2">{s.label}</span>
               </div>
             ))}
+            <div className="text-center">
+              <span className="text-2xl font-extrabold">2026</span>
+              <span className="text-white/80 text-xs uppercase tracking-wider font-bold ml-2">{t("stats_est")}</span>
+            </div>
           </div>
         </div>
       </section>
