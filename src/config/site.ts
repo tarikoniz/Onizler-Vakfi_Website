@@ -46,6 +46,21 @@ export const siteConfig = {
   partners: [] as { name: string; logo: string; url?: string }[],
 
   /**
+   * Analitik — ziyaretçi trafiği ve davranış takibi.
+   * Yalnızca kullanıcı çerez onayı verdikten sonra çalışır (KVKK uyumlu).
+   * ID girilmeyen servis pasif kalır.
+   *
+   * ga4Id     : Google Analytics 4 ölçüm kimliği. analytics.google.com →
+   *             yeni GA4 mülkü → Web veri akışı → "G-XXXXXXXXXX".
+   * clarityId : Microsoft Clarity proje kimliği. clarity.microsoft.com →
+   *             yeni proje → Setup → proje ID (kısa alfanümerik).
+   */
+  analytics: {
+    ga4Id: "", // örn: "G-XXXXXXXXXX"
+    clarityId: "", // örn: "abcdefghij"
+  },
+
+  /**
    * Şeffaflık — indirilebilir belge/raporlar.
    * PDF'leri public/belgeler/ klasörüne koy, buraya ekle.
    * Liste boşsa Şeffaflık sayfasında "yakında" durumu gösterilir.

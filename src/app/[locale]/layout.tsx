@@ -9,6 +9,7 @@ import Footer from "@/components/Footer";
 import CookieConsent from "@/components/CookieConsent";
 import ScrollToTop from "@/components/ScrollToTop";
 import WhatsAppButton from "@/components/WhatsAppButton";
+import Analytics from "@/components/Analytics";
 import "../globals.css";
 
 const SITE_URL = "https://onizler-vakfi-website.vercel.app";
@@ -127,6 +128,7 @@ export default async function LocaleLayout({
           <CookieConsent />
           <ScrollToTop />
           <WhatsAppButton />
+          <Analytics />
         </NextIntlClientProvider>
       </body>
     </html>

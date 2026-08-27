@@ -29,6 +29,8 @@ export default function CookieConsent() {
     } catch {
       /* ignore */
     }
+    // Let the analytics loader react immediately (no page reload needed).
+    window.dispatchEvent(new CustomEvent("cookie-consent", { detail: value }));
     setVisible(false);
   };
 
