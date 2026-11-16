@@ -1,10 +1,36 @@
 "use client";
 
 import Script from "next/script";
-import { useEffect, useState } from "react";
+import { useSyncExternalStore } from "react";
 import { siteConfig } from "@/config/site";
 
 const CONSENT_KEY = "onizler-cookie-consent";
+
+// Consent given during this page view. Kept in memory so the scripts still
+// load when localStorage is unavailable and the choice cannot be persisted.
+let acceptedThisVisit = false;
+
+function subscribe(onChange: () => void) {
+  const onConsent = (e: Event) => {
+    if ((e as CustomEvent).detail === "accepted") {
+      acceptedThisVisit = true;
+      onChange();
+    }
+  };
+  window.addEventListener("cookie-consent", onConsent);
+  return () => window.removeEventListener("cookie-consent", onConsent);
+}
+
+function getSnapshot() {
+  if (acceptedThisVisit) return true;
+  try {
+    return localStorage.getItem(CONSENT_KEY) === "accepted";
+  } catch {
+    return false;
+  }
+}
+
+const getServerSnapshot = () => false;
 
 /**
  * Loads Google Analytics 4 and Microsoft Clarity — but only after the
@@ -14,21 +40,11 @@ const CONSENT_KEY = "onizler-cookie-consent";
  */
 export default function Analytics() {
   const { ga4Id, clarityId } = siteConfig.analytics;
-  const [consented, setConsented] = useState(false);
-
-  useEffect(() => {
-    try {
-      if (localStorage.getItem(CONSENT_KEY) === "accepted") setConsented(true);
-    } catch {
-      /* ignore */
-    }
-    const onConsent = (e: Event) => {
-      const detail = (e as CustomEvent).detail;
-      if (detail === "accepted") setConsented(true);
-    };
-    window.addEventListener("cookie-consent", onConsent);
-    return () => window.removeEventListener("cookie-consent", onConsent);
-  }, []);
+  const consented = useSyncExternalStore(
+    subscribe,
+    getSnapshot,
+    getServerSnapshot,
+  );
 
   if (!consented) return null;
 
