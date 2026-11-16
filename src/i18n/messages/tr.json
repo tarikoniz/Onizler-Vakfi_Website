@@ -26,12 +26,10 @@
     "about_p1": "Öniz ailesinin nesiller boyu süregelen dayanışma birikimi, 2026 yılında Önizler Vakfı çatısı altında kurumsal bir yapıya dönüştü.",
     "about_p2": "Bilgi, inovasyon ve sürdürülebilirlik ekseninde çalışan öncü bir sivil toplum kuruluşu olarak, vakıf senedimizde tanımlanan 9 faaliyet alanında projeler geliştiriyoruz.",
     "about_cta": "Vizyonumuzu Keşfet",
-    "stats_label": "Etki Alanlarımız",
     "areas_label": "Faaliyet Alanları",
     "banner_location": "Ankara, Türkiye",
     "banner_text": "Topluma Öncü, Geleceğe İz",
     "join_label": "Katılın",
-    "founder_member": "Faaliyet Alanı",
     "est_label": "Ankara — Türkiye",
     "quote_text": "Toplumsal gelişimin dinamiklerini bilim, inovasyon ve sürdürülebilirlik ekseninde yeniden üretmek.",
     "quote_role": "Vakıf Vizyonu",
@@ -42,67 +40,62 @@
   },
   "stats": {
     "title": "Stratejik Odak Alanlarımız",
-    "areas": "Faaliyet Alanı",
-    "founders": "Mütevelli Üyesi",
-    "capital": "Kuruluş Sermayesi",
-    "capital_value": "2M ₺"
+    "areas": "Faaliyet Alanı"
   },
   "focus_areas": {
     "title": "Çalışma Alanlarımız",
-    "subtitle": "Tüzüğümüzde tanımlanan 9 faaliyet alanında projeler geliştiriyor, hayata geçiriyor ve sürdürülebilir etki yaratıyoruz.",
+    "subtitle": "Vakıf senedimizde tanımlanan 9 faaliyet alanında projeler geliştirmeyi, hayata geçirmeyi ve sürdürülebilir etki yaratmayı hedefliyoruz.",
     "learn_more": "Detaylı Bilgi",
     "cta_title": "Siz de Bu Yolculuğa Katılın",
     "cta_text": "Bu alanlarda gönüllü olarak katkıda bulunabilir veya burs programımıza başvurabilirsiniz.",
     "cta_volunteer": "Gönüllü Ol",
     "cta_scholarship": "Burs Başvurusu",
     "stats_areas": "Faaliyet Alanı",
-    "stats_founders": "Kurucu Üye",
-    "stats_capital": "Sermaye",
     "areas": {
       "education": {
         "title": "Eğitim Kurumları",
-        "short": "Okul, yurt ve meslek kursları kurarak eğitimin her kademesinde bireylerin yanında duruyoruz.",
+        "short": "Okul, yurt ve meslek kursları kurarak eğitimin her kademesinde bireylerin yanında durmayı hedefliyoruz.",
         "description": "Eğitim, toplumsal dönüşümün en güçlü aracıdır. Orta ve yükseköğretim kurumları, meslek kursları ve yurtlar kurarak eğitim altyapısını güçlendirmeyi hedefliyoruz."
       },
       "scholarship": {
         "title": "Burs & Akademik Teşvik",
-        "short": "İhtiyaç sahibi öğrencilere burs, staj ve mesleki gelişim fırsatları sunuyoruz.",
-        "description": "Her yetenekli öğrenci eğitim fırsatına hak eder. Ekonomik koşulların eğitimin önüne geçmemesi için burs programları, staj olanakları ve mesleki gelişim seminerleri düzenliyoruz."
+        "short": "İhtiyaç sahibi öğrencilere burs, staj ve mesleki gelişim fırsatları sunmayı amaçlıyoruz.",
+        "description": "Her yetenekli öğrenci eğitim fırsatına hak eder. Ekonomik koşulların eğitimin önüne geçmemesi için burs programları, staj olanakları ve mesleki gelişim seminerleri düzenlemeyi hedefliyoruz."
       },
       "culture": {
         "title": "Kültür & Sanat",
-        "short": "Festival, sergi ve konserlerden müze ve kültür merkezlerine — kültürel mirasımızı yaşatıyoruz.",
-        "description": "Kültür, bir toplumun kimliğidir. Somut ve somut olmayan kültürel mirasımızı korumak, geliştirmek ve gelecek nesillere aktarmak için ulusal ve uluslararası düzeyde etkinlikler düzenliyoruz."
+        "short": "Festival, sergi ve konserlerden müze ve kültür merkezlerine — kültürel mirasımızı yaşatmayı amaçlıyoruz.",
+        "description": "Kültür, bir toplumun kimliğidir. Somut ve somut olmayan kültürel mirasımızı korumak, geliştirmek ve gelecek nesillere aktarmak için ulusal ve uluslararası düzeyde etkinlikler düzenlemeyi hedefliyoruz."
       },
       "solidarity": {
         "title": "Sosyal Dayanışma",
-        "short": "Dezavantajlı bireylere sosyal destek programları, acil yardım ve rehabilitasyon hizmetleri sunuyoruz.",
-        "description": "Kimsenin geride kalmaması için çalışıyoruz. Eğitim, sağlık, barınma ve istihdam konularında dezavantajlı gruplara yönelik kapsamlı destek programları geliştiriyoruz."
+        "short": "Dezavantajlı bireylere sosyal destek programları, acil yardım ve rehabilitasyon hizmetleri sunmayı hedefliyoruz.",
+        "description": "Kimsenin geride kalmaması için çalışıyoruz. Eğitim, sağlık, barınma ve istihdam konularında dezavantajlı gruplara yönelik kapsamlı destek programları geliştirmeyi amaçlıyoruz."
       },
       "international": {
         "title": "Uluslararası İş Birlikleri",
-        "short": "AB, BM ve uluslararası kuruluşlarla ortak projeler geliştirerek küresel ölçekte etki yaratıyoruz.",
-        "description": "Tek başına değil, birlikte daha güçlüyüz. Eğitim, kültür ve sosyal dayanışma alanlarında ulusal ve uluslararası kuruluşlarla stratejik ortaklıklar kurarak etkimizi büyütüyoruz."
+        "short": "AB, BM ve uluslararası kuruluşlarla ortak projeler geliştirerek etkimizi küresel ölçeğe taşımayı hedefliyoruz.",
+        "description": "Tek başına değil, birlikte daha güçlüyüz. Eğitim, kültür ve sosyal dayanışma alanlarında ulusal ve uluslararası kuruluşlarla stratejik ortaklıklar kurarak etkimizi büyütmeyi amaçlıyoruz."
       },
       "digital": {
         "title": "Dijital Eğitim & Teknoloji",
-        "short": "Yapay zeka, AR/VR ve uzaktan eğitim platformlarıyla eğitimi geleceğe taşıyoruz.",
+        "short": "Yapay zeka, AR/VR ve uzaktan eğitim platformlarıyla eğitimi geleceğe taşımayı hedefliyoruz.",
         "description": "Dijital çağda eğitim sınırları aşar. Uzaktan eğitim platformları, yapay zeka destekli öğrenme ortamları ve dijital kütüphanelerle eğitimi herkes için erişilebilir kılmayı hedefliyoruz."
       },
       "research": {
         "title": "Bilimsel Araştırma & Yayıncılık",
-        "short": "Konferans, sempozyum ve yayınlarla bilimsel bilginin üretilmesine ve yayılmasına katkı sağlıyoruz.",
-        "description": "Bilimsel araştırma, sürdürülebilir kalkınmanın temelidir. Araştırma projelerini destekleyerek, yayınlar çıkararak ve bilimsel etkinlikler düzenleyerek bilgi üretimine katkı sağlıyoruz."
+        "short": "Konferans, sempozyum ve yayınlarla bilimsel bilginin üretilmesine ve yayılmasına katkı sağlamayı amaçlıyoruz.",
+        "description": "Bilimsel araştırma, sürdürülebilir kalkınmanın temelidir. Araştırma projelerini destekleyerek, yayınlar çıkararak ve bilimsel etkinlikler düzenleyerek bilgi üretimine katkı sağlamayı hedefliyoruz."
       },
       "social_services": {
         "title": "Sosyal Hizmetler",
-        "short": "Sağlık taraması, psikososyal destek ve mesleki rehabilitasyonla toplumun en kırılgan kesimlerini destekliyoruz.",
-        "description": "İnsanın temel ihtiyaçlarını karşılamak, en öncelikli sorumluluğumuzdur. Dezavantajlı kesimlere yönelik kapsamlı ve sürdürülebilir sosyal hizmetler sunuyoruz."
+        "short": "Sağlık taraması, psikososyal destek ve mesleki rehabilitasyonla toplumun en kırılgan kesimlerini desteklemeyi hedefliyoruz.",
+        "description": "İnsanın temel ihtiyaçlarını karşılamak, en öncelikli sorumluluğumuzdur. Dezavantajlı kesimlere yönelik kapsamlı ve sürdürülebilir sosyal hizmetler sunmayı amaçlıyoruz."
       },
       "construction": {
         "title": "Sosyal Alan İnşası",
-        "short": "Kültür merkezi, spor tesisi, ekolojik park ve sosyal yaşam alanları inşa ediyoruz.",
-        "description": "Fiziksel mekanlar, toplumsal yaşamın altyapısını oluşturur. Herkesin erişebileceği, sürdürülebilir ve kapsayıcı sosyal alanlar inşa ederek toplumsal gelişime katkı sağlıyoruz."
+        "short": "Kültür merkezi, spor tesisi, ekolojik park ve sosyal yaşam alanları inşa etmeyi hedefliyoruz.",
+        "description": "Fiziksel mekanlar, toplumsal yaşamın altyapısını oluşturur. Herkesin erişebileceği, sürdürülebilir ve kapsayıcı sosyal alanlar inşa ederek toplumsal gelişime katkı sağlamayı amaçlıyoruz."
       }
     },
     "stats_priorities": "Stratejik Öncelik",
@@ -130,7 +123,7 @@
     "values": {
       "transparency": {
         "title": "Şeffaflık",
-        "text": "Her kuruş hesap verilir. Faaliyet raporlarımız, mali tablolarımız ve bağış kullanım detaylarımız kamuya açıktır."
+        "text": "Her kuruşun hesabını veririz. Faaliyet raporlarımızı, mali tablolarımızı ve bağış kullanım detaylarımızı kamuoyuyla paylaşmayı taahhüt ederiz."
       },
       "inclusivity": {
         "title": "Kapsayıcılık",
@@ -146,7 +139,7 @@
       },
       "innovation": {
         "title": "Yenilikçilik",
-        "text": "Yapay zeka, AR/VR gibi teknolojileri eğitim ve kültüre taşıyarak geleceği bugünden inşa ederiz."
+        "text": "Yapay zeka, AR/VR gibi teknolojileri eğitim ve kültüre taşıyarak geleceği bugünden inşa etmeyi hedefleriz."
       },
       "collaboration": {
         "title": "İş Birliği",
@@ -162,8 +155,6 @@
     "management_subtitle": "Vakfımızın icra organı olan Yönetim Kurulu, faaliyetlerin yürütülmesinden sorumludur.",
     "audit_title": "Denetim Kurulu",
     "audit_subtitle": "Vakfımızın mali ve idari denetimini gerçekleştiren kuruldur.",
-    "legal_title": "Yasal Belgeler",
-    "legal_subtitle": "Bu bölümde vakfımızın yasal dayanağını oluşturan belgelere ulaşabilirsiniz.",
     "label_mission_vision": "Misyon & Vizyon",
     "label_mission": "Misyon",
     "label_vision": "Vizyon",
@@ -172,12 +163,10 @@
     "label_board": "Mütevelli Heyeti",
     "label_management": "Yönetim Kurulu",
     "label_audit": "Denetim",
-    "label_founders": "Kurucu",
     "label_areas": "Alan",
-    "label_capital": "Milyon ₺",
     "founder_desc_p1": "Merdan Öniz liderliğinde kurulan vakfımız, nesiller boyu süregelen dayanışma birikimini kurumsal bir çatı altında toplumun hizmetine sunmayı hedefler.",
     "founder_desc_p2": "2026 yılında resmen kurulan vakıf; bilim, eğitim ve toplumsal dayanışma alanlarında topluma kalıcı bir iz bırakmayı hedeflemektedir.",
-    "label_est": "Kuruluş 2025 — Ankara",
+    "label_est": "Kuruluş 2026 — Ankara",
     "quote_text": "Bireysel çabaların kolektif bir güce dönüşerek toplumsal bir refah ve gelecek izi oluşturması.",
     "quote_attribution": "Önizler Vakfı",
     "label_trustees": "Mütevelli Üyesi",
@@ -248,8 +237,6 @@
     "form_phone": "Telefon",
     "form_city": "Şehir",
     "form_profession": "Meslek / Uzmanlık Alanı",
-    "form_area": "İlgilendiğiniz gönüllülük alanı",
-    "form_time": "Haftalık ayırabileceğiniz süre",
     "form_motivation": "Neden gönüllü olmak istiyorsunuz?",
     "form_kvkk": "KVKK Aydınlatma Metnini okudum ve kabul ediyorum.",
     "form_submit": "Başvuru Gönder",
@@ -373,8 +360,6 @@
     "coming_soon": "Yakında Yayınlanacak",
     "registration_label": "Resmî Tescil",
     "registration_title": "Vakfın Resmî Kuruluş Bilgileri",
-    "registration_court": "Tescil Kararı",
-    "registration_capital": "Kuruluş Sermayesi",
     "registration_residence": "İkametgah",
     "banner_text": "Hesap Verebilirlik Her Kuruşta",
     "legal_quote": "Vakıf Yönetimi, yıl içinde elde ettiği brüt gelirlerin üçte birini yönetim giderlerine, üçte ikisini ise vakıf amaçlarına harcamaya zorunludur."
@@ -399,13 +384,13 @@
         "excerpt": "Vakfımız, Vakıflar Genel Müdürlüğü ilanıyla resmî statü kazanarak faaliyetlerine başlamıştır."
       },
       {
-        "date": "2025-10-15",
+        "date": "2026-07-15",
         "category": "cat_project",
         "title": "İlk Burs Programımız Hazırlanıyor",
         "excerpt": "Vakfımızın ilk burs programı için çalışmalar başladı. Başvuru detayları yakında duyurulacak."
       },
       {
-        "date": "2025-11-01",
+        "date": "2026-06-27",
         "category": "cat_event",
         "title": "Web Sitemiz Yayında",
         "excerpt": "Vakfımızın resmi web sitesi yayına alındı. Tüm bilgilere artık tek bir noktadan ulaşabilirsiniz."
@@ -429,7 +414,7 @@
     "made_by": "Tasarım & Geliştirme"
   },
   "cookie": {
-    "text": "Bu web sitesi, deneyiminizi geliştirmek için çerezler kullanır. Siteyi kullanmaya devam ederek çerez kullanımını kabul etmiş olursunuz.",
+    "text": "Bu web sitesi, deneyiminizi geliştirmek için çerezler kullanır. Analitik çerezler yalnızca onay vermeniz hâlinde kullanılır.",
     "link": "Çerez Politikası",
     "accept": "Kabul Et",
     "decline": "Reddet"
