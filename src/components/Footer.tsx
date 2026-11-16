@@ -192,7 +192,6 @@ export default function Footer() {
 
         <div className="mt-8 pt-8 border-t border-charcoal/10 flex flex-col sm:flex-row items-center justify-between gap-4 text-[11px] text-charcoal/30 tracking-wider uppercase">
           <p>&copy; 2026 Önizler Vakfı — {t("rights")}</p>
-          <p>{t("notary")}</p>
         </div>
 
         <div className="mt-6 text-center">

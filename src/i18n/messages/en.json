@@ -119,7 +119,7 @@
     "hero_subtitle": "A Family's Word, A Society's Legacy",
     "story_p1": "The Öniz family sought to formalize its generational tradition of solidarity, philanthropy and social responsibility under a new institutional structure.",
     "story_p2": "Brought to life under the leadership of its founder, Merdan Öniz, the foundation carries a generational tradition of solidarity and responsibility into an institutional structure, in the service of society.",
-    "story_p3": "Established for this purpose, ÖNİZLER FOUNDATION gained official status and began its activities upon its announcement in the Turkish Official Gazette No. 33292 on 26 June 2026.",
+    "story_p3": "Established for this purpose, ÖNİZLER FOUNDATION gained official status and began its activities upon its official registration.",
     "story_p4": "Today Önizler Foundation stands as a pioneering civil society organization built on knowledge, innovation and sustainability. It operates across 9 activity areas defined in our charter with proactive, scientific and innovative methodologies.",
     "story_p5": "We believe that individual efforts, transformed into a collective force, create a lasting legacy of social welfare and progress. \"Pioneer for Society, Legacy for the Future\" — Önizler Foundation is the institutional embodiment of this belief.",
     "mission_title": "Our Mission",
@@ -373,11 +373,9 @@
     "coming_soon": "Coming Soon",
     "registration_label": "Official Registration",
     "registration_title": "Foundation's Official Establishment Records",
-    "registration_gazette": "Official Gazette",
     "registration_court": "Registration Decision",
     "registration_capital": "Founding Capital",
     "registration_residence": "Residence",
-    "registration_view": "View Official Gazette announcement",
     "banner_text": "Accountability in Every Penny",
     "legal_quote": "The Foundation is required to spend one-third of its gross annual income on administrative expenses and two-thirds on its charitable purposes."
   },
@@ -397,8 +395,8 @@
       {
         "date": "2026-06-26",
         "category": "cat_announcement",
-        "title": "Önizler Foundation Announced in the Official Gazette",
-        "excerpt": "Our foundation was officially announced in the Turkish Official Gazette No. 33292 dated 26 June 2026 by the General Directorate of Foundations, marking the formal beginning of its activities."
+        "title": "Önizler Foundation Gains Official Status",
+        "excerpt": "Our foundation gained official status with the announcement of the General Directorate of Foundations, marking the formal beginning of its activities."
       },
       {
         "date": "2025-10-15",
@@ -428,7 +426,6 @@
     "cookies": "Cookie Policy",
     "kvkk": "Data Protection",
     "rights": "All rights reserved.",
-    "notary": "Official Gazette: 26.06.2026 — No: 33292",
     "made_by": "Designed & Developed by"
   },
   "cookie": {

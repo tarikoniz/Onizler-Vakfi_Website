@@ -119,7 +119,7 @@
     "hero_subtitle": "Bir Ailenin Sözü, Toplumun İzi",
     "story_p1": "Öniz ailesi, nesiller boyu süregelen dayanışma, hayırseverlik ve toplumsal sorumluluk mirasını yeni bir kurumsal yapı altında toplumun hizmetine sunmak istedi.",
     "story_p2": "Vakfın kurucusu Merdan Öniz öncülüğünde hayata geçen bu yapı; nesiller boyu süregelen dayanışma ve sorumluluk anlayışını, kurumsal bir çatı altında toplumun hizmetine sunma amacını taşır.",
-    "story_p3": "Bu amaçla kurulan ÖNİZLER VAKFI; 26 Haziran 2026 tarihli ve 33292 sayılı Resmî Gazete'de ilan edilerek resmî statü kazanmış ve faaliyetlerine başlamıştır.",
+    "story_p3": "Bu amaçla kurulan ÖNİZLER VAKFI, resmî statü kazanmış ve faaliyetlerine başlamıştır.",
     "story_p4": "Bugün Önizler Vakfı; bilgi, inovasyon ve sürdürülebilirlik ekseninde çalışan öncü bir sivil toplum kuruluşu olarak konumlanmaktadır. Vakıf senedinde tanımlanan 9 faaliyet alanında proaktif, bilimsel ve yenilikçi metodolojilerle çalışmalarını sürdürmektedir.",
     "story_p5": "Bireysel çabaların kolektif bir güce dönüşerek toplumsal bir refah ve gelecek izi oluşturduğuna inanıyoruz. \"Topluma Öncü, Geleceğe İz\" — Önizler Vakfı, bu inancın kurumsal karşılığıdır.",
     "mission_title": "Misyonumuz",
@@ -373,11 +373,9 @@
     "coming_soon": "Yakında Yayınlanacak",
     "registration_label": "Resmî Tescil",
     "registration_title": "Vakfın Resmî Kuruluş Bilgileri",
-    "registration_gazette": "Resmî Gazete",
     "registration_court": "Tescil Kararı",
     "registration_capital": "Kuruluş Sermayesi",
     "registration_residence": "İkametgah",
-    "registration_view": "Resmî Gazete ilanını görüntüle",
     "banner_text": "Hesap Verebilirlik Her Kuruşta",
     "legal_quote": "Vakıf Yönetimi, yıl içinde elde ettiği brüt gelirlerin üçte birini yönetim giderlerine, üçte ikisini ise vakıf amaçlarına harcamaya zorunludur."
   },
@@ -397,8 +395,8 @@
       {
         "date": "2026-06-26",
         "category": "cat_announcement",
-        "title": "Önizler Vakfı Resmî Gazete'de İlan Edildi",
-        "excerpt": "Vakfımız, 26 Haziran 2026 tarihli ve 33292 sayılı Resmî Gazete'de yayımlanan Vakıflar Genel Müdürlüğü ilanıyla resmî statü kazanarak faaliyetlerine başlamıştır."
+        "title": "Önizler Vakfı Resmî Statü Kazandı",
+        "excerpt": "Vakfımız, Vakıflar Genel Müdürlüğü ilanıyla resmî statü kazanarak faaliyetlerine başlamıştır."
       },
       {
         "date": "2025-10-15",
@@ -428,7 +426,6 @@
     "cookies": "Çerez Politikası",
     "kvkk": "KVKK Aydınlatma",
     "rights": "Tüm hakları saklıdır.",
-    "notary": "Resmî Gazete: 26.06.2026 — Sayı: 33292",
     "made_by": "Tasarım & Geliştirme"
   },
   "cookie": {

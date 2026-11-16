@@ -1,6 +1,6 @@
 import { useTranslations } from "next-intl";
 import Image from "next/image";
-import { FileText, BarChart3, PieChart, Target, Quote, Clock, CheckCircle2, Landmark, MapPin } from "lucide-react";
+import { FileText, BarChart3, PieChart, Target, Quote, Clock, CheckCircle2, MapPin } from "lucide-react";
 import PageHero from "@/components/PageHero";
 import ScrollReveal from "@/components/ScrollReveal";
 import DocumentsSection from "@/components/DocumentsSection";
@@ -42,16 +42,6 @@ export default function TransparencyPage() {
                 </div>
                 <h2 className="text-2xl font-extrabold tracking-tight mb-6">{t("registration_title")}</h2>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                  <div className="flex items-start gap-3">
-                    <Landmark className="w-5 h-5 text-gold-warm flex-shrink-0 mt-0.5" />
-                    <div>
-                      <p className="text-[10px] text-gold-warm uppercase tracking-widest font-bold mb-1">{t("registration_gazette")}</p>
-                      <p className="text-sm text-white/80">26 Haziran 2026 — Sayı: 33292</p>
-                      <a href="https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/06/20260626-4-10.pdf" target="_blank" rel="noopener noreferrer" className="text-[11px] text-gold-warm hover:text-gold-light underline mt-1 inline-block">
-                        {t("registration_view")} →
-                      </a>
-                    </div>
-                  </div>
                   <div className="flex items-start gap-3">
                     <MapPin className="w-5 h-5 text-gold-warm flex-shrink-0 mt-0.5" />
                     <div>
