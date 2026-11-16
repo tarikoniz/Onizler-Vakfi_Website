@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { siteConfig, hasRealPhone } from "@/config/site";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
 import { MapPin, Mail, Phone, Send, Check } from "lucide-react";
@@ -119,10 +120,12 @@ export default function Footer() {
                 <Mail className="w-4 h-4 text-gold flex-shrink-0" />
                 <span className="text-charcoal/50">info@onizlervakfi.org</span>
               </div>
-              <div className="flex items-center gap-2">
-                <Phone className="w-4 h-4 text-gold flex-shrink-0" />
-                <span className="text-charcoal/50">+90 (312) 000 00 00</span>
-              </div>
+              {hasRealPhone && (
+                <div className="flex items-center gap-2">
+                  <Phone className="w-4 h-4 text-gold flex-shrink-0" />
+                  <span className="text-charcoal/50">{siteConfig.contact.phone}</span>
+                </div>
+              )}
             </div>
           </div>
 

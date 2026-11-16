@@ -192,9 +192,8 @@
     "inkind_text": "Eğitim materyalleri, giyim, gıda, ekipman veya profesyonel hizmet bağışlarınızı kabul ediyoruz.",
     "bank_title": "Banka Hesap Bilgileri",
     "bank_name": "ÖNİZLER VAKFI",
-    "tax_title": "Vergi Avantajı",
-    "tax_text": "Önizler Vakfı'na yapılan bağışlar, vergi matrahından indirilebilir.",
-    "contact_cta": "İletişime Geç"
+    "contact_cta": "İletişime Geç",
+    "bank_soon": "Banka hesap bilgilerimiz yakında bu sayfada paylaşılacaktır. O zamana kadar bağış yapmak için lütfen bizimle iletişime geçin."
   },
   "volunteer": {
     "hero_title": "Gönüllü Ol",
@@ -430,11 +429,7 @@
     "items": [
       {
         "q": "Önizler Vakfı'na nasıl bağış yapabilirim?",
-        "a": "Destek Ol sayfamızdaki banka hesap bilgileri üzerinden bireysel veya düzenli bağış yapabilir, kurumsal sponsorluk ya da ayni bağış seçeneklerinden yararlanabilirsiniz. Her bağış, şeffaf biçimde raporlanır."
-      },
-      {
-        "q": "Bağışlarım vergiden düşülüyor mu?",
-        "a": "Önizler Vakfı'na yapılan bağışlar, yürürlükteki mevzuat çerçevesinde gelir ve kurumlar vergisi matrahından indirilebilir. Bağış makbuzunuz talebiniz üzerine düzenlenir."
+        "a": "Bağış yapmak için İletişim sayfamızdan bize ulaşabilirsiniz; bireysel veya düzenli bağış, kurumsal sponsorluk ya da ayni bağış seçeneklerinden yararlanabilirsiniz. Her bağış, şeffaf biçimde raporlanır."
       },
       {
         "q": "Burs başvurusu için hangi şartlar aranıyor?",

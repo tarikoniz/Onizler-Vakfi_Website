@@ -192,9 +192,8 @@
     "inkind_text": "We accept donations of educational materials, clothing, food, equipment, or professional services.",
     "bank_title": "Bank Account Information",
     "bank_name": "ÖNİZLER VAKFI",
-    "tax_title": "Tax Benefits",
-    "tax_text": "Donations to Önizler Foundation are tax-deductible.",
-    "contact_cta": "Contact Us"
+    "contact_cta": "Contact Us",
+    "bank_soon": "Our bank account details will be published on this page soon. Until then, please contact us to make a donation."
   },
   "volunteer": {
     "hero_title": "Volunteer",
@@ -430,11 +429,7 @@
     "items": [
       {
         "q": "How can I donate to Önizler Foundation?",
-        "a": "You can make a one-time or recurring donation via the bank details on our Support page, or choose corporate sponsorship or in-kind giving. Every donation is transparently reported."
-      },
-      {
-        "q": "Are my donations tax-deductible?",
-        "a": "Donations to Önizler Foundation may be deducted from income and corporate tax bases within the framework of applicable legislation. A donation receipt is issued upon request."
+        "a": "To make a donation, please reach us through our Contact page; you can choose individual or regular donations, corporate sponsorship or in-kind donations. Every donation is transparently reported."
       },
       {
         "q": "What are the requirements for a scholarship application?",

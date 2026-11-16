@@ -4,8 +4,9 @@ import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
 import Image from "next/image";
 import {
-  Heart, RefreshCw, Building2, Package, Landmark, Receipt, ArrowRight,
+  Heart, RefreshCw, Building2, Package, Landmark, ArrowRight,
 } from "lucide-react";
+import { siteConfig } from "@/config/site";
 import PageHero from "@/components/PageHero";
 import ScrollReveal from "@/components/ScrollReveal";
 
@@ -105,37 +106,30 @@ export default function SupportPage() {
             </div>
           </ScrollReveal>
 
-          {/* Bank Info + Tax */}
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-12">
-            <ScrollReveal direction="left">
-              <div className="bg-navy p-8 relative overflow-hidden h-full">
-                <div className="absolute top-0 left-0 w-full h-[3px] bg-gold-warm" />
-                <div className="w-12 h-12 bg-white/10 flex items-center justify-center mb-4">
-                  <Landmark className="w-6 h-6 text-gold-warm" />
-                </div>
-                <h3 className="text-lg font-extrabold text-white mb-3 tracking-tight">
-                  {t("bank_title")}
-                </h3>
-                <p className="text-white/60 text-sm font-bold mb-4">{t("bank_name")}</p>
-                <div className="space-y-2 text-sm text-white/40">
-                  <p>Ziraat Bankası — TR00 0000 0000 0000 0000 00</p>
-                  <p>Vakıfbank — TR00 0000 0000 0000 0000 00</p>
-                </div>
+          {/* Bank Info */}
+          <ScrollReveal direction="up">
+            <div className="bg-navy p-8 relative overflow-hidden mb-12">
+              <div className="absolute top-0 left-0 w-full h-[3px] bg-gold-warm" />
+              <div className="w-12 h-12 bg-white/10 flex items-center justify-center mb-4">
+                <Landmark className="w-6 h-6 text-gold-warm" />
               </div>
-            </ScrollReveal>
-
-            <ScrollReveal direction="right">
-              <div className="bg-cream p-8 border border-gray-light h-full">
-                <div className="w-12 h-12 bg-white flex items-center justify-center mb-4">
-                  <Receipt className="w-6 h-6 text-gold" />
+              <h3 className="text-lg font-extrabold text-white mb-3 tracking-tight">
+                {t("bank_title")}
+              </h3>
+              <p className="text-white/60 text-sm font-bold mb-4">{t("bank_name")}</p>
+              {siteConfig.bankAccounts.length > 0 ? (
+                <div className="space-y-2 text-sm text-white/70">
+                  {siteConfig.bankAccounts.map((a) => (
+                    <p key={a.iban}>
+                      {a.bank} — {a.iban}
+                    </p>
+                  ))}
                 </div>
-                <h3 className="text-lg font-extrabold text-charcoal mb-3 tracking-tight">
-                  {t("tax_title")}
-                </h3>
-                <p className="text-sm text-charcoal/70 leading-relaxed">{t("tax_text")}</p>
-              </div>
-            </ScrollReveal>
-          </div>
+              ) : (
+                <p className="text-sm text-white/70 leading-relaxed">{t("bank_soon")}</p>
+              )}
+            </div>
+          </ScrollReveal>
 
           {/* CTA Banner */}
           <ScrollReveal direction="fade">
