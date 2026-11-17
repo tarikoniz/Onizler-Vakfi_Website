@@ -26,12 +26,10 @@
     "about_p1": "The Öniz family's generational tradition of solidarity was formalized into an institutional structure in 2026 under the Önizler Foundation.",
     "about_p2": "As a pioneering civil society organization built on knowledge, innovation and sustainability, we operate across 9 activity areas defined in our charter.",
     "about_cta": "Discover Our Vision",
-    "stats_label": "Strategic Focus",
     "areas_label": "Focus Areas",
     "banner_location": "Ankara, Turkiye",
     "banner_text": "Pioneer for Society, Legacy for the Future",
     "join_label": "Join Us",
-    "founder_member": "Focus Areas",
     "est_label": "Ankara — Türkiye",
     "quote_text": "Triggering social development through proactive, scientific and innovative methodologies.",
     "quote_role": "Foundation Vision",
@@ -42,67 +40,62 @@
   },
   "stats": {
     "title": "Our Strategic Focus Areas",
-    "areas": "Focus Areas",
-    "founders": "Trustees",
-    "capital": "Founding Capital",
-    "capital_value": "₺2M"
+    "areas": "Focus Areas"
   },
   "focus_areas": {
     "title": "Our Focus Areas",
-    "subtitle": "We develop, implement, and create sustainable impact across 9 activity areas defined in our charter.",
+    "subtitle": "We aim to develop and implement projects, and create sustainable impact, across the 9 activity areas defined in our charter.",
     "learn_more": "Learn More",
     "cta_title": "Join This Journey",
     "cta_text": "You can contribute as a volunteer in these areas or apply to our scholarship program.",
     "cta_volunteer": "Volunteer",
     "cta_scholarship": "Apply for Scholarship",
     "stats_areas": "Focus Areas",
-    "stats_founders": "Founding Members",
-    "stats_capital": "Capital",
     "areas": {
       "education": {
         "title": "Educational Institutions",
-        "short": "Establishing schools, dormitories, and vocational courses to support education at every level.",
+        "short": "We aim to establish schools, dormitories, and vocational courses to support education at every level.",
         "description": "Education is the most powerful tool for social transformation. We aim to strengthen educational infrastructure by establishing secondary and higher education institutions, vocational courses, and dormitories."
       },
       "scholarship": {
         "title": "Scholarships & Academic Incentives",
-        "short": "Providing scholarships, internships, and professional development opportunities to students in need.",
-        "description": "Every talented student deserves educational opportunity. We organize scholarship programs, internship opportunities, and professional development seminars."
+        "short": "We aim to provide scholarships, internships, and professional development opportunities to students in need.",
+        "description": "Every talented student deserves educational opportunity. We aim to organize scholarship programs, internship opportunities, and professional development seminars."
       },
       "culture": {
         "title": "Culture & Arts",
-        "short": "From festivals and exhibitions to museums and cultural centers — preserving our cultural heritage.",
-        "description": "Culture is the identity of a society. We organize national and international events to preserve, develop, and pass on our tangible and intangible cultural heritage."
+        "short": "From festivals and exhibitions to museums and cultural centers — we aim to keep our cultural heritage alive.",
+        "description": "Culture is the identity of a society. We aim to organize national and international events to preserve, develop, and pass on our tangible and intangible cultural heritage."
       },
       "solidarity": {
         "title": "Social Solidarity",
-        "short": "Providing social support programs, emergency aid, and rehabilitation services to disadvantaged individuals.",
-        "description": "We work to ensure no one is left behind. We develop comprehensive support programs for disadvantaged groups in education, health, housing, and employment."
+        "short": "We aim to provide social support programs, emergency aid, and rehabilitation services to disadvantaged individuals.",
+        "description": "We work to ensure no one is left behind. We aim to develop comprehensive support programs for disadvantaged groups in education, health, housing, and employment."
       },
       "international": {
         "title": "International Partnerships",
-        "short": "Creating global impact through joint projects with the EU, UN, and international organizations.",
-        "description": "We are stronger together. We grow our impact by establishing strategic partnerships with national and international organizations in education, culture, and social solidarity."
+        "short": "We aim to extend our impact globally through joint projects with the EU, UN, and international organizations.",
+        "description": "We are stronger together. We aim to grow our impact by establishing strategic partnerships with national and international organizations in education, culture, and social solidarity."
       },
       "digital": {
         "title": "Digital Education & Technology",
-        "short": "Bringing education into the future with AI, AR/VR, and distance learning platforms.",
+        "short": "We aim to bring education into the future with AI, AR/VR, and distance learning platforms.",
         "description": "In the digital age, education transcends borders. We aim to make education accessible to everyone through distance learning platforms, AI-powered learning environments, and digital libraries."
       },
       "research": {
         "title": "Scientific Research & Publishing",
-        "short": "Contributing to knowledge production and dissemination through conferences, symposia, and publications.",
-        "description": "Scientific research is the foundation of sustainable development. We contribute to knowledge production by supporting research projects, publishing, and organizing scientific events."
+        "short": "We aim to contribute to knowledge production and dissemination through conferences, symposia, and publications.",
+        "description": "Scientific research is the foundation of sustainable development. We aim to contribute to knowledge production by supporting research projects, publishing, and organizing scientific events."
       },
       "social_services": {
         "title": "Social Services",
-        "short": "Supporting the most vulnerable with health screenings, psychosocial support, and vocational rehabilitation.",
-        "description": "Meeting basic human needs is our primary responsibility. We provide comprehensive and sustainable social services to disadvantaged communities."
+        "short": "We aim to support the most vulnerable with health screenings, psychosocial support, and vocational rehabilitation.",
+        "description": "Meeting basic human needs is our primary responsibility. We aim to provide comprehensive and sustainable social services to disadvantaged communities."
       },
       "construction": {
         "title": "Social Infrastructure",
-        "short": "Building cultural centers, sports facilities, ecological parks, and community spaces.",
-        "description": "Physical spaces form the infrastructure of community life. We contribute to social development by building accessible, sustainable, and inclusive social spaces."
+        "short": "We aim to build cultural centers, sports facilities, ecological parks, and community spaces.",
+        "description": "Physical spaces form the infrastructure of community life. We aim to contribute to social development by building accessible, sustainable, and inclusive social spaces."
       }
     },
     "stats_priorities": "Strategic Priorities",
@@ -119,7 +112,7 @@
     "hero_subtitle": "A Family's Word, A Society's Legacy",
     "story_p1": "The Öniz family sought to formalize its generational tradition of solidarity, philanthropy and social responsibility under a new institutional structure.",
     "story_p2": "Brought to life under the leadership of its founder, Merdan Öniz, the foundation carries a generational tradition of solidarity and responsibility into an institutional structure, in the service of society.",
-    "story_p3": "Established for this purpose, ÖNİZLER FOUNDATION gained official status and began its activities upon its announcement in the Turkish Official Gazette No. 33292 on 26 June 2026.",
+    "story_p3": "Established for this purpose, ÖNİZLER FOUNDATION gained official status and began its activities upon its official registration.",
     "story_p4": "Today Önizler Foundation stands as a pioneering civil society organization built on knowledge, innovation and sustainability. It operates across 9 activity areas defined in our charter with proactive, scientific and innovative methodologies.",
     "story_p5": "We believe that individual efforts, transformed into a collective force, create a lasting legacy of social welfare and progress. \"Pioneer for Society, Legacy for the Future\" — Önizler Foundation is the institutional embodiment of this belief.",
     "mission_title": "Our Mission",
@@ -130,7 +123,7 @@
     "values": {
       "transparency": {
         "title": "Transparency",
-        "text": "Every penny is accounted for. Our activity reports, financial statements, and donation details are publicly available."
+        "text": "Every penny is accounted for. We commit to sharing our activity reports, financial statements, and donation details with the public."
       },
       "inclusivity": {
         "title": "Inclusivity",
@@ -146,7 +139,7 @@
       },
       "innovation": {
         "title": "Innovation",
-        "text": "We build the future today by bringing AI, AR/VR and other technologies to education and culture."
+        "text": "We aim to build the future today by bringing AI, AR/VR and other technologies to education and culture."
       },
       "collaboration": {
         "title": "Collaboration",
@@ -162,8 +155,6 @@
     "management_subtitle": "The Executive Board is responsible for carrying out all activities of the foundation.",
     "audit_title": "Audit Committee",
     "audit_subtitle": "The committee responsible for the financial and administrative audit of our foundation.",
-    "legal_title": "Legal Documents",
-    "legal_subtitle": "Access the legal documents that form the basis of our foundation.",
     "label_mission_vision": "Mission & Vision",
     "label_mission": "Mission",
     "label_vision": "Vision",
@@ -172,12 +163,10 @@
     "label_board": "Board of Trustees",
     "label_management": "Executive Board",
     "label_audit": "Audit",
-    "label_founders": "Founders",
     "label_areas": "Areas",
-    "label_capital": "Million ₺",
     "founder_desc_p1": "Under the leadership of Merdan Öniz, our foundation carries forward the family's generational tradition of solidarity and social responsibility under an institutional structure.",
     "founder_desc_p2": "Officially established in 2026, the foundation aims to leave a lasting legacy in science, education and social solidarity — for society and future generations.",
-    "label_est": "Est. 2025 — Ankara",
+    "label_est": "Est. 2026 — Ankara",
     "quote_text": "Individual efforts, transformed into a collective force, create a lasting legacy of social welfare and progress.",
     "quote_attribution": "Önizler Foundation",
     "label_trustees": "Trustees",
@@ -203,9 +192,8 @@
     "inkind_text": "We accept donations of educational materials, clothing, food, equipment, or professional services.",
     "bank_title": "Bank Account Information",
     "bank_name": "ÖNİZLER VAKFI",
-    "tax_title": "Tax Benefits",
-    "tax_text": "Donations to Önizler Foundation are tax-deductible.",
-    "contact_cta": "Contact Us"
+    "contact_cta": "Contact Us",
+    "bank_soon": "Our bank account details will be published on this page soon. Until then, please contact us to make a donation."
   },
   "volunteer": {
     "hero_title": "Volunteer",
@@ -248,8 +236,6 @@
     "form_phone": "Phone",
     "form_city": "City",
     "form_profession": "Profession / Area of Expertise",
-    "form_area": "Volunteer area of interest",
-    "form_time": "Weekly availability",
     "form_motivation": "Why do you want to volunteer?",
     "form_kvkk": "I have read and accept the Privacy Policy.",
     "form_submit": "Submit Application",
@@ -373,11 +359,7 @@
     "coming_soon": "Coming Soon",
     "registration_label": "Official Registration",
     "registration_title": "Foundation's Official Establishment Records",
-    "registration_gazette": "Official Gazette",
-    "registration_court": "Registration Decision",
-    "registration_capital": "Founding Capital",
     "registration_residence": "Residence",
-    "registration_view": "View Official Gazette announcement",
     "banner_text": "Accountability in Every Penny",
     "legal_quote": "The Foundation is required to spend one-third of its gross annual income on administrative expenses and two-thirds on its charitable purposes."
   },
@@ -397,17 +379,17 @@
       {
         "date": "2026-06-26",
         "category": "cat_announcement",
-        "title": "Önizler Foundation Announced in the Official Gazette",
-        "excerpt": "Our foundation was officially announced in the Turkish Official Gazette No. 33292 dated 26 June 2026 by the General Directorate of Foundations, marking the formal beginning of its activities."
+        "title": "Önizler Foundation Gains Official Status",
+        "excerpt": "Our foundation gained official status with the announcement of the General Directorate of Foundations, marking the formal beginning of its activities."
       },
       {
-        "date": "2025-10-15",
+        "date": "2026-07-15",
         "category": "cat_project",
         "title": "Our First Scholarship Program Is Being Prepared",
         "excerpt": "Work has begun on our foundation's first scholarship program. Application details will be announced soon."
       },
       {
-        "date": "2025-11-01",
+        "date": "2026-06-27",
         "category": "cat_event",
         "title": "Our Website Is Live",
         "excerpt": "Our foundation's official website is now live. You can access all information from a single point."
@@ -428,11 +410,10 @@
     "cookies": "Cookie Policy",
     "kvkk": "Data Protection",
     "rights": "All rights reserved.",
-    "notary": "Official Gazette: 26.06.2026 — No: 33292",
     "made_by": "Designed & Developed by"
   },
   "cookie": {
-    "text": "This website uses cookies to improve your experience. By continuing to use the site, you agree to our use of cookies.",
+    "text": "This website uses cookies to improve your experience. Analytics cookies are used only if you give your consent.",
     "link": "Cookie Policy",
     "accept": "Accept",
     "decline": "Decline"
@@ -448,11 +429,7 @@
     "items": [
       {
         "q": "How can I donate to Önizler Foundation?",
-        "a": "You can make a one-time or recurring donation via the bank details on our Support page, or choose corporate sponsorship or in-kind giving. Every donation is transparently reported."
-      },
-      {
-        "q": "Are my donations tax-deductible?",
-        "a": "Donations to Önizler Foundation may be deducted from income and corporate tax bases within the framework of applicable legislation. A donation receipt is issued upon request."
+        "a": "To make a donation, please reach us through our Contact page; you can choose individual or regular donations, corporate sponsorship or in-kind donations. Every donation is transparently reported."
       },
       {
         "q": "What are the requirements for a scholarship application?",

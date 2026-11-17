@@ -61,6 +61,13 @@ export const siteConfig = {
   },
 
   /**
+   * Bağış için banka hesapları.
+   * Liste boşsa Destek Ol sayfasında IBAN yerine "yakında" notu gösterilir.
+   * Örn: { bank: "Ziraat Bankası", iban: "TR.. .... .... .... .... .... .." }
+   */
+  bankAccounts: [] as { bank: string; iban: string }[],
+
+  /**
    * Şeffaflık — indirilebilir belge/raporlar.
    * PDF'leri public/belgeler/ klasörüne koy, buraya ekle.
    * Liste boşsa Şeffaflık sayfasında "yakında" durumu gösterilir.

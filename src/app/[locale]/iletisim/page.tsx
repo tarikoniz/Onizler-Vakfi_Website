@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { siteConfig, hasRealPhone } from "@/config/site";
 import { useTranslations } from "next-intl";
 import { MapPin, Phone, Mail, CheckCircle2, Send } from "lucide-react";
 import PageHero from "@/components/PageHero";
@@ -54,17 +55,19 @@ export default function ContactPage() {
                         <p className="text-sm text-charcoal/50 mt-1 group-hover:text-charcoal transition-colors">{t("address")}</p>
                       </div>
                     </a>
-                    <div className="flex items-center gap-3">
-                      <div className="w-10 h-10 bg-white flex items-center justify-center flex-shrink-0">
-                        <Phone className="w-5 h-5 text-gold" />
+                    {hasRealPhone && (
+                      <div className="flex items-center gap-3">
+                        <div className="w-10 h-10 bg-white flex items-center justify-center flex-shrink-0">
+                          <Phone className="w-5 h-5 text-gold" />
+                        </div>
+                        <div>
+                          <h3 className="font-bold text-charcoal text-sm uppercase tracking-wider">
+                            {t("phone")}
+                          </h3>
+                          <p className="text-sm text-charcoal/50">{siteConfig.contact.phone}</p>
+                        </div>
                       </div>
-                      <div>
-                        <h3 className="font-bold text-charcoal text-sm uppercase tracking-wider">
-                          {t("phone")}
-                        </h3>
-                        <p className="text-sm text-charcoal/50">+90 (312) 000 00 00</p>
-                      </div>
-                    </div>
+                    )}
                     <div className="flex items-center gap-3">
                       <div className="w-10 h-10 bg-white flex items-center justify-center flex-shrink-0">
                         <Mail className="w-5 h-5 text-gold" />
